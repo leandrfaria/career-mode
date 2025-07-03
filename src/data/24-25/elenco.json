@@ -1,0 +1,260 @@
+{
+  "temporada": "2024/2025",
+  "elenco": {
+    "goleiros": [
+      {
+        "nome": "Weverton",
+        "imagem": "/assets/img/jogadores/weverton.jpg",
+        "descricao": "",
+        "overall": 83,
+        "idade": 26,
+        "posicao": "Goleiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "1"
+      }
+    ],
+    "defensores": [
+      {
+        "nome": "J. Piquerez",
+        "imagem": "/assets/img/jogadores/piquerez.jpg",
+        "descricao": "Joaquin Piquerez",
+        "overall": 79,
+        "idade": 24,
+        "posicao": "Lateral Esquerdo",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Uruguai",
+        "numero": "2"
+      },
+      {
+        "nome": "J. Vergara",
+        "imagem": "/assets/img/jogadores/vergara.jpg",
+        "descricao": "Julio Vergara",
+        "overall": 74,
+        "idade": 32,
+        "posicao": "Lateral Esquerdo",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Argentina",
+        "numero": "27"
+      },
+      {
+        "nome": "Gomez",
+        "imagem": "/assets/img/jogadores/gomez.jpg",
+        "descricao": "",
+        "overall": 81,
+        "idade": 28,
+        "posicao": "Zagueiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Paraguai",
+        "numero": "4"
+      },
+      {
+        "nome": "P. Muir",
+        "imagem": "/assets/img/jogadores/muir.jpg",
+        "descricao": "Patrick Muir",
+        "overall": 79,
+        "idade": 31,
+        "posicao": "Zagueiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Escócia",
+        "numero": "12"
+      },
+      {
+        "nome": "Giay",
+        "imagem": "/assets/img/jogadores/giay.jpg",
+        "descricao": "",
+        "overall": 75,
+        "idade": 20,
+        "posicao": "Lateral Direito",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Argentina",
+        "numero": "5"
+      },
+      {
+        "nome": "M. Saez",
+        "imagem": "/assets/img/jogadores/saez.jpg",
+        "descricao": "Miguel Saez",
+        "overall": 77,
+        "idade": 24,
+        "posicao": "Lateral Direito",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Colômbia",
+        "numero": "6"
+      }
+    ],
+    "meioCampistas": [
+      {
+        "nome": "H. Cairns",
+        "imagem": "/assets/img/jogadores/cairns.jpg",
+        "descricao": "Hugo Cairns",
+        "overall": 68,
+        "idade": 23,
+        "posicao": "Volante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Inglaterra",
+        "numero": "8"
+      },
+      {
+        "nome": "Danilo",
+        "imagem": "/assets/img/jogadores/danilo.jpg",
+        "descricao": "",
+        "overall": 76,
+        "idade": 23,
+        "posicao": "Meia Central",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "23"
+      },
+      {
+        "nome": "D. Moya",
+        "imagem": "/assets/img/jogadores/moya.jpg",
+        "descricao": "Domingo Moya",
+        "overall": 60,
+        "idade": 16,
+        "posicao": "Meia Central",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "México",
+        "numero": "16"
+      },
+      {
+        "nome": "Luis Guilherme",
+        "imagem": "/assets/img/jogadores/luisguilherme.jpg",
+        "descricao": "",
+        "overall": 71,
+        "idade": 19,
+        "posicao": "Meia Central",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "18"
+      },
+      {
+        "nome": "Mauricio",
+        "imagem": "/assets/img/jogadores/mauricio.jpg",
+        "descricao": "",
+        "overall": 76,
+        "idade": 21,
+        "posicao": "Meia Atacante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "10"
+      },
+      {
+        "nome": "R. Roberts",
+        "imagem": "/assets/img/jogadores/roberts.jpg",
+        "descricao": "Reuben Roberts",
+        "overall": 64,
+        "idade": 17,
+        "posicao": "Meia Atacante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Inglaterra",
+        "numero": "17"
+      }
+    ],
+    "atacantes": [
+      {
+        "nome": "Kevin",
+        "imagem": "/assets/img/jogadores/kevin.jpg",
+        "descricao": "",
+        "overall": 70,
+        "idade": 21,
+        "posicao": "Ponta Esquerda",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "7"
+      },
+      {
+        "nome": "Leandro",
+        "imagem": "/assets/img/jogadores/leandro.jpg",
+        "descricao": "Leandro Gabriel",
+        "overall": 77,
+        "idade": 19,
+        "posicao": "Ponta Esquerda",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "3"
+      },
+      {
+        "nome": "Estevão",
+        "imagem": "/assets/img/jogadores/estevao.jpg",
+        "descricao": "",
+        "overall": 75,
+        "idade": 19,
+        "posicao": "Ponta Direita",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "41"
+      },
+      {
+        "nome": "S. Bolton",
+        "imagem": "/assets/img/jogadores/bolton.jpg",
+        "descricao": "Stanley Bolton",
+        "overall": 59,
+        "idade": 16,
+        "posicao": "Ponta Direita",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Inglaterra",
+        "numero": "21"
+      },
+      {
+        "nome": "Endrick",
+        "imagem": "/assets/img/jogadores/endrick.jpg",
+        "descricao": "",
+        "overall": 77,
+        "idade": 18,
+        "posicao": "Centroavante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "9"
+      },
+      {
+        "nome": "V. Roque",
+        "imagem": "/assets/img/jogadores/vitorroque.jpg",
+        "descricao": "Vitor Roque",
+        "overall": 76,
+        "idade": 19,
+        "posicao": "Centroavante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Brasil",
+        "numero": "11"
+      }
+    ]
+  }
+}
