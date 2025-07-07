@@ -13,7 +13,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "1"
+        "numero": "1",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       }
     ],
     "defensores": [
@@ -28,7 +31,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Uruguai",
-        "numero": "2"
+        "numero": "2",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 73
       },
       {
         "nome": "J. Vergara",
@@ -41,7 +47,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Argentina",
-        "numero": "27"
+        "numero": "27",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 20
       },
       {
         "nome": "Gomez",
@@ -54,7 +63,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Paraguai",
-        "numero": "4"
+        "numero": "4",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 73
       },
       {
         "nome": "P. Muir",
@@ -67,7 +79,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Escócia",
-        "numero": "12"
+        "numero": "12",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       },
       {
         "nome": "Giay",
@@ -80,7 +95,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Argentina",
-        "numero": "5"
+        "numero": "5",
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       },
       {
         "nome": "M. Saez",
@@ -93,7 +111,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Colômbia",
-        "numero": "6"
+        "numero": "6",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 20
       }
     ],
     "meioCampistas": [
@@ -108,7 +129,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Inglaterra",
-        "numero": "8"
+        "numero": "8",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 0
       },
       {
         "nome": "Danilo",
@@ -121,7 +145,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "23"
+        "numero": "23",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       },
       {
         "nome": "D. Moya",
@@ -134,7 +161,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "México",
-        "numero": "16"
+        "numero": "16",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 0
       },
       {
         "nome": "Luis Guilherme",
@@ -147,7 +177,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "18"
+        "numero": "18",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       },
       {
         "nome": "Mauricio",
@@ -160,7 +193,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "10"
+        "numero": "10",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 73
       },
       {
         "nome": "R. Roberts",
@@ -169,11 +205,14 @@
         "overall": 64,
         "idade": 17,
         "posicao": "Meia Atacante",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Inglaterra",
-        "numero": "17"
+        "numero": "17",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 20
       }
     ],
     "atacantes": [
@@ -188,7 +227,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "7"
+        "numero": "7",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 20
       },
       {
         "nome": "Leandro",
@@ -201,7 +243,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "3"
+        "numero": "3",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 73
       },
       {
         "nome": "Estevão",
@@ -214,7 +259,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "41"
+        "numero": "41",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 93
       },
       {
         "nome": "S. Bolton",
@@ -227,7 +275,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Inglaterra",
-        "numero": "21"
+        "numero": "21",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 0
       },
       {
         "nome": "Endrick",
@@ -240,7 +291,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "9"
+        "numero": "9",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 73
       },
       {
         "nome": "V. Roque",
@@ -253,7 +307,10 @@
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
-        "numero": "11"
+        "numero": "11",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 20
       }
     ]
   }

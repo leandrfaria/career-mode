@@ -12,3 +12,33 @@ body {
   color: var(--color-gray);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+:root {
+  --player-name-width: 100px; /* Ajuste este valor conforme a largura máxima esperada para os nomes dos jogadores */
+}
+
+/* Estilo para navegadores baseados em Webkit (Chrome, Safari, Edge) */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 10px; /* Largura da scrollbar vertical */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #1e1e1e; /* Fundo do modal (preto mais claro) */
+  border-radius: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #1a5135; /* Verde um pouco mais claro que o anterior */
+  border-radius: 5px;
+  border: 2px solid #1e1e1e; /* Borda para combinar com o track */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #2b704c; /* Uma tonalidade ainda mais clara no hover */
+}
+
+/* Estilo para navegadores Firefox */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #1a5135 #1e1e1e; /* Cor do "polegar" e cor da trilha */
+}

@@ -4,27 +4,42 @@
       {
         "data": "2024-08-17",
         "adversario": "Liverpool",
-        "placar": "x-x",
+        "placar": "1-1",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Roberts 76'"],
+        "assistenciasTime": [""],
+        "golsAdversario": ["Diogo Jota 87'"],
+        "jogadoresAmarelados": ["Giay"],
+        "jogadoresExpulsos": ["Mac Allister"],
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Leandro",
+            "entrou": "Kevin",
+            "minuto": 73
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 73
+          },
+          {
+            "saiu": "Mauricio",
+            "entrou": "Roberts",
+            "minuto": 73
+          },
+          {
+            "saiu": "Gomez",
+            "entrou": "Saez",
+            "minuto": 73
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 73
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [1,2,3,4],
+        "descricaoPartida": "Na estreia da temporada, o Palestra Itália empatou em 1x1 com o Liverpool, em um jogo equilibrado, intenso e com um desfecho frustrante. Com 50% de posse para cada lado, os ingleses foram mais ofensivos, com 9 finalizações contra 6, exigindo grandes defesas do goleiro palestrino e boas intervenções da zaga. O gol do Palestra saiu aos 76 minutos, com Roberts, que havia acabado de entrar. Ele aproveitou uma sobra de escanteio e contou com um desvio em Endo para abrir o placar. Pouco depois, Estevão quase ampliou com um chute que raspou a trave. Porém, nos minutos finais, Alisson lançou longo, Salah dominou e serviu Diogo Jota, que finalizou rasteiro para empatar: 1x1. O resultado deixou um gosto amargo no elenco, que buscava a vitória. “A temporada está só começando”, disse o técnico Frank Ocean. Destaques do jogo: Danilo liderou os passes e Roberts foi o melhor do Palestra. Salah foi eleito o craque da partida. Giay levou amarelo por falta tática e Mac Allister foi expulso por carrinho em Mauricio. O Palestra sai com um ponto, mas mostrou força e organização diante de um adversário poderoso. A estreia deixou boas impressões para o que vem pela frente.",
         "logoTime": "/assets/img/times/liverpool.png"
       },
       {
@@ -1020,7 +1035,7 @@
     },
     "jogadores": {
       "jogador_1": {
-        "nome": "Endrick",
+        "nome": "Roberts",
         "gols": 0,
         "assistencias": 0,
         "jogos": 0,

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "autor": "Globo Esporte",
+    "titulo": "Frank Ocean pede calma após empate na estreia",
+    "descricao": "Após o empate em 1x1 com o Liverpool, o técnico Frank Ocean comentou que, apesar da frustração pelo resultado, a temporada está apenas começando e é preciso pensar no longo prazo.",
+    "data": "2024-08-18",
+    "destaque": true,
+    "imageUrl": ""
+  },
+  {
+    "id": "2",
+    "autor": "TNT Sports",
+    "titulo": "Salah brilha e é eleito o melhor em campo",
+    "descricao": "Com grande atuação e participação direta no gol de empate, Mohamed Salah foi escolhido o melhor jogador em campo no duelo contra o Palestra Itália.",
+    "data": "2024-08-18",
+    "destaque": false,
+    "imageUrl": ""
+  },
+  {
+    "id": "3",
+    "autor": "ESPN",
+    "titulo": "Diogo Jota salva o Liverpool nos acréscimos",
+    "descricao": "Quando a vitória do Palestra Itália parecia certa, Diogo Jota apareceu nos minutos finais para empatar e garantir um ponto para o Liverpool em um jogo dramático.",
+    "data": "2024-08-18",
+    "destaque": false,
+    "imageUrl": ""
+  },
+  {
+    "id": "4",
+    "autor": "UOL Esporte",
+    "titulo": "Empate deixa clima de frustração no vestiário do Palestra",
+    "descricao": "O empate com o Liverpool não foi bem recebido no vestiário do Palestra Itália. Jogadores saíram decepcionados e prometem mais entrega nos próximos jogos.",
+    "data": "2024-08-19",
+    "destaque": false,
+    "imageUrl": ""
+  }
+]

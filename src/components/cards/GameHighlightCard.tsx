@@ -28,6 +28,17 @@ export function GameHighlightCard({
   score,
   local,
 }: GameHighlightCardProps) {
+  const isGamePlayed = score && score.includes('-');
+
+  let homeScore: string | undefined;
+  let awayScore: string | undefined;
+
+  if (isGamePlayed) {
+    const scores = score.split('-');
+    homeScore = scores[0];
+    awayScore = scores[1];
+  }
+
   return (
     <div className="bg-[#1e1e1e] text-white rounded-2xl px-10 py-6 w-full max-w-xl shadow-lg">
       {/* Top row: Title + Date/Location */}
@@ -45,7 +56,7 @@ export function GameHighlightCard({
 
       {/* Center row: Teams and Score */}
       <div className="grid grid-cols-3 items-center text-center">
-        {/* Time 1 */}
+        {/* Time 1 (Palestra Italia) */}
         <div className="flex flex-col items-center gap-2 truncate">
           <div className="w-14 h-14">
             <img
@@ -57,10 +68,18 @@ export function GameHighlightCard({
           <span className="text-lg font-bold truncate max-w-[120px]">Palestra Italia</span>
         </div>
 
-        {/* Placar */}
-        <div className="text-2xl font-bold text-gray-200">x</div>
+        {/* Placar ou "x" */}
+        <div className="text-center">
+          {isGamePlayed ? (
+            <p className="text-4xl font-extrabold text-white leading-none"> {/* Alterado de text-5xl para text-4xl */}
+              {homeScore} <span className="text-gray-400 text-3xl mx-0.5">x</span> {awayScore} {/* Alterado de text-4xl para text-3xl */}
+            </p>
+          ) : (
+            <div className="text-2xl font-bold text-gray-200">x</div>
+          )}
+        </div>
 
-        {/* Time 2 */}
+        {/* Time 2 (Adversário) */}
         <div className="flex flex-col items-center gap-2 truncate">
           <div className="w-14 h-14">
             <img

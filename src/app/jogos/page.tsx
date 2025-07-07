@@ -1,3 +1,4 @@
+// app/jogos/page.tsx
 'use client'
 
 import { useEffect, useState } from 'react'
@@ -5,7 +6,9 @@ import { ChampionshipTabs } from '@/components/ChampionshipTabs'
 import { GameHighlightCard } from '@/components/cards/GameHighlightCard'
 import { MonthSection } from '@/components/MonthSection'
 import Header from '@/components/Header'
+import { GameDetailsModal } from '@/components/GameDetailsModal'; // Certifique-se de que o caminho está correto
 
+// Interfaces completas para os tipos de dados
 type Game = {
   data: string
   adversario: string
@@ -14,7 +17,20 @@ type Game = {
   local?: string
   golsTime?: string[]
   golsAdversario?: string[]
+  jogadoresAmarelados?: string[]
   jogadoresExpulsos?: string[]
+  substituicoesTime?: Array<{ saiu: string; entrou: string; minuto: number }>
+  noticiasRelacionadas?: number[]
+  descricaoPartida?: string
+}
+
+type NewsItem = {
+  id: string;
+  autor: string;
+  titulo: string;
+  descricao: string;
+  data: string;
+  destaque: boolean;
 }
 
 type ChampionshipData = {
@@ -33,25 +49,53 @@ export default function JogosPage() {
   const [lastGame, setLastGame] = useState<Game | null>(null)
   const [nextGame, setNextGame] = useState<Game | null>(null)
 
+  // ESTADOS E FUNÇÕES PARA O MODAL
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
+  const [allNews, setAllNews] = useState<NewsItem[]>([]); // Estado para todas as notícias
+
+  const openModal = (game: Game) => {
+    setSelectedGame(game);
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setSelectedGame(null);
+  };
+  // FIM DOS ESTADOS E FUNÇÕES PARA O MODAL
+
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(`/data/24-25/${championshipFiles[selectedChampionship]}`)
-        const json: ChampionshipData = await res.json()
-        const calendario = json.calendario
+        // Carregar dados dos jogos
+        const resGames = await fetch(`/data/24-25/${championshipFiles[selectedChampionship]}`)
+        const jsonGames: ChampionshipData = await resGames.json()
+        const calendario = jsonGames.calendario
         setGames(calendario)
 
         const all = Object.values(calendario).flat()
-        const realizados = all.filter(j => /\d+\s*-\s*\d+/.test(j.placar))
-        const futuros = all.filter(j => !/\d+\s*-\s*\d+/.test(j.placar))
+
+        const realizados = all.filter(j => j.placar !== 'x-x')
+        const futuros = all.filter(j => j.placar === 'x-x')
+
+        realizados.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
+        futuros.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
 
         setLastGame(realizados.at(-1) ?? null)
         setNextGame(futuros[0] ?? null)
+
+        // Carregar dados das notícias
+        const resNews = await fetch('/data/24-25/noticias.json');
+        const jsonNews: NewsItem[] = await resNews.json();
+        setAllNews(jsonNews);
+
       } catch (err) {
         console.error('Erro ao carregar JSON:', err)
         setGames({})
         setLastGame(null)
         setNextGame(null)
+        setAllNews([]);
       }
     }
 
@@ -84,6 +128,7 @@ export default function JogosPage() {
                   competition={selectedChampionship}
                   logoUrl={lastGame.logoTime}
                   score={lastGame.placar}
+                  local={lastGame.local}
                 />
               )}
               {nextGame && (
@@ -101,11 +146,11 @@ export default function JogosPage() {
             <p className="text-center text-gray-400 mb-10">Datas ainda não confirmadas.</p>
           )}
 
-          {Object.entries(games).map(([month, games]) => (
+          {Object.entries(games).map(([month, monthGames]) => (
             <MonthSection
               key={month}
               month={month}
-              games={games.map((j) => ({
+              games={monthGames.map((j) => ({
                 team: j.adversario,
                 date: j.data,
                 competition: selectedChampionship,
@@ -115,11 +160,23 @@ export default function JogosPage() {
                 golsTime: j.golsTime,
                 golsAdversario: j.golsAdversario,
                 jogadoresExpulsos: j.jogadoresExpulsos,
+                // INJETANDO OS DADOS COMPLETOS E A FUNÇÃO DE CLIQUE AQUI
+                descricaoPartida: j.descricaoPartida, // <-- Garante que a descrição é passada
+                noticiasRelacionadas: j.noticiasRelacionadas, // <-- Garante que as notícias relacionadas são passadas
+                onClick: () => openModal(j), // <-- AQUI É ONDE A FUNÇÃO openModal É ATRIBUÍDA
               }))}
             />
           ))}
         </main>
       </div>
+
+      {/* RENDERIZAÇÃO CONDICIONAL DO MODAL */}
+      <GameDetailsModal
+        isOpen={isModalOpen}
+        onClose={closeModal}
+        game={selectedGame}
+        allNews={allNews} // Passa todas as notícias para o modal
+      />
     </div>
   )
 }
