@@ -1,0 +1,1040 @@
+{
+  "calendario": {
+    "Agosto": [
+      {
+        "data": "2024-08-17",
+        "adversario": "Liverpool",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/liverpool.png"
+      },
+      {
+        "data": "2024-08-24",
+        "adversario": "Manchester City",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/city.png"
+      },
+      {
+        "data": "2024-08-31",
+        "adversario": "Fulham",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/fulham.png"
+      }
+    ],
+    "Setembro": [
+      {
+        "data": "2024-09-14",
+        "adversario": "Brighton",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/brighton.png"
+      },
+      {
+        "data": "2024-09-21",
+        "adversario": "Southampton",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/southampton.png"
+      },
+      {
+        "data": "2024-09-29",
+        "adversario": "Aston Villa",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/astonvilla.png"
+      }
+    ],
+    "Outubro": [
+      {
+        "data": "2024-10-06",
+        "adversario": "West Ham",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/westham.png"
+      },
+      {
+        "data": "2024-10-19",
+        "adversario": "Everton",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/everton.png"
+      },
+      {
+        "data": "2024-10-26",
+        "adversario": "Brentford",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/brentford.png"
+      }
+    ],
+    "Novembro": [
+      {
+        "data": "2024-11-02",
+        "adversario": "Leicester",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/leicester.png"
+      },
+      {
+        "data": "2024-11-10",
+        "adversario": "Tottenham Spurs",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/tottenham.png"
+      },
+      {
+        "data": "2024-11-24",
+        "adversario": "Manchester United",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/united.png"
+      },
+      {
+        "data": "2024-11-30",
+        "adversario": "Nottingham Forest",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/forest.png"
+      }
+    ],
+    "Dezembro": [
+      {
+        "data": "2024-12-03",
+        "adversario": "Crystal Palace",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/crystalpalace.png"
+      },
+      {
+        "data": "2024-12-07",
+        "adversario": "Bournemouth",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/bournemouth.png"
+      },
+      {
+        "data": "2024-12-14",
+        "adversario": "Wolverhampton",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/wolverhampton.png"
+      },
+      {
+        "data": "2024-12-21",
+        "adversario": "Newcastle United",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/newcastle.png"
+      },
+      {
+        "data": "2024-12-26",
+        "adversario": "Arsenal",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/arsneal.png"
+      },
+      {
+        "data": "2024-12-29",
+        "adversario": "Chelsea",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/chelsea.png"
+      }
+    ],
+    "Janeiro": [
+        {
+        "data": "2024-01-04",
+        "adversario": "Fulham",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/fulham.png"
+      },
+        {
+        "data": "2024-01-16",
+        "adversario": "Brighton",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/brighton.png"
+      },
+        {
+        "data": "2024-01-19",
+        "adversario": "Manchester City",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/city.png"
+      },
+        {
+        "data": "2024-01-25",
+        "adversario": "Liverpool",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/liverpool.png"
+      }
+    ],
+    "Fevereiro": [
+        {
+        "data": "2024-02-01",
+        "adversario": "Southampton",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/southampton.png"
+      },
+        {
+        "data": "2024-02-15",
+        "adversario": "Aston Villa",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/astonvilla.png"
+      },
+        {
+        "data": "2024-02-22",
+        "adversario": "Tottenham Spurs",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/tottenham.png"
+      },
+        {
+        "data": "2024-02-27",
+        "adversario": "Manchester United",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/united.png"
+      }
+    ],
+    "Março": [
+        {
+        "data": "2024-03-08",
+        "adversario": "Crystal Palace",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/crystalpalace.png"
+      },
+        {
+        "data": "2024-03-15",
+        "adversario": "Nottingham Forest",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/forest.png"
+      }
+    ],
+    "Abril": [
+        {
+        "data": "2024-04-02",
+        "adversario": "Bournemouth",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/bournemouth.png"
+      },
+        {
+        "data": "2024-04-05",
+        "adversario": "Wolverhampton",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/wolverhampton.png"
+      },
+        {
+        "data": "2024-04-11",
+        "adversario": "Chelsea",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/chelsea.png"
+      },
+        {
+        "data": "2024-04-19",
+        "adversario": "Arsenal",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/arsneal.png"
+      },
+        {
+        "data": "2024-04-26",
+        "adversario": "Newcastle United",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/newcastle.png"
+      }
+    ],
+    "Maio": [
+     {
+        "data": "2024-05-03",
+        "adversario": "Everton",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/everton.png"
+      },
+     {
+        "data": "2024-05-10",
+        "adversario": "Brentford",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/brentford.png"
+      },
+     {
+        "data": "2024-05-19",
+        "adversario": "Leicester",
+        "placar": "x-x",
+        "local": "Fora",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/leicester.png"
+      },
+     {
+        "data": "2024-05-25",
+        "adversario": "West Ham",
+        "placar": "x-x",
+        "local": "Casa",
+        "golsTime": ["Jogador x", "Jogador y"],
+        "assistenciasTime": ["Jogador x", "Jogador y"],
+        "golsAdversario": ["Jogador x", "Jogador y"],
+        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
+        "jogadoresExpulsos": ["jogador_7"],
+        "substituicoesTime": [
+          {
+            "saiu": "jogador_9",
+            "entrou": "jogador_15",
+            "minuto": 60
+          },
+          {
+            "saiu": "jogador_11",
+            "entrou": "jogador_16",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [101, 102],
+        "descricaoPartida": "",
+        "logoTime": "/assets/img/times/westham.png"
+      }
+    ]
+  },
+  "estatisticas": {
+    "time": {
+      "jogos": 0,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "golsMarcados": 0,
+      "golsSofridos": 0
+    },
+    "jogadores": {
+      "jogador_1": {
+        "nome": "Endrick",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0
+      },
+      "jogador_2": {
+        "nome": "Veiga",
+        "gols": 0,
+        "assistencias": 1,
+        "jogos": 0,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0
+      }
+    }
+  }
+}
