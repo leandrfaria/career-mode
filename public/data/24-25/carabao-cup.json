@@ -1,0 +1,63 @@
+{
+  "calendario": {
+    "Agosto": [
+      {
+        "data": "2024-08-28",
+        "adversario": "Watford",
+        "placar": "4-5",
+        "local": "Casa",
+        "golsTime": ["Mauricio 35'"],
+        "assistenciasTime": [""],
+        "golsAdversario": ["Semedo 72'"],
+        "jogadoresAmarelados": [""],
+        "jogadoresExpulsos": [""],
+        "craquePartida": "Mauricio",
+        "substituicoesTime": [
+          {
+            "saiu": "Kevin",
+            "entrou": "Estevão",
+            "minuto": 76
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Vergara",
+            "minuto": 76
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Saez",
+            "minuto": 76
+          },
+          {
+            "saiu": "Luis Guilherme",
+            "entrou": "Roberts",
+            "minuto": 76
+          }
+        ],
+        "noticiasRelacionadas": [11,12],
+        "descricaoPartida": "Em uma atuação abaixo do esperado, o Palestra Itália foi eliminado pelo Watford na primeira fase da Carabao Cup após empate em 1x1 no tempo normal e derrota por 5x4 nos pênaltis. Dominado na maior parte do jogo, o Palestra teve apenas 42% de posse, contra 58% do Watford, que também finalizou mais: 8 contra 4. Maurício, eleito craque da partida, abriu o placar aos 35 minutos do primeiro tempo, mas o Watford empatou aos 72. Após sofrer o gol, o Palestra até cresceu em volume, mas não conseguiu converter as chances. Nos pênaltis, o time converteu todas as cobranças até a última, quando Maurício acertou a trave. Na prorrogação das penalidades, Giay teve sua cobrança defendida, e o Watford converteu, selando a eliminação. O atacante Endrick teve desempenho discreto novamente, enquanto o zagueiro Muir foi apontado como o pior em campo. Uma eliminação dolorosa, marcada por falhas defensivas e um futebol aquém do esperado.",
+        "logoTime": "/assets/img/times/watford.png"
+      }
+    ]
+  },
+  "estatisticas": {
+    "time": {
+      "jogos": 1,
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 1,
+      "golsMarcados": 1,
+      "golsSofridos": 1
+    },
+    "jogadores": {
+      "Roberts": {
+        "nome": "Mauricio",
+        "gols": 1,
+        "assistencias": 0,
+        "jogos": 0,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0
+      }
+    }
+  }
+}

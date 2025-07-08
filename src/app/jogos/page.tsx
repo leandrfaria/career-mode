@@ -1,4 +1,3 @@
-// app/jogos/page.tsx
 'use client'
 
 import { useEffect, useState } from 'react'
@@ -6,7 +5,7 @@ import { ChampionshipTabs } from '@/components/ChampionshipTabs'
 import { GameHighlightCard } from '@/components/cards/GameHighlightCard'
 import { MonthSection } from '@/components/MonthSection'
 import Header from '@/components/Header'
-import { GameDetailsModal } from '@/components/GameDetailsModal'; // Certifique-se de que o caminho está correto
+import { GameDetailsModal } from '@/components/GameDetailsModal';
 
 // Interfaces completas para os tipos de dados
 type Game = {
@@ -19,6 +18,7 @@ type Game = {
   golsAdversario?: string[]
   jogadoresAmarelados?: string[]
   jogadoresExpulsos?: string[]
+  craquePartida?: string;
   substituicoesTime?: Array<{ saiu: string; entrou: string; minuto: number }>
   noticiasRelacionadas?: number[]
   descricaoPartida?: string
@@ -37,6 +37,22 @@ type ChampionshipData = {
   calendario: Record<string, Game[]>
 }
 
+type Player = {
+  nome: string;
+  // ... outras propriedades do jogador
+}
+
+type ElencoData = {
+  temporada: string;
+  elenco: {
+    goleiros: Player[];
+    defensores: Player[];
+    meioCampistas: Player[];
+    atacantes: Player[];
+  };
+}
+
+
 const championshipFiles: Record<string, string> = {
   'Premier League': 'premier-league.json',
   'Copa da Inglaterra': 'copa-da-inglaterra.json',
@@ -49,10 +65,10 @@ export default function JogosPage() {
   const [lastGame, setLastGame] = useState<Game | null>(null)
   const [nextGame, setNextGame] = useState<Game | null>(null)
 
-  // ESTADOS E FUNÇÕES PARA O MODAL
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedGame, setSelectedGame] = useState<Game | null>(null);
-  const [allNews, setAllNews] = useState<NewsItem[]>([]); // Estado para todas as notícias
+  const [allNews, setAllNews] = useState<NewsItem[]>([]);
+  const [palestraPlayers, setPalestraPlayers] = useState<string[]>([]);
 
   const openModal = (game: Game) => {
     setSelectedGame(game);
@@ -63,12 +79,10 @@ export default function JogosPage() {
     setIsModalOpen(false);
     setSelectedGame(null);
   };
-  // FIM DOS ESTADOS E FUNÇÕES PARA O MODAL
 
   useEffect(() => {
     async function fetchData() {
       try {
-        // Carregar dados dos jogos
         const resGames = await fetch(`/data/24-25/${championshipFiles[selectedChampionship]}`)
         const jsonGames: ChampionshipData = await resGames.json()
         const calendario = jsonGames.calendario
@@ -80,15 +94,58 @@ export default function JogosPage() {
         const futuros = all.filter(j => j.placar === 'x-x')
 
         realizados.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
-        futuros.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
 
         setLastGame(realizados.at(-1) ?? null)
-        setNextGame(futuros[0] ?? null)
 
-        // Carregar dados das notícias
+        // --- LÓGICA PARA DETERMINAR O PRÓXIMO JOGO CORRETAMENTE ---
+        // Para fins de demonstração com os dados de 2024, vamos simular a data atual
+        // Se você estiver usando dados com anos mais recentes, pode mudar para:
+        // const now = new Date();
+        const now = new Date('2024-08-01T00:00:00'); // Simula a data como 1º de Agosto de 2024
+        now.setHours(0, 0, 0, 0); // Zera as horas para comparar apenas o dia
+
+        const trulyFutureGames = futuros.filter(game => {
+          const gameDate = new Date(game.data);
+          gameDate.setHours(0, 0, 0, 0);
+          return gameDate.getTime() >= now.getTime();
+        });
+
+        trulyFutureGames.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
+
+        setNextGame(trulyFutureGames[0] ?? null);
+        // --- FIM DA LÓGICA PARA DETERMINAR O PRÓXIMO JOGO CORRETAMENTE ---
+
         const resNews = await fetch('/data/24-25/noticias.json');
         const jsonNews: NewsItem[] = await resNews.json();
         setAllNews(jsonNews);
+
+        const resElenco = await fetch('/data/24-25/elenco.json');
+        const jsonElenco: ElencoData = await resElenco.json();
+
+        const normalizedPalestraNames = new Set<string>();
+        [
+          ...jsonElenco.elenco.goleiros,
+          ...jsonElenco.elenco.defensores,
+          ...jsonElenco.elenco.meioCampistas,
+          ...jsonElenco.elenco.atacantes,
+        ].forEach(player => {
+          const name = player.nome.trim();
+          normalizedPalestraNames.add(name);
+
+          const parts = name.split(' ');
+          if (parts.length > 0) {
+            normalizedPalestraNames.add(parts[0].trim());
+          }
+
+          if (parts.length > 1) {
+            normalizedPalestraNames.add(parts[parts.length - 1].trim());
+          }
+
+          if (parts.length > 1 && parts[0].endsWith('.')) {
+              normalizedPalestraNames.add(parts.slice(1).join(' ').trim());
+          }
+        });
+        setPalestraPlayers(Array.from(normalizedPalestraNames));
 
       } catch (err) {
         console.error('Erro ao carregar JSON:', err)
@@ -96,6 +153,7 @@ export default function JogosPage() {
         setLastGame(null)
         setNextGame(null)
         setAllNews([]);
+        setPalestraPlayers([]);
       }
     }
 
@@ -104,11 +162,9 @@ export default function JogosPage() {
 
   return (
     <div className="relative min-h-screen text-white">
-      {/* Fundo com imagem do estádio */}
       <div className="fixed inset-0 -z-10 bg-[url('/assets/img/estadio/allianz1.jpg')] bg-top bg-no-repeat bg-cover" />
       <div className="fixed inset-0 -z-10 bg-black/80" />
 
-      {/* Conteúdo principal com scroll */}
       <div className="relative z-10">
         <Header />
 
@@ -160,22 +216,22 @@ export default function JogosPage() {
                 golsTime: j.golsTime,
                 golsAdversario: j.golsAdversario,
                 jogadoresExpulsos: j.jogadoresExpulsos,
-                // INJETANDO OS DADOS COMPLETOS E A FUNÇÃO DE CLIQUE AQUI
-                descricaoPartida: j.descricaoPartida, // <-- Garante que a descrição é passada
-                noticiasRelacionadas: j.noticiasRelacionadas, // <-- Garante que as notícias relacionadas são passadas
-                onClick: () => openModal(j), // <-- AQUI É ONDE A FUNÇÃO openModal É ATRIBUÍDA
+                craquePartida: j.craquePartida,
+                palestraPlayers: palestraPlayers,
+                descricaoPartida: j.descricaoPartida,
+                noticiasRelacionadas: j.noticiasRelacionadas,
+                onClick: () => openModal(j),
               }))}
             />
           ))}
         </main>
       </div>
 
-      {/* RENDERIZAÇÃO CONDICIONAL DO MODAL */}
       <GameDetailsModal
         isOpen={isModalOpen}
         onClose={closeModal}
         game={selectedGame}
-        allNews={allNews} // Passa todas as notícias para o modal
+        allNews={allNews}
       />
     </div>
   )

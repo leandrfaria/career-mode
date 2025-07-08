@@ -1,4 +1,3 @@
-// components/cards/GameCard.tsx
 import { FaFutbol, FaPlane, FaHome, FaTimesCircle } from 'react-icons/fa';
 
 interface GameCardProps {
@@ -11,7 +10,8 @@ interface GameCardProps {
   golsTime?: string[];
   golsAdversario?: string[];
   jogadoresExpulsos?: string[];
-  // Nova prop para o clique
+  craquePartida?: string;
+  palestraPlayers: string[];
   onClick?: () => void;
 }
 
@@ -53,6 +53,11 @@ function getBadgeText(score?: string): string | null {
   return 'Empate'
 }
 
+const normalizeExpelledName = (expelledString: string): string => {
+  // Remove o minuto se presente (ex: "Leandro 4'" -> "Leandro")
+  return expelledString.replace(/\s\d+'$/, '').trim();
+};
+
 export function GameCard({
   team,
   date,
@@ -63,7 +68,9 @@ export function GameCard({
   golsTime = [],
   golsAdversario = [],
   jogadoresExpulsos = [],
-  onClick // Recebe a nova prop
+  craquePartida = '',
+  palestraPlayers = [],
+  onClick
 }: GameCardProps) {
   const isPast = score && /^\d+\s*[-\sX]?\s*\d+$/i.test(score);
   const badgeText = getBadgeText(score);
@@ -80,8 +87,27 @@ export function GameCard({
     }
   }
 
+  // Primeiro, filtre e normalize os jogadores expulsos para remover entradas vazias ou inválidas
+  const cleanedJogadoresExpulsos = jogadoresExpulsos.filter(jogador => {
+    const normalized = normalizeExpelledName(jogador);
+    return normalized !== ''; // Garante que apenas nomes não vazios permaneçam
+  });
+
+  // Separa os jogadores expulsos entre Palestra e Adversário usando a lista limpa
+  const expulsosPalestra = cleanedJogadoresExpulsos.filter(jogador => {
+    const normalizedName = normalizeExpelledName(jogador);
+    return palestraPlayers.includes(normalizedName);
+  });
+
+  const expulsosAdversario = cleanedJogadoresExpulsos.filter(jogador => {
+    const normalizedName = normalizeExpelledName(jogador);
+    return !palestraPlayers.includes(normalizedName);
+  });
+
+  // Verifica se há algum jogador expulso (do Palestra ou adversário) na lista limpa
+  const hasExpelledPlayers = expulsosPalestra.length > 0 || expulsosAdversario.length > 0;
+
   return (
-    // Adiciona o onClick e cursor-pointer
     <div
       className={`relative bg-[#1e1e1e] p-5 rounded-lg text-white w-full flex flex-col gap-3 shadow-md hover:scale-[1.01] transition-transform duration-200 ${onClick ? 'cursor-pointer' : ''}`}
       onClick={onClick}
@@ -126,22 +152,44 @@ export function GameCard({
         <div className="pt-3 relative">
           {(golsTime.length > 0 || golsAdversario.length > 0) && (
             <div className="flex items-center justify-between mb-4 mt-2">
-              <div className="flex-1 text-left text-white pr-2">
-                {golsTime.length > 0 && <span className="mr-1">{golsTime.join(', ')}</span>}
+              {/* Gols do time da casa - cada gol em uma nova linha */}
+              <div className="flex-1 text-left text-white flex flex-col">
+                {golsTime.flatMap(gol =>
+                  gol.split(', ').map((playerGol, index) => (
+                    <span key={playerGol + index}>{playerGol}</span>
+                  ))
+                )}
               </div>
-              <FaFutbol className="text-white text-base flex-shrink-0" />
-              <div className="flex-1 text-right text-white pl-2">
-                {golsAdversario.length > 0 && <span className="ml-1">{golsAdversario.join(', ')}</span>}
+              {/* Ícone de gol centralizado */}
+              <FaFutbol className="text-white text-base flex-shrink-0 mx-2" />
+              {/* Gols do time adversário - cada gol em uma nova linha */}
+              <div className="flex-1 text-right text-white flex flex-col">
+                {golsAdversario.flatMap(gol =>
+                  gol.split(', ').map((playerGol, index) => (
+                    <span key={playerGol + index}>{playerGol}</span>
+                  ))
+                )}
               </div>
             </div>
           )}
 
-          {jogadoresExpulsos.length > 0 && (
-            <div className="flex justify-center mt-4 pb-1">
-                <div className="flex items-center gap-1">
-                    <FaTimesCircle className="text-base text-red-500" />
-                    <span className="text-sm text-white">{jogadoresExpulsos.join(', ')}</span>
-                </div>
+          {/* Seção de Jogadores Expulsos - só renderiza se houver jogadores expulsos */}
+          {hasExpelledPlayers && (
+            <div className="flex items-center justify-between mt-6 pb-1">
+              {/* Jogadores expulsos do Palestra Italia */}
+              <div className="flex-1 text-left text-white flex flex-col">
+                {expulsosPalestra.map((jogador, index) => (
+                  <span key={index}>{jogador}</span>
+                ))}
+              </div>
+              {/* Ícone de expulsão centralizado - renderizado condicionalmente */}
+              <FaTimesCircle className="text-base text-red-500 flex-shrink-0 mx-2" />
+              {/* Jogadores expulsos do time adversário */}
+              <div className="flex-1 text-right text-white flex flex-col">
+                {expulsosAdversario.map((jogador, index) => (
+                  <span key={index}>{jogador}</span>
+                ))}
+              </div>
             </div>
           )}
         </div>

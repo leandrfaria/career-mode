@@ -16,7 +16,8 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 363,
+        "craquePartida": 1
       }
     ],
     "defensores": [
@@ -32,9 +33,10 @@
         "jogos": 0,
         "nacionalidade": "Uruguai",
         "numero": "2",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 73
+        "minutosJogados": 298,
+        "craquePartida": 0
       },
       {
         "nome": "J. Vergara",
@@ -50,7 +52,8 @@
         "numero": "27",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 20
+        "minutosJogados": 96,
+        "craquePartida": 0
       },
       {
         "nome": "Gomez",
@@ -66,7 +69,8 @@
         "numero": "4",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 73
+        "minutosJogados": 298,
+        "craquePartida": 0
       },
       {
         "nome": "P. Muir",
@@ -82,7 +86,8 @@
         "numero": "12",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 332,
+        "craquePartida": 0
       },
       {
         "nome": "Giay",
@@ -98,7 +103,8 @@
         "numero": "5",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 439,
+        "craquePartida": 0
       },
       {
         "nome": "M. Saez",
@@ -114,7 +120,25 @@
         "numero": "6",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 20
+        "minutosJogados": 169,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Olesen",
+        "imagem": "/assets/img/jogadores/olesen.jpg",
+        "descricao": "O clube anunciou a contratação de Magnus Olesen, zagueiro dinamarquês de 17 anos com overall 73. A promessa custou $6,8 milhões e receberá salário de $20,5 mil por mês.",
+        "overall": 73,
+        "idade": 17,
+        "posicao": "Zagueiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Dinamarca",
+        "numero": "x",
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 90,
+        "craquePartida": 0
       }
     ],
     "meioCampistas": [
@@ -132,7 +156,8 @@
         "numero": "8",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 0
+        "minutosJogados": 0,
+        "craquePartida": 0
       },
       {
         "nome": "Danilo",
@@ -142,13 +167,14 @@
         "idade": 23,
         "posicao": "Meia Central",
         "gols": 0,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "23",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 363,
+        "craquePartida": 0
       },
       {
         "nome": "D. Moya",
@@ -164,7 +190,8 @@
         "numero": "16",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 0
+        "minutosJogados": 0,
+        "craquePartida": 0
       },
       {
         "nome": "Luis Guilherme",
@@ -173,14 +200,15 @@
         "overall": 71,
         "idade": 19,
         "posicao": "Meia Central",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "18",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 242,
+        "craquePartida": 0
       },
       {
         "nome": "Mauricio",
@@ -189,14 +217,15 @@
         "overall": 76,
         "idade": 21,
         "posicao": "Meia Atacante",
-        "gols": 0,
-        "assistencias": 0,
+        "gols": 1,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "10",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 73
+        "minutosJogados": 329,
+        "craquePartida": 1
       },
       {
         "nome": "R. Roberts",
@@ -212,7 +241,42 @@
         "numero": "17",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 20
+        "minutosJogados": 79,
+        "craquePartida": 0
+      },
+      {
+        "nome": "E. Martinez",
+        "imagem": "/assets/img/jogadores/martinez.jpg",
+        "descricao": "O Palestra Itália confirmou a contratação do volante Emiliano Martínez, de 25 anos e overall 72. O jogador custou $5 milhões e receberá salário de $37 mil. Chega para reforçar o setor defensivo da equipe.",
+        "overall": 72,
+        "idade": 25,
+        "posicao": "Volante",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "",
+        "numero": "8",
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 141,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Sosa",
+        "imagem": "/assets/img/jogadores/sosa.jpg",
+        "descricao": "O meia dinamarquês Ramon Sosa, de 25 anos e overall 75, foi contratado por $11,5 milhões. Com salário de $49 mil, ele pode ser adaptado como ponta ou meia central no esquema de Frank Ocean.",
+        "overall": 75,
+        "idade": 25,
+        "posicao": "Meia Esquerda",
+        "gols": 0,
+        "assistencias": 1,
+        "jogos": 0,
+        "nacionalidade": "Dinamarca",
+        "numero": "",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 14,
+        "craquePartida": 0
       }
     ],
     "atacantes": [
@@ -230,7 +294,8 @@
         "numero": "7",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 20
+        "minutosJogados": 186,
+        "craquePartida": 0
       },
       {
         "nome": "Leandro",
@@ -245,8 +310,9 @@
         "nacionalidade": "Brasil",
         "numero": "3",
         "cartoesAmarelos": 0,
-        "cartoesVermelhos": 0,
-        "minutosJogados": 73
+        "cartoesVermelhos": 1,
+        "minutosJogados": 184,
+        "craquePartida": 0
       },
       {
         "nome": "Estevão",
@@ -255,14 +321,15 @@
         "overall": 75,
         "idade": 19,
         "posicao": "Ponta Direita",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 93
+        "minutosJogados": 270,
+        "craquePartida": 1
       },
       {
         "nome": "S. Bolton",
@@ -278,7 +345,8 @@
         "numero": "21",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 0
+        "minutosJogados": 0,
+        "craquePartida": 0
       },
       {
         "nome": "Endrick",
@@ -294,7 +362,8 @@
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 73
+        "minutosJogados": 222,
+        "craquePartida": 0
       },
       {
         "nome": "V. Roque",
@@ -303,14 +372,15 @@
         "overall": 76,
         "idade": 19,
         "posicao": "Centroavante",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 20
+        "minutosJogados": 127,
+        "craquePartida": 0
       }
     ]
   }

@@ -11,6 +11,7 @@
         "golsAdversario": ["Diogo Jota 87'"],
         "jogadoresAmarelados": ["Giay"],
         "jogadoresExpulsos": ["Mac Allister"],
+        "craquePartida": "Diogo Jota",
         "substituicoesTime": [
           {
             "saiu": "Leandro",
@@ -38,60 +39,86 @@
             "minuto": 73
           }
         ],
-        "noticiasRelacionadas": [1,2,3,4],
+        "noticiasRelacionadas": [1, 2, 3, 4],
         "descricaoPartida": "Na estreia da temporada, o Palestra Itália empatou em 1x1 com o Liverpool, em um jogo equilibrado, intenso e com um desfecho frustrante. Com 50% de posse para cada lado, os ingleses foram mais ofensivos, com 9 finalizações contra 6, exigindo grandes defesas do goleiro palestrino e boas intervenções da zaga. O gol do Palestra saiu aos 76 minutos, com Roberts, que havia acabado de entrar. Ele aproveitou uma sobra de escanteio e contou com um desvio em Endo para abrir o placar. Pouco depois, Estevão quase ampliou com um chute que raspou a trave. Porém, nos minutos finais, Alisson lançou longo, Salah dominou e serviu Diogo Jota, que finalizou rasteiro para empatar: 1x1. O resultado deixou um gosto amargo no elenco, que buscava a vitória. “A temporada está só começando”, disse o técnico Frank Ocean. Destaques do jogo: Danilo liderou os passes e Roberts foi o melhor do Palestra. Salah foi eleito o craque da partida. Giay levou amarelo por falta tática e Mac Allister foi expulso por carrinho em Mauricio. O Palestra sai com um ponto, mas mostrou força e organização diante de um adversário poderoso. A estreia deixou boas impressões para o que vem pela frente.",
         "logoTime": "/assets/img/times/liverpool.png"
       },
       {
         "data": "2024-08-24",
         "adversario": "Manchester City",
-        "placar": "x-x",
+        "placar": "1-0",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque 90'"],
+        "assistenciasTime": ["Mauricio"],
+        "golsAdversario": [""],
+        "jogadoresAmarelados": [""],
+        "jogadoresExpulsos": [""],
+                "craquePartida": "Weverton",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 59
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Luis Guilherme",
+            "entrou": "Roberts",
+            "minuto": 59
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Leandro",
+            "minuto": 73
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Vergara",
+            "minuto": 73
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [5,6,7],
+        "descricaoPartida": "Em um jogo de muita pressão, o Palestra Itália conquistou uma vitória suada por 1x0 sobre o Manchester City, com gol de Vitor Roque aos 90 minutos. Os ingleses dominaram a posse (60% x 40%) e finalizaram 8 vezes — 5 delas com Haaland, que teve uma atuação decepcionante. Mesmo sendo sufocado, o Palestra resistiu bem, com Weverton brilhando no gol e sendo eleito craque da partida. A defesa teve momentos instáveis, com Muir criticado, mas Piquerez se destacou e foi incluído na Seleção da Semana da Premier League após quase marcar de cabeça. O técnico Frank Ocean mudou o rumo do jogo com as entradas de Vitor Roque e Leandro, que participaram diretamente do gol da vitória. Leandro iniciou a jogada e serviu Mauricio, que achou Roque para marcar. Kevin foi o atacante que mais driblou e recebeu elogios, enquanto Endrick, apagado e pouco participativo, foi apontado como o pior do time. A vitória dá moral ao elenco, que mostrou força contra um dos gigantes da Europa.",
         "logoTime": "/assets/img/times/city.png"
       },
       {
         "data": "2024-08-31",
         "adversario": "Fulham",
-        "placar": "x-x",
+        "placar": "2-0",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Estevão 63'", "Luis Guilherme 84'"],
+        "assistenciasTime": ["Danilo","Sosa"],
+        "golsAdversario": [""],
+        "jogadoresAmarelados": ["Piquerez","Olesen","Martinez"],
+        "jogadoresExpulsos": ["Leandro 4'"],
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Gomez",
+            "entrou": "Saez",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 45
+          },
+          {
+            "saiu": "Mauricio",
+            "entrou": "Roberts",
+            "minuto": 76
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Sosa",
+            "minuto": 76
+          },
+          {
+            "saiu": "Emiliano Martinez",
+            "entrou": "Luis Guilherme",
+            "minuto": 76
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [16,17,18],
+        "descricaoPartida": "O Palestra Itália conquistou uma vitória valente por 2x0 sobre o Fulham, mesmo jogando com um a menos desde os 4 minutos, quando Leandro foi expulso após uma entrada precipitada — lance considerado polêmico. A expulsão forçou uma reorganização, com Vitor Roque atuando improvisado na ponta esquerda. Apesar da inferioridade numérica e de ter apenas 47% de posse de bola (contra 53% do Fulham), o time se manteve competitivo. A defesa, intensa e agressiva, rendeu amarelos para Piquerez e Olesen no primeiro tempo. No intervalo, Gómez e Piquerez deram lugar a Saez e Vergara. O placar foi aberto aos 63 minutos, em contra-ataque finalizado por Estevão, após passe de Danilo. Aos 75, Martínez levou amarelo, e logo depois, Roberts, Sosa e Luis Guilherme entraram. Aos 84, Luis Guilherme marcou o segundo, com assistência de Sosa, selando o triunfo. Estevão foi eleito craque da partida, e Leandro, o pior. A imprensa destacou o bom desempenho de Martínez, elogiado pelos passes inteligentes, além de Olesen (nota 8) e Sosa, que agradou com uma assistência e nota 7,5. O técnico Frank Ocean pediu calma à torcida e reforçou a juventude do elenco: “Estão ganhando experiência. Logo tudo se encaixa.”",
         "logoTime": "/assets/img/times/fulham.png"
       }
     ],
@@ -490,7 +517,7 @@
         ],
         "noticiasRelacionadas": [101, 102],
         "descricaoPartida": "",
-        "logoTime": "/assets/img/times/arsneal.png"
+        "logoTime": "/assets/img/times/arsenal.png"
       },
       {
         "data": "2024-12-29",
@@ -520,7 +547,7 @@
       }
     ],
     "Janeiro": [
-        {
+      {
         "data": "2024-01-04",
         "adversario": "Fulham",
         "placar": "x-x",
@@ -546,7 +573,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/fulham.png"
       },
-        {
+      {
         "data": "2024-01-16",
         "adversario": "Brighton",
         "placar": "x-x",
@@ -572,7 +599,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/brighton.png"
       },
-        {
+      {
         "data": "2024-01-19",
         "adversario": "Manchester City",
         "placar": "x-x",
@@ -598,7 +625,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/city.png"
       },
-        {
+      {
         "data": "2024-01-25",
         "adversario": "Liverpool",
         "placar": "x-x",
@@ -626,7 +653,7 @@
       }
     ],
     "Fevereiro": [
-        {
+      {
         "data": "2024-02-01",
         "adversario": "Southampton",
         "placar": "x-x",
@@ -652,7 +679,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/southampton.png"
       },
-        {
+      {
         "data": "2024-02-15",
         "adversario": "Aston Villa",
         "placar": "x-x",
@@ -678,7 +705,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/astonvilla.png"
       },
-        {
+      {
         "data": "2024-02-22",
         "adversario": "Tottenham Spurs",
         "placar": "x-x",
@@ -704,7 +731,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/tottenham.png"
       },
-        {
+      {
         "data": "2024-02-27",
         "adversario": "Manchester United",
         "placar": "x-x",
@@ -732,7 +759,7 @@
       }
     ],
     "Março": [
-        {
+      {
         "data": "2024-03-08",
         "adversario": "Crystal Palace",
         "placar": "x-x",
@@ -758,7 +785,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/crystalpalace.png"
       },
-        {
+      {
         "data": "2024-03-15",
         "adversario": "Nottingham Forest",
         "placar": "x-x",
@@ -786,7 +813,7 @@
       }
     ],
     "Abril": [
-        {
+      {
         "data": "2024-04-02",
         "adversario": "Bournemouth",
         "placar": "x-x",
@@ -812,7 +839,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/bournemouth.png"
       },
-        {
+      {
         "data": "2024-04-05",
         "adversario": "Wolverhampton",
         "placar": "x-x",
@@ -838,7 +865,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/wolverhampton.png"
       },
-        {
+      {
         "data": "2024-04-11",
         "adversario": "Chelsea",
         "placar": "x-x",
@@ -864,7 +891,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/chelsea.png"
       },
-        {
+      {
         "data": "2024-04-19",
         "adversario": "Arsenal",
         "placar": "x-x",
@@ -888,9 +915,9 @@
         ],
         "noticiasRelacionadas": [101, 102],
         "descricaoPartida": "",
-        "logoTime": "/assets/img/times/arsneal.png"
+        "logoTime": "/assets/img/times/arsenal.png"
       },
-        {
+      {
         "data": "2024-04-26",
         "adversario": "Newcastle United",
         "placar": "x-x",
@@ -918,7 +945,7 @@
       }
     ],
     "Maio": [
-     {
+      {
         "data": "2024-05-03",
         "adversario": "Everton",
         "placar": "x-x",
@@ -944,7 +971,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/everton.png"
       },
-     {
+      {
         "data": "2024-05-10",
         "adversario": "Brentford",
         "placar": "x-x",
@@ -970,7 +997,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/brentford.png"
       },
-     {
+      {
         "data": "2024-05-19",
         "adversario": "Leicester",
         "placar": "x-x",
@@ -996,7 +1023,7 @@
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/leicester.png"
       },
-     {
+      {
         "data": "2024-05-25",
         "adversario": "West Ham",
         "placar": "x-x",
@@ -1034,22 +1061,102 @@
       "golsSofridos": 0
     },
     "jogadores": {
-      "jogador_1": {
+      "Roberts": {
         "nome": "Roberts",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0
       },
       "jogador_2": {
-        "nome": "Veiga",
+        "nome": "Mauricio",
         "gols": 0,
         "assistencias": 1,
         "jogos": 0,
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0
       }
+    },
+    "jogador_3": {
+      "nome": "Vitor Roque",
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 0
+    },
+    "jogador_4": {
+      "nome": "Giay",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 1,
+      "cartoesVermelhos": 0
+    },
+    "jogador_5": {
+      "nome": "Estevão",
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 0
+    },
+    "jogador_6": {
+      "nome": "Luis Guilherme",
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 0
+    },
+    "jogador_7": {
+      "nome": "Sosa",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 0
+    },
+    "jogador_8": {
+      "nome": "Danilo",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 0
+    },
+    "jogador_9": {
+      "nome": "Piquerez",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 1,
+      "cartoesVermelhos": 0
+    },
+    "jogador_10": {
+      "nome": "Martinez",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 1,
+      "cartoesVermelhos": 0
+    },
+    "jogador_11": {
+      "nome": "Olesen",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 1,
+      "cartoesVermelhos": 0
+    },
+    "jogador_12": {
+      "nome": "Leandro",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 0,
+      "cartoesAmarelos": 0,
+      "cartoesVermelhos": 1
     }
   }
 }

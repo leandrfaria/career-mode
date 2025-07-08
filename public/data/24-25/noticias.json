@@ -34,5 +34,109 @@
     "data": "2024-08-19",
     "destaque": false,
     "imageUrl": ""
+  },
+  {
+    "id": "5",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque decide e garante vitória do Palestra nos acréscimos",
+    "descricao": "Com gol marcado nos minutos finais, Vitor Roque foi o herói da partida contra o Manchester City, garantindo a vitória por 1x0 para o Palestra Itália em um confronto de muita resistência.",
+    "data": "2024-08-25",
+    "destaque": false
+  },
+  {
+    "id": "6",
+    "autor": "ESPN",
+    "titulo": "Weverton brilha e é eleito o melhor em campo",
+    "descricao": "Fundamental para manter o Palestra vivo diante do Manchester City, o goleiro Weverton foi eleito o craque da partida com defesas salvadoras em momentos decisivos.",
+    "data": "2024-08-25",
+    "destaque": true
+  },
+  {
+    "id": "7",
+    "autor": "Globo Esporte",
+    "titulo": "Piquerez entra para a Seleção da Semana da Premier League",
+    "descricao": "Após atuação segura e uma chance clara de gol contra o Manchester City, o lateral-esquerdo Piquerez foi reconhecido na Seleção da Semana da Premier League.",
+    "data": "2024-08-25",
+    "destaque": false
+  },
+  {
+    "id": "9",
+    "autor": "UOL Esporte",
+    "titulo": "Richard Ríos é o novo reforço do Palestra Itália",
+    "descricao": "O meia-esquerda colombiano Richard Ríos, de 24 anos, foi contratado por $900 mil. A diretoria vê o jogador como uma aposta promissora para a temporada.",
+    "data": "2024-08-27",
+    "destaque": false
+  },
+  {
+    "id": "10",
+    "autor": "TNT Sports",
+    "titulo": "Palestra Itália aposta em jovem zagueiro dinamarquês",
+    "descricao": "O clube anunciou a contratação de Magnus Olesen, zagueiro dinamarquês de 17 anos com overall 73. A promessa custou $6,8 milhões e receberá salário de $20,5 mil por mês.",
+    "data": "2024-08-27",
+    "destaque": false
+  },
+   {
+    "id": "11",
+    "autor": "UOL Esporte",
+    "titulo": "Palestra Itália é eliminado da Carabao Cup nos pênaltis",
+    "descricao": "Após empate por 1x1 no tempo normal, o Palestra Itália perdeu para o Watford por 5x4 nos pênaltis e foi eliminado da Carabao Cup. O time sofreu com o domínio adversário e não conseguiu manter a vantagem no placar.",
+    "data": "2025-07-28",
+    "destaque": true
+  },
+  {
+    "id": "12",
+    "autor": "Globo Esporte",
+    "titulo": "Maurício é eleito o craque da partida contra o Watford",
+    "descricao": "Mesmo com a eliminação na Carabao Cup, o meia-atacante Maurício foi eleito o melhor em campo após marcar o gol do Palestra e comandar as principais jogadas ofensivas da equipe.",
+    "data": "2025-07-28",
+    "destaque": false
+  },
+  {
+    "id": "13",
+    "autor": "ESPN",
+    "titulo": "Palestra Itália anuncia o volante uruguaio Emiliano Martínez",
+    "descricao": "O Palestra Itália confirmou a contratação do volante Emiliano Martínez, de 25 anos e overall 72. O jogador custou $5 milhões e receberá salário de $37 mil. Chega para reforçar o setor defensivo da equipe.",
+    "data": "2025-07-29",
+    "destaque": false
+  },
+  {
+    "id": "14",
+    "autor": "TNT Sports",
+    "titulo": "Ramon Sosa é o novo reforço do Palestra Itália",
+    "descricao": "O meia dinamarquês Ramon Sosa, de 25 anos e overall 75, foi contratado por $11,5 milhões. Com salário de $49 mil, ele pode ser adaptado como ponta ou meia central no esquema de Frank Ocean.",
+    "data": "2025-07-29",
+    "destaque": false
+  },
+  {
+    "id": "15",
+    "autor": "GE",
+    "titulo": "Palestra Itália falha em fechar com Facundo Torres e Micael antes do fim da janela",
+    "descricao": "O Palestra Itália chegou a um acordo com os clubes de Facundo Torres e Micael, mas não conseguiu finalizar os contratos a tempo. Com isso, as negociações foram encerradas com o fechamento da janela de transferências.",
+    "data": "2025-07-30",
+    "destaque": false
+  },
+  {
+    "id": "16",
+    "autor": "GE",
+    "titulo": "Luiz Guilherme marca pela primeira vez na temporada",
+    "descricao": "O jovem atacante Luiz Guilherme balançou as redes pela primeira vez na temporada e fechou a vitória por 2x0 do Palestra Itália sobre o Fulham, em duelo marcado pela superação da equipe com um a menos.",
+    "data": "2025-07-08",
+    "destaque": false
+  },
+  {
+    "id": "17",
+    "autor": "ESPN",
+    "titulo": "Estevão é eleito o melhor em campo contra o Fulham",
+    "descricao": "Autor do primeiro gol e peça fundamental no ataque, Estevão foi eleito o craque da partida na vitória por 2x0 do Palestra Itália, mesmo com a equipe atuando com um jogador a menos desde o início.",
+    "data": "2025-07-08",
+    "destaque": true
+  },
+  {
+    "id": "18",
+    "autor": "TNT Sports",
+    "titulo": "Frank Ocean pede paciência com os jovens atacantes",
+    "descricao": "O técnico do Palestra Itália, Frank Ocean, comentou que os atacantes ainda estão em formação e, por isso, tomam decisões precipitadas. Ele pediu paciência à torcida e garantiu que o time evoluirá.",
+    "data": "2025-07-08",
+    "destaque": false
   }
 ]
