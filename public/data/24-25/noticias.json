@@ -138,5 +138,101 @@
     "descricao": "O técnico do Palestra Itália, Frank Ocean, comentou que os atacantes ainda estão em formação e, por isso, tomam decisões precipitadas. Ele pediu paciência à torcida e garantiu que o time evoluirá.",
     "data": "2025-07-08",
     "destaque": false
+  },
+  {
+    "id": "19",
+    "autor": "ESPN",
+    "titulo": "Endrick desencanta com dois gols contra o Brighton",
+    "descricao": "Em grande atuação fora de casa, Endrick marcou duas vezes e foi decisivo na vitória do Palestra Itália por 2x1 sobre o Brighton, mostrando que pode ser o goleador da temporada.",
+    "data": "2024-09-15",
+    "destaque": true
+  },
+  {
+    "id": "20",
+    "autor": "TNT Sports",
+    "titulo": "Sosa, Martínez e Olesen agradam em boa atuação contra o Brighton",
+    "descricao": "Os recém-chegados Sosa, Emiliano Martínez e Olesen tiveram desempenho positivo na vitória sobre o Brighton e começam a ganhar espaço no elenco de Frank Ocean.",
+    "data": "2024-09-15",
+    "destaque": false
+  },
+  {
+    "id": "21",
+    "autor": "GE",
+    "titulo": "Endrick é eleito o craque da partida contra o Brighton",
+    "descricao": "Com dois gols marcados e presença constante no ataque, Endrick foi escolhido o melhor em campo na vitória do Palestra Itália sobre o Brighton.",
+    "data": "2024-09-15",
+    "destaque": false
+  },
+  {
+    "id": "22",
+    "autor": "UOL Esporte",
+    "titulo": "Trio do Palestra Itália entra na Seleção da Semana da Premier League",
+    "descricao": "Endrick, Gómez e Weverton foram incluídos na Seleção da Semana da Premier League após grande atuação na vitória por 2x1 sobre o Brighton.",
+    "data": "2024-09-15",
+    "destaque": false
+  },
+  {
+    "id": "23",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque entra no segundo tempo e decide com gol aos 85'",
+    "descricao": "O atacante Vitor Roque teve uma entrada decisiva contra o Southampton. Aos 85 minutos, marcou o segundo gol do Palestra Itália após pressão alta e roubo de bola de Martínez, garantindo a vitória por 2x0.",
+    "data": "2024-09-22",
+    "destaque": true
+  },
+  {
+    "id": "24",
+    "autor": "ESPN",
+    "titulo": "Weverton é eleito o melhor em campo contra o Southampton",
+    "descricao": "Com várias defesas importantes no primeiro tempo, Weverton foi o grande nome da vitória do Palestra Itália sobre o Southampton e foi eleito o craque da partida.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "25",
+    "autor": "GE",
+    "titulo": "Estevão brilha atuando como meio-atacante e marca o primeiro gol",
+    "descricao": "Em vez de ser substituído, Estevão foi recuado para o meio-campo e se destacou com boa movimentação e participação ofensiva, marcando o primeiro gol da vitória por 2x0.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "26",
+    "autor": "UOL Esporte",
+    "titulo": "Trio do Palestra entra na Seleção da Semana da Premier League",
+    "descricao": "Estevão, Giay e Weverton foram escolhidos para a Seleção da Semana após boas atuações na vitória do Palestra Itália sobre o Southampton.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "27",
+    "autor": "UOL Esporte",
+    "titulo": "Maurício garante vitória do Palestra aos 90 minutos contra o Aston Villa",
+    "descricao": "O meia Maurício marcou o gol da vitória nos acréscimos e selou o 2x1 fora de casa diante do Aston Villa, garantindo mais três pontos para o Palestra Itália.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "28",
+    "autor": "GE.com",
+    "titulo": "Vitor Roque brilha e é eleito o melhor em campo contra o Aston Villa",
+    "descricao": "Com um gol, uma assistência e muita movimentação, Vitor Roque foi eleito o melhor da partida na virada por 2x1 contra o Aston Villa.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "29",
+    "autor": "ESPN Brasil",
+    "titulo": "Vitor Roque e Gómez entram na Seleção da Rodada da Premier League",
+    "descricao": "A Premier League divulgou a Seleção da Rodada, com o atacante Vitor Roque e o zagueiro Gustavo Gómez representando o Palestra Itália.",
+    "data": "2024-09-22",
+    "destaque": false
+  },
+  {
+    "id": "30",
+    "autor": "Lance!",
+    "titulo": "Atuações: Maurício se destaca, mas Estevão e Gómez decepcionam",
+    "descricao": "Maurício foi o nome da vitória do Palestra contra o Aston Villa, enquanto Estevão e Gómez tiveram desempenho abaixo do esperado.",
+    "data": "2024-09-22",
+    "destaque": false
   }
 ]

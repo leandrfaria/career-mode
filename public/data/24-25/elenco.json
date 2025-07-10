@@ -16,8 +16,8 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 363,
-        "craquePartida": 1
+        "minutosJogados": 453,
+        "craquePartida": 2
       }
     ],
     "defensores": [
@@ -35,7 +35,7 @@
         "numero": "2",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 298,
+        "minutosJogados": 568,
         "craquePartida": 0
       },
       {
@@ -69,7 +69,7 @@
         "numero": "4",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 298,
+        "minutosJogados": 550,
         "craquePartida": 0
       },
       {
@@ -86,7 +86,7 @@
         "numero": "12",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 332,
+        "minutosJogados": 557,
         "craquePartida": 0
       },
       {
@@ -97,13 +97,13 @@
         "idade": 20,
         "posicao": "Lateral Direito",
         "gols": 0,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Argentina",
         "numero": "5",
-        "cartoesAmarelos": 1,
+        "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 439,
+        "minutosJogados": 668,
         "craquePartida": 0
       },
       {
@@ -120,7 +120,7 @@
         "numero": "6",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 169,
+        "minutosJogados": 211,
         "craquePartida": 0
       },
       {
@@ -137,7 +137,7 @@
         "numero": "x",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 90,
+        "minutosJogados": 154,
         "craquePartida": 0
       }
     ],
@@ -173,7 +173,7 @@
         "numero": "23",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 363,
+        "minutosJogados": 615,
         "craquePartida": 0
       },
       {
@@ -207,7 +207,7 @@
         "numero": "18",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 242,
+        "minutosJogados": 404,
         "craquePartida": 0
       },
       {
@@ -217,14 +217,14 @@
         "overall": 76,
         "idade": 21,
         "posicao": "Meia Atacante",
-        "gols": 1,
-        "assistencias": 1,
+        "gols": 2,
+        "assistencias": 3,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "10",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 329,
+        "minutosJogados": 554,
         "craquePartida": 1
       },
       {
@@ -252,13 +252,13 @@
         "idade": 25,
         "posicao": "Volante",
         "gols": 0,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "",
         "numero": "8",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 141,
+        "minutosJogados": 205,
         "craquePartida": 0
       },
       {
@@ -275,7 +275,7 @@
         "numero": "",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 14,
+        "minutosJogados": 78,
         "craquePartida": 0
       }
     ],
@@ -294,7 +294,7 @@
         "numero": "7",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 186,
+        "minutosJogados": 370,
         "craquePartida": 0
       },
       {
@@ -311,7 +311,7 @@
         "numero": "3",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 1,
-        "minutosJogados": 184,
+        "minutosJogados": 252,
         "craquePartida": 0
       },
       {
@@ -321,14 +321,14 @@
         "overall": 75,
         "idade": 19,
         "posicao": "Ponta Direita",
-        "gols": 1,
-        "assistencias": 0,
+        "gols": 2,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 270,
+        "minutosJogados": 540,
         "craquePartida": 1
       },
       {
@@ -355,15 +355,15 @@
         "overall": 77,
         "idade": 18,
         "posicao": "Centroavante",
-        "gols": 0,
+        "gols": 2,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 222,
-        "craquePartida": 0
+        "minutosJogados": 447,
+        "craquePartida": 1
       },
       {
         "nome": "V. Roque",
@@ -372,15 +372,15 @@
         "overall": 76,
         "idade": 19,
         "posicao": "Centroavante",
-        "gols": 1,
-        "assistencias": 0,
+        "gols": 3,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 127,
-        "craquePartida": 0
+        "minutosJogados": 217,
+        "craquePartida": 1
       }
     ]
   }

@@ -11,7 +11,7 @@
         "golsAdversario": ["Diogo Jota 87'"],
         "jogadoresAmarelados": ["Giay"],
         "jogadoresExpulsos": ["Mac Allister"],
-        "craquePartida": "Diogo Jota",
+        "craquePartida": "Salah",
         "substituicoesTime": [
           {
             "saiu": "Leandro",
@@ -53,7 +53,7 @@
         "golsAdversario": [""],
         "jogadoresAmarelados": [""],
         "jogadoresExpulsos": [""],
-                "craquePartida": "Weverton",
+        "craquePartida": "Weverton",
         "substituicoesTime": [
           {
             "saiu": "Endrick",
@@ -76,7 +76,7 @@
             "minuto": 73
           }
         ],
-        "noticiasRelacionadas": [5,6,7],
+        "noticiasRelacionadas": [5, 6, 7],
         "descricaoPartida": "Em um jogo de muita pressão, o Palestra Itália conquistou uma vitória suada por 1x0 sobre o Manchester City, com gol de Vitor Roque aos 90 minutos. Os ingleses dominaram a posse (60% x 40%) e finalizaram 8 vezes — 5 delas com Haaland, que teve uma atuação decepcionante. Mesmo sendo sufocado, o Palestra resistiu bem, com Weverton brilhando no gol e sendo eleito craque da partida. A defesa teve momentos instáveis, com Muir criticado, mas Piquerez se destacou e foi incluído na Seleção da Semana da Premier League após quase marcar de cabeça. O técnico Frank Ocean mudou o rumo do jogo com as entradas de Vitor Roque e Leandro, que participaram diretamente do gol da vitória. Leandro iniciou a jogada e serviu Mauricio, que achou Roque para marcar. Kevin foi o atacante que mais driblou e recebeu elogios, enquanto Endrick, apagado e pouco participativo, foi apontado como o pior do time. A vitória dá moral ao elenco, que mostrou força contra um dos gigantes da Europa.",
         "logoTime": "/assets/img/times/city.png"
       },
@@ -86,10 +86,11 @@
         "placar": "2-0",
         "local": "Casa",
         "golsTime": ["Estevão 63'", "Luis Guilherme 84'"],
-        "assistenciasTime": ["Danilo","Sosa"],
+        "assistenciasTime": ["Danilo", "Sosa"],
         "golsAdversario": [""],
-        "jogadoresAmarelados": ["Piquerez","Olesen","Martinez"],
+        "jogadoresAmarelados": ["Piquerez", "Olesen", "Martinez"],
         "jogadoresExpulsos": ["Leandro 4'"],
+        "craquePartida": "Estevão",
         "substituicoesTime": [
           {
             "saiu": "Gomez",
@@ -117,7 +118,7 @@
             "minuto": 76
           }
         ],
-        "noticiasRelacionadas": [16,17,18],
+        "noticiasRelacionadas": [16, 17, 18],
         "descricaoPartida": "O Palestra Itália conquistou uma vitória valente por 2x0 sobre o Fulham, mesmo jogando com um a menos desde os 4 minutos, quando Leandro foi expulso após uma entrada precipitada — lance considerado polêmico. A expulsão forçou uma reorganização, com Vitor Roque atuando improvisado na ponta esquerda. Apesar da inferioridade numérica e de ter apenas 47% de posse de bola (contra 53% do Fulham), o time se manteve competitivo. A defesa, intensa e agressiva, rendeu amarelos para Piquerez e Olesen no primeiro tempo. No intervalo, Gómez e Piquerez deram lugar a Saez e Vergara. O placar foi aberto aos 63 minutos, em contra-ataque finalizado por Estevão, após passe de Danilo. Aos 75, Martínez levou amarelo, e logo depois, Roberts, Sosa e Luis Guilherme entraram. Aos 84, Luis Guilherme marcou o segundo, com assistência de Sosa, selando o triunfo. Estevão foi eleito craque da partida, e Leandro, o pior. A imprensa destacou o bom desempenho de Martínez, elogiado pelos passes inteligentes, além de Olesen (nota 8) e Sosa, que agradou com uma assistência e nota 7,5. O técnico Frank Ocean pediu calma à torcida e reforçou a juventude do elenco: “Estão ganhando experiência. Logo tudo se encaixa.”",
         "logoTime": "/assets/img/times/fulham.png"
       }
@@ -126,108 +127,118 @@
       {
         "data": "2024-09-14",
         "adversario": "Brighton",
-        "placar": "x-x",
+        "placar": "2-1",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Endrick 3'", "Endrick 15'"],
+        "assistenciasTime": ["Mauricio", "Estevão"],
+        "golsAdversario": ["João Pedro 49'"],
+        "jogadoresAmarelados": [""],
+        "jogadoresExpulsos": [""],
+        "craquePartida": "Endrick",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Sosa",
+            "minuto": 72
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
+            "saiu": "Luis Guilherme",
+            "entrou": "Richard Rios",
+            "minuto": 72
+          },
+          {
+            "saiu": "Gomez",
+            "entrou": "Olesen",
+            "minuto": 72
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Martinez",
+            "minuto": 72
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Saez",
             "minuto": 72
           }
         ],
-        "noticiasRelacionadas": [101, 102],
+        "noticiasRelacionadas": [19, 20, 21, 22],
         "descricaoPartida": "",
         "logoTime": "/assets/img/times/brighton.png"
       },
       {
         "data": "2024-09-21",
         "adversario": "Southampton",
-        "placar": "x-x",
+        "placar": "2-0",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Estevão", "Vitor Roque"],
+        "assistenciasTime": ["Giay", "Martínez"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Giay"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Weverton",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Maurício",
+            "entrou": "Vitor Roque",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Luiz Guilherme",
+            "entrou": "Sosa",
+            "minuto": 45
+          },
+          {
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 45
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [23, 24, 25, 26],
+        "descricaoPartida": "O Palestra Itália teve um primeiro tempo difícil contra o Southampton, com apenas 30% de posse de bola e pouca criação ofensiva, enquanto o adversário dominava com 70% de posse e 7 finalizações. Insatisfeito, o técnico Frank Ocean fez três mudanças no intervalo: Vitor Roque, Sosa e Leandro entraram, e o ataque foi reorganizado com Estevão recuado como meia, Endrick centralizado, Roque na direita e Leandro na esquerda (depois invertendo Roque e Endrick). As alterações surtiram efeito: aos 61 minutos, Estevão marcou o primeiro gol após boa jogada e rebote de sorte. Aos 85, após pressão alta e roubo de bola de Martínez, Vitor Roque aproveitou e fechou o placar: 2x0. Weverton foi o destaque da partida, com defesas cruciais no primeiro tempo. Endrick teve bom desempenho com 2 finalizações e 10 dribles certos, enquanto Giay, apesar da assistência, foi criticado pela atuação defensiva. Na Seleção da Semana da Premier League, três jogadores do Palestra foram incluídos: Estevão, Giay e Weverton. Uma vitória importante, marcada por boas decisões do treinador e grande poder de reação fora de casa.",
         "logoTime": "/assets/img/times/southampton.png"
       },
       {
         "data": "2024-09-29",
         "adversario": "Aston Villa",
-        "placar": "x-x",
-        "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
-        "substituicoesTime": [
-          {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
-          },
-          {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
-          }
-        ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
-        "logoTime": "/assets/img/times/astonvilla.png"
-      }
-    ],
-    "Outubro": [
-      {
-        "data": "2024-10-06",
-        "adversario": "West Ham",
-        "placar": "x-x",
+        "placar": "2-1",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque", "Maurício"],
+        "assistenciasTime": ["Mauricio", "Vitor Roque"],
+        "golsAdversario": ["Buendía"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Luiz Guilherme",
+            "entrou": "Martínez",
+            "minuto": 45
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Olesen",
+            "minuto": 45
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Saez",
+            "minuto": 67
+          },
+          {
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 67
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
-        "logoTime": "/assets/img/times/westham.png"
+        "noticiasRelacionadas": [27, 28, 29, 30],
+        "descricaoPartida": "O Palestra Itália conquistou mais uma vitória dramática fora de casa ao bater o Aston Villa por 2x1, com gol decisivo de Maurício aos 90 minutos, após contra-ataque iniciado por Leandro e Vitor Roque. O primeiro tempo foi complicado, com o adversário abrindo o placar aos 41 minutos após erro defensivo de Muir. No intervalo, Frank Ocean mudou o time, e as alterações surtiram efeito. Vitor Roque empatou aos 66 após tabela com Maurício e assistência de Estevão. Aos 90, Maurício marcou o gol da virada. Roque foi eleito melhor em campo com um gol e uma assistência. Estevão e Gómez tiveram atuações abaixo. Roque e Gómez foram incluídos na Seleção da Rodada da Premier League.",
+        "logoTime": "/assets/img/times/astonvilla.png"
       },
       {
         "data": "2024-10-19",
@@ -1050,113 +1061,5 @@
         "logoTime": "/assets/img/times/westham.png"
       }
     ]
-  },
-  "estatisticas": {
-    "time": {
-      "jogos": 0,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 0,
-      "golsMarcados": 0,
-      "golsSofridos": 0
-    },
-    "jogadores": {
-      "Roberts": {
-        "nome": "Roberts",
-        "gols": 1,
-        "assistencias": 0,
-        "jogos": 0,
-        "cartoesAmarelos": 0,
-        "cartoesVermelhos": 0
-      },
-      "jogador_2": {
-        "nome": "Mauricio",
-        "gols": 0,
-        "assistencias": 1,
-        "jogos": 0,
-        "cartoesAmarelos": 0,
-        "cartoesVermelhos": 0
-      }
-    },
-    "jogador_3": {
-      "nome": "Vitor Roque",
-      "gols": 1,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 0
-    },
-    "jogador_4": {
-      "nome": "Giay",
-      "gols": 0,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 1,
-      "cartoesVermelhos": 0
-    },
-    "jogador_5": {
-      "nome": "Estevão",
-      "gols": 1,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 0
-    },
-    "jogador_6": {
-      "nome": "Luis Guilherme",
-      "gols": 1,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 0
-    },
-    "jogador_7": {
-      "nome": "Sosa",
-      "gols": 0,
-      "assistencias": 1,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 0
-    },
-    "jogador_8": {
-      "nome": "Danilo",
-      "gols": 0,
-      "assistencias": 1,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 0
-    },
-    "jogador_9": {
-      "nome": "Piquerez",
-      "gols": 0,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 1,
-      "cartoesVermelhos": 0
-    },
-    "jogador_10": {
-      "nome": "Martinez",
-      "gols": 0,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 1,
-      "cartoesVermelhos": 0
-    },
-    "jogador_11": {
-      "nome": "Olesen",
-      "gols": 0,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 1,
-      "cartoesVermelhos": 0
-    },
-    "jogador_12": {
-      "nome": "Leandro",
-      "gols": 0,
-      "assistencias": 0,
-      "jogos": 0,
-      "cartoesAmarelos": 0,
-      "cartoesVermelhos": 1
-    }
   }
 }
