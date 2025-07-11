@@ -234,5 +234,29 @@
     "descricao": "Maurício foi o nome da vitória do Palestra contra o Aston Villa, enquanto Estevão e Gómez tiveram desempenho abaixo do esperado.",
     "data": "2024-09-22",
     "destaque": false
+  },
+  {
+    "id": "31",
+    "autor": "GE",
+    "titulo": "Vitor Roque e Estevão são destaques na Seleção da Rodada",
+    "descricao": "A Seleção da Rodada da Premier League foi anunciada com dois representantes do Palestra Itália: Vitor Roque como atacante e Estevão como ponta-direita, ambos em grande fase.",
+    "data": "2024-11-09",
+    "destaque": false
+  },
+  {
+    "id": "32",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque é eleito o melhor em campo contra o West Ham",
+    "descricao": "Com atuação decisiva no ataque, Vitor Roque foi eleito o craque da partida na vitória do Palestra Itália sobre o West Ham.",
+    "data": "2024-11-09",
+    "destaque": true
+  },
+  {
+    "id": "33",
+    "autor": "ESPN",
+    "titulo": "Kevin marca seu primeiro gol na temporada",
+    "descricao": "O atacante Kevin balançou as redes pela primeira vez nesta temporada, contribuindo diretamente para a vitória do Palestra Itália na Premier League.",
+    "data": "2024-11-09",
+    "destaque": false
   }
 ]

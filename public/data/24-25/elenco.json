@@ -16,7 +16,7 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 453,
+        "minutosJogados": 543,
         "craquePartida": 2
       }
     ],
@@ -35,7 +35,7 @@
         "numero": "2",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 568,
+        "minutosJogados": 640,
         "craquePartida": 0
       },
       {
@@ -52,7 +52,7 @@
         "numero": "27",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 96,
+        "minutosJogados": 114,
         "craquePartida": 0
       },
       {
@@ -69,7 +69,7 @@
         "numero": "4",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 550,
+        "minutosJogados": 612,
         "craquePartida": 0
       },
       {
@@ -86,7 +86,7 @@
         "numero": "12",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 557,
+        "minutosJogados": 647,
         "craquePartida": 0
       },
       {
@@ -103,7 +103,7 @@
         "numero": "5",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 668,
+        "minutosJogados": 758,
         "craquePartida": 0
       },
       {
@@ -137,7 +137,7 @@
         "numero": "x",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 154,
+        "minutosJogados": 182,
         "craquePartida": 0
       }
     ],
@@ -173,7 +173,7 @@
         "numero": "23",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 615,
+        "minutosJogados": 677,
         "craquePartida": 0
       },
       {
@@ -207,7 +207,7 @@
         "numero": "18",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 404,
+        "minutosJogados": 494,
         "craquePartida": 0
       },
       {
@@ -224,7 +224,7 @@
         "numero": "10",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 554,
+        "minutosJogados": 644,
         "craquePartida": 1
       },
       {
@@ -258,7 +258,7 @@
         "numero": "8",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 205,
+        "minutosJogados": 233,
         "craquePartida": 0
       },
       {
@@ -287,14 +287,14 @@
         "overall": 70,
         "idade": 21,
         "posicao": "Ponta Esquerda",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "7",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 370,
+        "minutosJogados": 460,
         "craquePartida": 0
       },
       {
@@ -304,14 +304,14 @@
         "overall": 77,
         "idade": 19,
         "posicao": "Ponta Esquerda",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "3",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 1,
-        "minutosJogados": 252,
+        "minutosJogados": 270,
         "craquePartida": 0
       },
       {
@@ -321,14 +321,14 @@
         "overall": 75,
         "idade": 19,
         "posicao": "Ponta Direita",
-        "gols": 2,
-        "assistencias": 1,
+        "gols": 3,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 540,
+        "minutosJogados": 612,
         "craquePartida": 1
       },
       {
@@ -362,7 +362,7 @@
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 447,
+        "minutosJogados": 465,
         "craquePartida": 1
       },
       {
@@ -372,15 +372,15 @@
         "overall": 76,
         "idade": 19,
         "posicao": "Centroavante",
-        "gols": 3,
-        "assistencias": 1,
+        "gols": 4,
+        "assistencias": 3,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 217,
-        "craquePartida": 1
+        "minutosJogados": 289,
+        "craquePartida": 2
       }
     ]
   }

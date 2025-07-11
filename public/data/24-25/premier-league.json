@@ -241,6 +241,48 @@
         "logoTime": "/assets/img/times/astonvilla.png"
       },
       {
+        "data": "2024-10-08",
+        "adversario": "West Ham",
+        "placar": "4x0",
+        "local": "Fora",
+        "golsTime": ["Estevão 5'", "Vitor Roque 18'", "Kevin 52'", "Leandro 81'"],
+        "assistenciasTime": ["Vitor Roque", "Estevão", "Vitor Roque"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Gustavo Gómez"],
+        "jogadoresExpulsos": ["Potts"],
+        "craquePartida": "Vitor Roque",
+        "substituicoesTime": [
+          {
+            "saiu": "Gustavo Gómez",
+            "entrou": "Olesen",
+            "minuto": 62
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Martínez",
+            "minuto": 62
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Endrick",
+            "minuto": 72
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Leandro",
+            "minuto": 72
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 72
+          }
+        ],
+        "noticiasRelacionadas": [103, 104],
+        "descricaoPartida": "O Palestra Itália goleou o West Ham por 4x0 fora de casa, em uma atuação coletiva impecável. Logo aos 5 minutos, Vitor Roque deu assistência para Estevão abrir o placar com categoria. Aos 18, os papéis se inverteram: Estevão enfiou para Roque ampliar com precisão. Mesmo com a vantagem, o time manteve a intensidade. O West Ham só assustou em um escanteio, salvo por defesa milagrosa de Muir. Ainda no primeiro tempo, Gustavo Gómez recebeu cartão amarelo. No segundo tempo, Kevin marcou seu primeiro gol na temporada aos 52, após linda assistência de calcanhar de Roque. Aos 62, Frank Ocean fez mudanças: Olesen entrou no lugar de Gómez e Martínez no de Danilo. Aos 64, Potts foi expulso por falta dura em Luiz Guilherme. Mais substituições ocorreram aos 72, com Leandro, Endrick e Vergara entrando. Leandro, aos 81, roubou a bola no ataque e marcou o quarto gol. Vitor Roque foi eleito o melhor em campo com um gol e duas assistências, seguido por Estevão (um gol e uma assistência). Com o resultado, ambos entraram na Seleção da Rodada da Premier League. A equipe segue embalada, mostrando força e organização mesmo fora de casa.",
+        "logoTime": "/assets/img/times/westham.png"
+      },
+      {
         "data": "2024-10-19",
         "adversario": "Everton",
         "placar": "x-x",
