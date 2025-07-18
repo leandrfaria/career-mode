@@ -645,34 +645,50 @@
             "minuto": 70
           }
         ],
-        "noticiasRelacionadas": [66,67,68],
+        "noticiasRelacionadas": [66, 67, 68],
         "descricaoPartida": "O Palestra Itália foi derrotado por 2x1 pelo Wolverhampton, em casa, e viu seus planos na disputa pelo título sofrerem um duro golpe. O jogo foi marcado pela expulsão polêmica de Olesen aos 31 minutos, após uma dividida interpretada como impedimento de uma chance clara de gol. Com um a menos, o técnico promoveu mudanças: Muir entrou no lugar de Kevin, e Vitor Roque foi deslocado para a ponta esquerda. Pouco depois, o Wolves abriu o placar com Pedro Neto, aproveitando rebote após grande defesa de Weverton. Maurício, apagado em campo, foi substituído no intervalo por Endrick, com Leandro entrando no lugar de Roque. A dupla melhorou o time no segundo tempo, e aos 80 minutos, Leandro fez boa jogada pela esquerda e cruzou para Endrick empatar. Mas a reação durou pouco: aos 86, após nova defesa de Weverton, Pedro Neto pegou o rebote e armou o lance que terminou no gol de Matheus Cunha, decretando o 2x1. Apesar da derrota, Leandro Gabriel foi eleito o melhor em campo e, junto com Endrick, entrou para a Seleção da Rodada. Entre os destaques negativos, ficaram Olesen (expulso) e Maurício (pouco participativo). Muir teve bom desempenho, enquanto Piquerez e Estevão ficaram abaixo do esperado.",
         "logoTime": "/assets/img/times/wolverhampton.png"
       },
       {
         "data": "2024-12-21",
         "adversario": "Newcastle United",
-        "placar": "x-x",
-        "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "1x1",
+        "local": "Fora",
+        "golsTime": ["Estevão"],
+        "assistenciasTime": ["Danilo"],
+        "golsAdversario": ["Murphy"],
+        "jogadoresAmarelados": ["Danilo"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Estevão",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 70
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 70
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Roberts",
+            "minuto": 70
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Emiliano Martínez",
+            "minuto": 70
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Vergara",
+            "minuto": 70
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [70,71,72],
+        "descricaoPartida": "Em um jogo equilibrado, o Palestra Itália deixou escapar a vitória nos acréscimos e empatou em 1x1 com o Newcastle, fora de casa. Apesar de ter finalizado mais — foram 5 chutes a mais que o adversário — o time brasileiro pecou na efetividade e viu o empate chegar no último minuto. A partida teve mudanças importantes na escalação, com Olesen assumindo a vaga de Muir, suspenso. Danilo recebeu cartão amarelo ainda no primeiro tempo, e aos 69 minutos, Estevão marcou um golaço: recebeu pela direita, cortou para dentro e acertou o ângulo com um chute de fora da área. Foi eleito o craque da partida. Logo depois do gol, o técnico Frank Ocean promoveu cinco substituições de uma só vez: Leandro, Endrick, Roberts, Martínez e Vergara entraram em campo. A equipe manteve o controle e parecia encaminhar a vitória, até que, aos 90 minutos, Murphy recebeu um cruzamento e, livre na pequena área, cabeceou por cima de Weverton, que falhou feio no lance, decretando o empate. Entre os destaques positivos, além de Estevão, o zagueiro Gómez foi muito elogiado e entrou na Seleção da Rodada. Já Luiz Guilherme teve atuação abaixo do esperado, errando muitos passes, e Weverton foi apontado como o pior em campo por falhar no lance decisivo. O gol de Murphy no fim foi um verdadeiro banho de água fria e promete assombrar os torcedores do Palestra por mais alguns dias.",
         "logoTime": "/assets/img/times/newcastle.png"
       },
       {

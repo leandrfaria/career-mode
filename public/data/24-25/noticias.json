@@ -538,6 +538,30 @@
     "descricao": "O meia-atacante Roberts, de 23 anos, teve seu contrato renovado com o Palestra Itália por mais 2 anos. Seu salário subiu de $33K para $35K, além de um bônus de $100K em luvas.",
     "data": "2024-12-14",
     "destaque": true
+  },
+  {
+    "id": "70",
+    "autor": "GE",
+    "titulo": "Gómez é eleito para a Seleção da Rodada após grande atuação",
+    "descricao": "O zagueiro Gómez foi incluído na Seleção da Rodada após exibição segura contra o Newcastle. Mesmo com o empate no fim, o defensor foi um dos pilares da defesa do Palestra Itália.",
+    "data": "2024-12-21",
+    "destaque": false
+  },
+  {
+    "id": "71",
+    "autor": "TNT Sports",
+    "titulo": "Estevão brilha e é eleito o melhor em campo contra o Newcastle",
+    "descricao": "Autor de um golaço e destaque ofensivo da equipe, Estevão foi eleito o craque da partida no empate por 1x1 entre Palestra Itália e Newcastle.",
+    "data": "2024-12-21",
+    "destaque": false
+  },
+  {
+    "id": "72",
+    "autor": "ESPN",
+    "titulo": "Murphy marca no fim e frustra vitória do Palestra Itália",
+    "descricao": "O Palestra Itália vencia até os acréscimos, mas viu Murphy empatar para o Newcastle no último lance, em uma falha defensiva que deve assombrar a torcida por um tempo.",
+    "data": "2024-12-21",
+    "destaque": true
   }
 
 ]

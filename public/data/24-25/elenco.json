@@ -16,7 +16,7 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1353,
+        "minutosJogados": 1443,
         "craquePartida": 3
       }
     ],
@@ -35,7 +35,7 @@
         "numero": "2",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1292,
+        "minutosJogados": 1382,
         "craquePartida": 0
       },
       {
@@ -52,7 +52,7 @@
         "numero": "27",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 261,
+        "minutosJogados": 291,
         "craquePartida": 0
       },
       {
@@ -69,7 +69,7 @@
         "numero": "4",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1236,
+        "minutosJogados": 1326,
         "craquePartida": 0
       },
       {
@@ -86,7 +86,7 @@
         "numero": "12",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1067,
+        "minutosJogados": 1137,
         "craquePartida": 0
       },
       {
@@ -103,7 +103,7 @@
         "numero": "5",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1448,
+        "minutosJogados": 1538,
         "craquePartida": 1
       },
       {
@@ -184,13 +184,13 @@
         "idade": 23,
         "posicao": "Meia Central",
         "gols": 0,
-        "assistencias": 1,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "23",
         "cartoesAmarelos": 3,
         "cartoesVermelhos": 2,
-        "minutosJogados": 1231,
+        "minutosJogados": 1301,
         "craquePartida": 0
       },
       {
@@ -224,7 +224,7 @@
         "numero": "18",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1253,
+        "minutosJogados": 1343,
         "craquePartida": 0
       },
       {
@@ -241,7 +241,7 @@
         "numero": "10",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1346,
+        "minutosJogados": 1416,
         "craquePartida": 1
       },
       {
@@ -258,7 +258,7 @@
         "numero": "17",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 79,
+        "minutosJogados": 109,
         "craquePartida": 0
       },
       {
@@ -275,7 +275,7 @@
         "numero": "8",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 443,
+        "minutosJogados": 473,
         "craquePartida": 0
       },
       {
@@ -311,7 +311,7 @@
         "numero": "7",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 884,
+        "minutosJogados": 954,
         "craquePartida": 0
       },
       {
@@ -322,13 +322,13 @@
         "idade": 19,
         "posicao": "Ponta Esquerda",
         "gols": 2,
-        "assistencias": 1,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "3",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 1,
-        "minutosJogados": 663,
+        "minutosJogados": 693,
         "craquePartida": 0
       },
       {
@@ -338,14 +338,14 @@
         "overall": 75,
         "idade": 19,
         "posicao": "Ponta Direita",
-        "gols": 3,
+        "gols": 4,
         "assistencias": 4,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1410,
+        "minutosJogados": 1500,
         "craquePartida": 1
       },
       {
@@ -372,14 +372,14 @@
         "overall": 77,
         "idade": 18,
         "posicao": "Centroavante",
-        "gols": 5,
+        "gols": 6,
         "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 794,
+        "minutosJogados": 824,
         "craquePartida": 2
       },
       {
@@ -396,7 +396,7 @@
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 800,
+        "minutosJogados": 870,
         "craquePartida": 4
       }
     ]
