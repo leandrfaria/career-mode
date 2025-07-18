@@ -75,7 +75,7 @@
     "data": "2024-08-27",
     "destaque": false
   },
-   {
+  {
     "id": "11",
     "autor": "UOL Esporte",
     "titulo": "Palestra Itália é eliminado da Carabao Cup nos pênaltis",
@@ -258,5 +258,286 @@
     "descricao": "O atacante Kevin balançou as redes pela primeira vez nesta temporada, contribuindo diretamente para a vitória do Palestra Itália na Premier League.",
     "data": "2024-11-09",
     "destaque": false
+  },
+  {
+    "id": "34",
+    "autor": "TNT Sports",
+    "titulo": "Doucouré é eleito o melhor em campo na vitória do Everton",
+    "descricao": "Com grande atuação no meio-campo e participação decisiva na construção das jogadas, Doucouré foi eleito o melhor em campo na vitória do Everton por 2x0 sobre o Palestra Itália.",
+    "data": "2024-10-20",
+    "destaque": false
+  },
+  {
+    "id": "35",
+    "autor": "UOL Esporte",
+    "titulo": "Endrick tem atuação apagada e desperdiça quatro chances claras",
+    "descricao": "O atacante Endrick teve uma de suas piores atuações na temporada, perdendo quatro chances claras de gol na derrota do Palestra Itália por 2x0 para o Everton.",
+    "data": "2024-10-20",
+    "destaque": false
+  },
+  {
+    "id": "36",
+    "autor": "GE",
+    "titulo": "Danilo muda de posição e passa a atuar como meia armador",
+    "descricao": "O técnico do Palestra Itália confirmou que Danilo deixará a função de volante e passará a jogar como meia armador. O objetivo é melhorar sua visão de jogo e precisão nos passes.",
+    "data": "2024-10-26",
+    "destaque": false
+  },
+  {
+    "id": "37",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque é eleito o melhor em campo contra o Brentford",
+    "descricao": "Autor de dois gols na vitória por 3x1 fora de casa, Vitor Roque foi eleito o craque da partida e começa a se firmar como peça-chave no ataque do Palestra Itália.",
+    "data": "2024-10-26",
+    "destaque": true
+  },
+  {
+    "id": "38",
+    "autor": "ESPN",
+    "titulo": "Seleção da Rodada tem Vitor Roque e Olesen representando o Palestra",
+    "descricao": "Após grande atuação na vitória sobre o Brentford, Vitor Roque e Olesen foram incluídos na Seleção da Rodada da Premier League. Roque marcou dois gols e Olesen foi destaque na defesa.",
+    "data": "2024-10-26",
+    "destaque": false
+  },
+  {
+    "id": "39",
+    "autor": "UOL Esporte",
+    "titulo": "Endrick perde espaço? Vitor Roque cresce e ameaça titularidade",
+    "descricao": "Enquanto Endrick vive momento irregular, Vitor Roque vem crescendo e sendo decisivo. A disputa pela titularidade no ataque do Palestra Itália está mais acirrada do que nunca.",
+    "data": "2024-10-26",
+    "destaque": false
+  },
+  {
+    "id": "40",
+    "autor": "GE",
+    "titulo": "Endrick é eleito o melhor em campo contra o Leicester",
+    "descricao": "Com um gol e uma assistência, Endrick foi eleito o craque da partida na vitória do Palestra Itália por 2x1 sobre o Leicester, reafirmando sua importância no ataque.",
+    "data": "2024-11-03",
+    "destaque": false
+  },
+  {
+    "id": "41",
+    "autor": "ESPN",
+    "titulo": "Palestra Itália assume a liderança da Premier League",
+    "descricao": "Com 25 pontos conquistados, o Palestra Itália lidera a Premier League após a vitória sobre o Leicester. O Manchester City vem logo atrás, com 20 pontos.",
+    "data": "2024-11-03",
+    "destaque": true
+  },
+  {
+    "id": "42",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque é eleito o atleta do mês da Premier League",
+    "descricao": "O atacante Vitor Roque recebeu o prêmio de Atleta do Mês da Premier League após ótimas atuações pelo Palestra Itália. O jovem vive grande fase e se consolida como peça-chave do time.",
+    "data": "2024-11-03",
+    "destaque": true
+  },
+  {
+    "id": "43",
+    "autor": "GE",
+    "titulo": "Palestra Itália é campeão na base pela primeira vez!",
+    "descricao": "O Palestra Itália conquistou seu primeiro título na categoria sub-20 com uma campanha impecável: vitórias sobre o United (2x0), o rival Chelsea (2x1) e o Liverpool (3x0) na final. Ramos foi o artilheiro com 5 gols, enquanto Machado brilhou com 4 assistências e domínio no meio-campo. A dupla foi o grande destaque da conquista histórica.",
+    "data": "2024-11-05",
+    "destaque": true
+  },
+  {
+    "id": "44",
+    "autor": "ESPN",
+    "titulo": "Vitor Roque brilha e é eleito o melhor em campo contra o Tottenham",
+    "descricao": "Com um golaço em jogada individual e presença ofensiva constante, Vitor Roque foi eleito o craque da partida no empate em 2x2 entre Palestra Itália e Tottenham.",
+    "data": "2024-11-10",
+    "destaque": false
+  },
+  {
+    "id": "45",
+    "autor": "GE",
+    "titulo": "Leandro sai do banco, sofre pênalti e garante gol de empate",
+    "descricao": "Leandro entrou no lugar do lesionado Kevin e foi decisivo: sofreu um pênalti aos 67 minutos e converteu, marcando o primeiro gol do Palestra no empate contra o Tottenham.",
+    "data": "2024-11-10",
+    "destaque": false
+  },
+  {
+    "id": "46",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque, Gómez e Weverton entram na Seleção da Semana",
+    "descricao": "Após grande atuação no empate contra o Tottenham, Vitor Roque, Gómez e o goleiro Weverton foram incluídos na Seleção da Semana da Premier League.",
+    "data": "2024-11-10",
+    "destaque": false
+  },
+  {
+    "id": "47",
+    "autor": "UOL Esporte",
+    "titulo": "Kevin sofre lesão no cotovelo e desfalca o Palestra por 5 dias",
+    "descricao": "O atacante Kevin sofreu uma lesão no cotovelo após uma entrada dura no início da partida contra o Tottenham. O clube confirmou afastamento de cinco dias.",
+    "data": "2024-11-10",
+    "destaque": false
+  },
+  {
+    "id": "48",
+    "autor": "GE",
+    "titulo": "Palestra Itália vende Hugo Cairns por €2,2 milhões",
+    "descricao": "O volante Hugo Cairns foi vendido por €2,2 milhões em uma negociação considerada excelente pela diretoria. O atleta estava fora dos planos para a temporada.",
+    "data": "2024-11-10",
+    "destaque": true
+  },
+  {
+    "id": "49",
+    "autor": "TNT Sports",
+    "titulo": "Vitor Roque mantém fase sensacional no Palestra Itália",
+    "descricao": "Vivendo um grande momento, Vitor Roque voltou a decidir com um gol sobre o Manchester United e tem se firmado como peça-chave no ataque alviverde.",
+    "data": "2024-11-24",
+    "destaque": true
+  },
+  {
+    "id": "50",
+    "autor": "ESPN",
+    "titulo": "Vitor Roque é eleito o melhor em campo na vitória contra o United",
+    "descricao": "Com movimentação intensa e o gol da vitória, Vitor Roque foi eleito o craque da partida na virada sobre o Manchester United, mostrando personalidade e precisão.",
+    "data": "2024-11-24",
+    "destaque": false
+  },
+  {
+    "id": "51",
+    "autor": "GE",
+    "titulo": "Frank Ocean acerta em substituição decisiva na vitória do Palestra",
+    "descricao": "O técnico Frank Ocean brilhou ao trocar Endrick por Vitor Roque no intervalo. A substituição foi certeira, e Roque marcou o gol da virada poucos minutos depois.",
+    "data": "2024-11-24",
+    "destaque": false
+  },
+  {
+    "id": "52",
+    "autor": "UOL Esporte",
+    "titulo": "Olesen vive boa fase e se firma como promessa da defesa do Palestra",
+    "descricao": "Com atuações consistentes e muita segurança na zaga, Olesen começa a mostrar que pode ser um nome importante no futuro do Palestra Itália.",
+    "data": "2024-11-24",
+    "destaque": false
+  },
+  {
+  "id": "53",
+  "autor": "Globo Esporte",
+  "titulo": "Vitor Roque e Olesen assumem titularidade no Palestra Itália",
+  "descricao": "Após boas atuações recentes, Vitor Roque e Olesen foram confirmados como titulares no lugar de Endrick e Muir, respectivamente. A dupla vinha se destacando e a mudança é vista como merecida pela comissão técnica.",
+  "data": "2024-11-26",
+  "destaque": true
+},
+{
+  "id": "54",
+  "autor": "ESPN",
+  "titulo": "Frank Ocean implementa novo esquema tático no Palestra Itália com foco em mobilidade e equilíbrio",
+  "descricao": "O técnico Frank Ocean promoveu uma mudança significativa no esquema tático do Palestra Itália, redefinindo funções-chave em campo. Kevin atuará como armador aberto pela esquerda, responsável pela criação a partir das pontas. Vitor Roque assume o papel de centroavante fixo, sendo a referência ofensiva da equipe. Estevão, na ponta direita, terá liberdade para cortar para dentro e flutuar entre as linhas. Mauricio será o clássico camisa 10, com liberdade para se mover e abrir espaços. Luis Guilherme atuará como um box-to-box, cobrindo tanto a defesa quanto o ataque com equilíbrio. Danilo, por sua vez, será um armador com deslocamento livre, iniciando jogadas desde a base. Na defesa, Piquerez será um ala de apoio, subindo apenas com a posse e recuando sem ela. Olesen ficará fixo na linha defensiva, garantindo segurança no setor. Gómez atuará como um zagueiro agressivo, pressionando e interceptando quando necessário. Já Giay será utilizado como lateral invertido, se posicionando como volante na fase ofensiva para dar superioridade no meio-campo. A mudança visa aumentar a fluidez ofensiva e dar mais controle tático ao time.",
+  "data": "2024-11-27",
+  "destaque": true
+},
+{
+    "id": "56",
+    "autor": "GE",
+    "titulo": "Vitor Roque lidera o Palestra em participações em gols na temporada",
+    "descricao": "Com 9 gols e 3 assistências em 11 partidas, Vitor Roque se destaca como o jogador mais decisivo do Palestra Itália até o momento na temporada.",
+    "data": "2024-11-31",
+    "destaque": false
+  },
+  {
+    "id": "57",
+    "autor": "TNT Sports",
+    "titulo": "Awoniyi brilha e comanda vitória do Forest sobre o Palestra",
+    "descricao": "O atacante Awoniyi foi o grande nome da partida ao marcar os dois gols do Nottingham Forest na vitória por 2x1 contra o Palestra Itália.",
+    "data": "2024-11-31",
+    "destaque": false
+  },
+  {
+    "id": "58",
+    "autor": "ESPN",
+    "titulo": "Awoniyi é eleito o melhor em campo contra o Palestra",
+    "descricao": "Com um doblete decisivo, Awoniyi foi eleito o craque da partida e foi fundamental para a vitória do Forest sobre o Palestra Itália.",
+    "data": "2024-11-31",
+    "destaque": false
+  },
+  {
+    "id": "59",
+    "autor": "UOL Esporte",
+    "titulo": "Derrota para o Forest ameaça liderança do Palestra na liga",
+    "descricao": "O Palestra Itália foi surpreendido pelo Nottingham Forest, time da parte inferior da tabela, e viu sua liderança na Premier League ser ameaçada após a derrota por 2x1.",
+    "data": "2024-11-31",
+    "destaque": true
+  },
+  {
+    "id": "60",
+    "autor": "Globo Esporte",
+    "titulo": "Discussão entre Frank Ocean e Gómez levanta suspeitas de tensão interna",
+    "descricao": "Após a derrota para o Forest, uma discussão entre o técnico Frank Ocean e o zagueiro Gomez chamou atenção no fim da partida. A origem do desentendimento ainda não foi esclarecida.",
+    "data": "2024-11-31",
+    "destaque": false
+  },
+  {
+    "id": "61",
+    "autor": "ESPN",
+    "titulo": "Weverton brilha em empate com o Crystal Palace",
+    "descricao": "O goleiro Weverton foi eleito o melhor em campo após garantir o empate do Palestra Itália com defesas decisivas em um jogo amplamente dominado pelo Crystal Palace.",
+    "data": "2024-12-04",
+    "destaque": false
+  },
+  {
+    "id": "62",
+    "autor": "GE",
+    "titulo": "Capitão do Palestra pede paciência: 'Nem ótimo, nem terrível'",
+    "descricao": "Após empate sem gols com o Crystal Palace, o capitão do Palestra Itália afirmou que o time ainda busca evolução e pediu paciência à torcida: 'Todo mundo está trabalhando muito para melhorar'.",
+    "data": "2024-12-04",
+    "destaque": false
+  },
+  {
+    "id": "63",
+    "autor": "ESPN",
+    "titulo": "Giay é eleito o melhor em campo na vitória sobre o Bournemouth",
+    "descricao": "O lateral-direito Giay foi o grande destaque da vitória do Palestra Itália contra o Bournemouth. Seguro na defesa e eficiente no apoio ofensivo, o jogador foi eleito o melhor da partida.",
+    "data": "2024-12-08",
+    "destaque": true
+  },
+  {
+    "id": "64",
+    "autor": "TNT Sports",
+    "titulo": "Giay entra para a Seleção da Semana da Premier League",
+    "descricao": "Após uma atuação impecável contra o Bournemouth, Giay foi incluído na Seleção da Semana da Premier League. O lateral foi peça-chave na solidez defensiva do Palestra Itália.",
+    "data": "2024-12-08",
+    "destaque": false
+  },
+  {
+    "id": "65",
+    "autor": "Globo Esporte",
+    "titulo": "Giay e Olesen são os destaques do Palestra na vitória sobre o Bournemouth",
+    "descricao": "Na vitória por 1 a 0 sobre o Bournemouth, a dupla defensiva formada por Giay e Olesen brilhou. Ambos foram elogiados pela imprensa e considerados os melhores em campo pelo lado do Palestra Itália.",
+    "data": "2024-12-08",
+    "destaque": false
+  },
+  {
+    "id": "66",
+    "autor": "TNT Sports",
+    "titulo": "Leandro Gabriel é eleito o melhor em campo mesmo com derrota",
+    "descricao": "Apesar da derrota para o Wolverhampton, Leandro Gabriel foi o grande destaque do Palestra Itália, com uma assistência e participação ativa no setor ofensivo. O meia foi eleito o melhor em campo.",
+    "data": "2024-12-14",
+    "destaque": true
+  },
+  {
+    "id": "67",
+    "autor": "ESPN",
+    "titulo": "Derrota para o Wolves atrapalha planos do Palestra na briga pelo título",
+    "descricao": "O tropeço diante do Wolverhampton, clube da parte de baixo da tabela, atrapalha a campanha do Palestra Itália na disputa pela liderança. A equipe perdeu por 2x1, em casa, em partida marcada por polêmicas.",
+    "data": "2024-12-14",
+    "destaque": false
+  },
+  {
+    "id": "68",
+    "autor": "GE",
+    "titulo": "Endrick e Leandro Gabriel aparecem na Seleção da Rodada",
+    "descricao": "Após boas atuações na partida contra o Wolverhampton, Endrick e Leandro Gabriel foram incluídos na Seleção da Rodada. Endrick marcou um gol e Leandro deu assistência, sendo os destaques do Palestra.",
+    "data": "2024-12-14",
+    "destaque": false
+  },
+  {
+    "id": "69",
+    "autor": "UOL Esporte",
+    "titulo": "Palestra Itália renova contrato de Roberts por mais 2 anos",
+    "descricao": "O meia-atacante Roberts, de 23 anos, teve seu contrato renovado com o Palestra Itália por mais 2 anos. Seu salário subiu de $33K para $35K, além de um bônus de $100K em luvas.",
+    "data": "2024-12-14",
+    "destaque": true
   }
+
 ]

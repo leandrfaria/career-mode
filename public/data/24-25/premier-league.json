@@ -245,7 +245,12 @@
         "adversario": "West Ham",
         "placar": "4x0",
         "local": "Fora",
-        "golsTime": ["Estevão 5'", "Vitor Roque 18'", "Kevin 52'", "Leandro 81'"],
+        "golsTime": [
+          "Estevão 5'",
+          "Vitor Roque 18'",
+          "Kevin 52'",
+          "Leandro 81'"
+        ],
         "assistenciasTime": ["Vitor Roque", "Estevão", "Vitor Roque"],
         "golsAdversario": [],
         "jogadoresAmarelados": ["Gustavo Gómez"],
@@ -285,53 +290,85 @@
       {
         "data": "2024-10-19",
         "adversario": "Everton",
-        "placar": "x-x",
+        "placar": "0-2",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": [],
+        "assistenciasTime": [],
+        "golsAdversario": ["Berenguer (p)", "Beto"],
+        "jogadoresAmarelados": ["Gomez", "García"],
+        "jogadoresExpulsos": ["Branthwaite"],
+        "craquePartida": "",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 82
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Gómez",
+            "entrou": "Olesen",
+            "minuto": 82
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Leandro",
+            "minuto": 85
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "García",
+            "minuto": 85
+          },
+          {
+            "saiu": "Luis Guilherme",
+            "entrou": "Martínez",
+            "minuto": 85
           }
         ],
         "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "descricaoPartida": "O Palestra Itália foi derrotado por 2x0 pelo Everton em casa. Apesar de ter mais finalizações (11 contra 9), o time desperdiçou várias chances claras, especialmente com Endrick. Gómez cometeu um pênalti aos 16 minutos convertido por Berenguer, e ainda levou cartão amarelo. Mesmo com a expulsão de Branthwaite aos 40 minutos, o Palestra não aproveitou a vantagem. No segundo tempo, uma falha de Muir resultou no segundo gol do Everton, marcado por Beto. Substituições foram feitas, mas a equipe não reagiu. García também foi advertido. Uma atuação criticada pela fragilidade defensiva e ataque ineficiente.",
         "logoTime": "/assets/img/times/everton.png"
       },
       {
         "data": "2024-10-26",
         "adversario": "Brentford",
-        "placar": "x-x",
+        "placar": "3x1",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque", "Vitor Roque (P)", "Leandro"],
+        "assistenciasTime": ["Estevão", "Mauricio"],
+        "golsAdversario": ["Mbeumo"],
+        "jogadoresAmarelados": ["Danilo"],
+        "jogadoresExpulsos": ["Danilo"],
+        "craquePartida": "Vitor Roque",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Mauricio",
+            "entrou": "Endrick",
+            "minuto": 78
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 78
+          },
+          {
+            "saiu": "Luis Guilherme",
+            "entrou": "Martínez",
+            "minuto": 78
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 78
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 78
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [36, 37, 38, 39],
+        "descricaoPartida": "O Palestra Itália venceu o Brentford por 3x1 fora de casa, em um jogo onde foi mais eficiente, mesmo finalizando apenas 5 vezes contra 11 do adversário. As mudanças na escalação titular surtiram efeito: Vitor Roque, Leandro, Olesen e Saez começaram jogando e contribuíram diretamente para o bom desempenho da equipe. Vitor Roque foi o nome do jogo, abrindo o placar aos 6 minutos após driblar três defensores e, depois, sofrendo e convertendo um pênalti aos 26. Mbeumo empatou para o Brentford aos 22, em belo chute de fora da área após drible em Gómez. Antes do intervalo, Leandro ampliou com um golaço em jogada individual: 3x1. Weverton garantiu o placar com uma defesa espetacular aos 15 minutos. Já Danilo, que levou amarelo, acabou sendo expulso aos 85 após duas faltas duras. Aos 78, o técnico Frank Ocean fez substituições para controlar o jogo. A vitória mostrou um Palestra mais maduro e objetivo, com boas atuações também de Sosa, Martínez e Olesen. O time segue evoluindo com novas peças no elenco.",
         "logoTime": "/assets/img/times/brentford.png"
       }
     ],
@@ -339,105 +376,159 @@
       {
         "data": "2024-11-02",
         "adversario": "Leicester",
-        "placar": "x-x",
-        "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "2x1",
+        "local": "Fora",
+        "golsTime": ["Endrick 45'", "Maurício 48'"],
+        "assistenciasTime": ["Estevão", "Endrick"],
+        "golsAdversario": ["Cannon 60'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Endrick",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Sosa",
+            "minuto": 77
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Martínez",
+            "entrou": "Leandro",
+            "minuto": 77
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Olesen",
+            "minuto": 77
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 77
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [40, 41, 42],
+        "descricaoPartida": "O Palestra Itália conquistou mais uma vitória fora de casa ao bater o Leicester City por 2x1, em um jogo onde teve apenas 30% de posse de bola, contra 70% do adversário, e menos finalizações (6 contra 7). Apesar disso, o time foi eficiente e soube aproveitar bem as chances. Com Danilo suspenso, Martínez foi titular. O primeiro gol veio aos 45 minutos, em bela jogada de Estevão, que serviu Endrick para um chute no ângulo. Aos 48, Endrick fez o pivô e deixou Maurício em ótima posição para marcar o segundo gol. O Leicester descontou aos 60 minutos, após erro coletivo da defesa em um contra-ataque, com Cannon finalizando para o gol. Aos 77, Frank Ocean fez mudanças importantes: Sosa entrou no lugar de Kevin (que teve jogo abaixo), Leandro substituiu Martínez, recuando Maurício para o meio, Olesen entrou por Gómez, e Vergara por Piquerez. Nos minutos finais, o Leicester pressionou, mas Weverton fez duas defesas decisivas aos 87 minutos, garantindo o resultado. Endrick foi o craque da partida, com um gol e uma assistência. Maurício também se destacou, assim como Estevão, autor de duas assistências. Muir e Giay foram sólidos defensivamente, enquanto Luis Guilherme teve uma atuação apagada. Mesmo com menos domínio, o Palestra mostrou maturidade e soube ser decisivo para sair com os três pontos.",
         "logoTime": "/assets/img/times/leicester.png"
       },
       {
         "data": "2024-11-10",
         "adversario": "Tottenham Spurs",
-        "placar": "x-x",
+        "placar": "2x2",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Leandro", "Vitor Roque"],
+        "assistenciasTime": ["Endrick"],
+        "golsAdversario": ["Werner", "Son"],
+        "jogadoresAmarelados": ["Emiliano Martínez"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 10
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
+            "saiu": "Maurício",
+            "entrou": "Endrick",
+            "minuto": 72
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 72
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 72
+          },
+          {
+            "saiu": "Luiz Guilherme",
+            "entrou": "Emiliano Martínez",
             "minuto": 72
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [44, 45, 46, 47],
+        "descricaoPartida": "Mesmo sendo amplamente dominado pelo Tottenham, o Palestra Itália buscou um empate por 2x2 fora de casa. Os ingleses tiveram 78% de posse de bola e 8 finalizações, contra apenas 22% de posse e 4 finalizações do Palestra, que soube aproveitar bem suas chances. Werner abriu o placar aos 7 minutos, após erro de saída de bola e falha de Weverton, marcando um golaço de fora da área. Logo depois, aos 10, Kevin saiu machucado com lesão no cotovelo e foi substituído por Leandro. Já no segundo tempo, aos 67 minutos, Leandro sofreu um pênalti e converteu com categoria, empatando o jogo. Aos 72, o técnico Frank Ocean fez várias substituições, colocando Endrick, Vergara, Muir e Martínez. O Tottenham voltou a liderar aos 74, com gol de Son após falha defensiva. Mas aos 77, Vitor Roque brilhou com um golaço em jogada individual, após assistência de Endrick, decretando o empate. Roque foi eleito craque do jogo e entrou na Seleção da Semana, ao lado de Gómez e Weverton. Olesen também foi elogiado pela segurança na zaga, enquanto Martínez recebeu cartão amarelo. Apesar da pressão sofrida, o Palestra demonstrou resiliência e arrancou um ponto importante fora de casa com destaque para a estrela de seus jovens jogadores.",
         "logoTime": "/assets/img/times/tottenham.png"
       },
       {
         "data": "2024-11-24",
         "adversario": "Manchester United",
-        "placar": "x-x",
+        "placar": "2x1",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Endrick 44'", "Vitor Roque 52'"],
+        "assistenciasTime": ["Sosa", "Luiz Guilherme"],
+        "golsAdversario": ["Zirkzee 8'"],
+        "jogadoresAmarelados": ["Olesen"],
+        "jogadoresExpulsos": ["Piquerez"],
+        "craquePartida": "Vitor Roque",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Danilo",
+            "entrou": "Martínez",
+            "minuto": 75
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Gómez",
+            "minuto": 75
+          },
+          {
+            "saiu": "Sosa",
+            "entrou": "Vergara",
+            "minuto": 84
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [49, 50, 51, 21],
+        "descricaoPartida": "O Palestra Itália venceu o Manchester United por 2x1, mesmo com apenas 39% de posse de bola e uma expulsão no segundo tempo. Apesar do domínio inglês em posse (61%), o Palestra foi mais eficiente, com 6 finalizações contra 4. O United abriu o placar aos 8 minutos com Zirkzee, após erro defensivo de Muir. O empate veio aos 44, quando Sosa lançou Endrick, que finalizou cruzado. No intervalo, Vitor Roque entrou no lugar de Endrick e virou o jogo aos 52 minutos, após pressão e assistência de Luiz Guilherme. Aos 75, Piquerez foi expulso após carrinho desnecessário, e o time se reorganizou com Vergara entrando no lugar de Sosa. Roque foi deslocado para a ponta direita e o time terminou o jogo sem um centroavante fixo. Bruno Fernandes quase empatou para o United, mas acertou a trave. O Palestra segurou a vantagem até o fim. Vitor Roque foi eleito melhor em campo, enquanto Sosa e Luiz Guilherme se destacaram com assistências. Olesen teve atuação segura e vem se firmando no elenco. Piquerez foi o pior do time, por comprometer com a expulsão. Vitória importante, com destaque para a leitura tática de Frank Ocean, que decidiu a partida com substituições certeiras.",
         "logoTime": "/assets/img/times/united.png"
       },
       {
         "data": "2024-11-30",
         "adversario": "Nottingham Forest",
-        "placar": "x-x",
+        "placar": "1-2",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque"],
+        "assistenciasTime": [],
+        "golsAdversario": ["Awoniyi", "Awoniyi"],
+        "jogadoresAmarelados": ["Kevin"],
+        "jogadoresExpulsos": ["Danilo"],
+        "craquePartida": "Awoniyi",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 61
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Gomez",
+            "entrou": "Muir",
+            "minuto": 61
+          },
+          {
+            "saiu": "Mauricio",
+            "entrou": "Martínez",
+            "minuto": 78
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 78
+          },
+          {
+            "saiu": "Vergara",
+            "entrou": "Garcia",
+            "minuto": 78
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [56, 57, 58, 59, 60],
+        "descricaoPartida": "Apesar do domínio em campo, o Palestra Itália foi derrotado por 2x1 pelo Nottingham Forest, em um jogo marcado por polêmicas de arbitragem e falhas defensivas. A equipe teve 54% de posse de bola e 10 finalizações, mas não conseguiu converter a superioridade em resultado. O gol do Palestra saiu logo aos 14 minutos, em lance inusitado: Awoniyi, do Forest, tentou um cruzamento errado que acabou servindo Vitor Roque, que finalizou com categoria. A vantagem durou até o fim do primeiro tempo, quando Danilo, que fazia grande partida, foi expulso aos 44' por um carrinho considerado leve — lance muito contestado. Mesmo com um a menos, o Palestra se manteve melhor, mas cedeu o empate aos 64', em erro de marcação que deixou Awoniyi livre. O atacante voltou a marcar aos 78', após nova falha da defesa, desta vez de Muir, que havia acabado de entrar. As substituições com Leandro, Martínez, Endrick e Garcia não surtiram efeito. Vitor Roque e Olesen foram os melhores da equipe, enquanto Danilo (pela expulsão) e Muir foram os mais criticados. No fim da partida, uma discussão entre Frank Ocean e Gómez levantou suspeitas de tensão no elenco. A derrota contra um adversário da parte inferior da tabela deixa o sinal de alerta ligado na briga pela liderança da Premier League.",
         "logoTime": "/assets/img/times/forest.png"
       }
     ],
@@ -445,79 +536,117 @@
       {
         "data": "2024-12-03",
         "adversario": "Crystal Palace",
-        "placar": "x-x",
+        "placar": "0x0",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": [],
+        "assistenciasTime": [],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Kevin", "Maurício"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Weverton",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Leandro",
+            "minuto": 65
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 65
+          },
+          {
+            "saiu": "Sosa",
+            "entrou": "Emiliano Martínez",
+            "minuto": 65
+          },
+          {
+            "saiu": "Gomez",
+            "entrou": "Olesen",
+            "minuto": 65
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Saez",
+            "minuto": 65
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [61, 62],
+        "descricaoPartida": "O Palestra Itália empatou em 0x0 com o Crystal Palace, em uma partida amplamente dominada pelos ingleses. Com apenas 33% de posse de bola e 2 finalizações contra 14 do adversário, o time brasileiro teve Weverton seu grande destaque, com defesas cruciais que garantiram o ponto fora de casa. Sem Danilo, suspenso, o técnico Frank Ocean escalou Sosa no meio e Muir na zaga, substituindo Olesen. Durante o segundo tempo, cinco substituições foram feitas: Kevin, que já tinha cartão, saiu para a entrada de Leandro; Endrick, Martínez, Olesen e Saez também entraram. As únicas chances claras foram com Vitor Roque, que desperdiçou ambas. Giay e Luiz Guilherme foram os mais criticados em campo. Maurício também recebeu cartão amarelo. Após o jogo, o capitão declarou: “Nem ótimo, nem terrível. Todo mundo está trabalhando muito para melhorar.” O empate traz alívio, mas também evidencia a necessidade de evolução ofensiva da equipe.",
         "logoTime": "/assets/img/times/crystalpalace.png"
       },
       {
         "data": "2024-12-07",
         "adversario": "Bournemouth",
-        "placar": "x-x",
+        "placar": "1-0",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque"],
+        "assistenciasTime": ["Maurício"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Danilo", "Luis Guilherme", "Estevão"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Giay",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Maurício",
+            "entrou": "Leandro",
+            "minuto": 74
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Luis Guilherme",
+            "entrou": "Emiliano Martínez",
+            "minuto": 74
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 74
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [63.64, 65],
+        "descricaoPartida": "O Palestra Itália venceu o Bournemouth por 1 a 0 em uma partida de poucas chances, mas de muita intensidade. Mesmo com apenas 45% de posse de bola e 3 finalizações contra 6 dos ingleses, o time brasileiro foi mais eficiente e garantiu os três pontos. O gol da vitória veio aos 55 minutos, quando Maurício, em pressão alta, roubou a bola do zagueiro adversário e serviu Vitor Roque, que bateu de primeira e balançou as redes. Uma jogada de oportunismo e velocidade que decidiu a partida. Durante o jogo, o Palestra teve que lidar com a forte marcação adversária e com três jogadores advertidos com cartões amarelos: Danilo, Luis Guilherme e Estevão. Para controlar melhor o jogo, o técnico Frank Ocean fez três alterações aos 74 minutos, colocando Leandro no lugar de Maurício, Martínez no de Luis Guilherme, e Muir na vaga de Gómez. O grande destaque da partida foi o lateral-direito Giay, que teve atuação impecável defensivamente e também apoiou bem o ataque. O zagueiro Olesen também foi muito elogiado. Ambos se destacaram em uma defesa sólida que garantiu o placar zerado. Já os piores em campo foram o lateral-esquerdo Piquerez e o volante Danilo, que não tiveram bom rendimento. O desempenho de Giay foi tão consistente que garantiu seu nome na Seleção da Semana da Premier League, coroando sua exibição com o título de melhor em campo.",
         "logoTime": "/assets/img/times/bournemouth.png"
       },
       {
         "data": "2024-12-14",
         "adversario": "Wolverhampton",
-        "placar": "x-x",
-        "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "1x2",
+        "local": "Casa",
+        "golsTime": ["Endrick 80'"],
+        "assistenciasTime": ["Leandro Gabriel"],
+        "golsAdversario": ["Pedro Neto 33'", "Matheus Cunha 86'"],
+        "jogadoresAmarelados": ["Maurício"],
+        "jogadoresExpulsos": ["Olesen 31'"],
+        "craquePartida": "Leandro",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Muir",
+            "minuto": 31
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Maurício",
+            "entrou": "Endrick",
+            "minuto": 45
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Leandro Gabriel",
+            "minuto": 45
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 70
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Emiliano Martínez",
+            "minuto": 70
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [66,67,68],
+        "descricaoPartida": "O Palestra Itália foi derrotado por 2x1 pelo Wolverhampton, em casa, e viu seus planos na disputa pelo título sofrerem um duro golpe. O jogo foi marcado pela expulsão polêmica de Olesen aos 31 minutos, após uma dividida interpretada como impedimento de uma chance clara de gol. Com um a menos, o técnico promoveu mudanças: Muir entrou no lugar de Kevin, e Vitor Roque foi deslocado para a ponta esquerda. Pouco depois, o Wolves abriu o placar com Pedro Neto, aproveitando rebote após grande defesa de Weverton. Maurício, apagado em campo, foi substituído no intervalo por Endrick, com Leandro entrando no lugar de Roque. A dupla melhorou o time no segundo tempo, e aos 80 minutos, Leandro fez boa jogada pela esquerda e cruzou para Endrick empatar. Mas a reação durou pouco: aos 86, após nova defesa de Weverton, Pedro Neto pegou o rebote e armou o lance que terminou no gol de Matheus Cunha, decretando o 2x1. Apesar da derrota, Leandro Gabriel foi eleito o melhor em campo e, junto com Endrick, entrou para a Seleção da Rodada. Entre os destaques negativos, ficaram Olesen (expulso) e Maurício (pouco participativo). Muir teve bom desempenho, enquanto Piquerez e Estevão ficaram abaixo do esperado.",
         "logoTime": "/assets/img/times/wolverhampton.png"
       },
       {

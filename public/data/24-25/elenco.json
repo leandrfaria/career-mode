@@ -16,15 +16,15 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 543,
-        "craquePartida": 2
+        "minutosJogados": 1353,
+        "craquePartida": 3
       }
     ],
     "defensores": [
       {
         "nome": "J. Piquerez",
         "imagem": "/assets/img/jogadores/piquerez.jpg",
-        "descricao": "Joaquin Piquerez",
+        "descricao": "",
         "overall": 79,
         "idade": 24,
         "posicao": "Lateral Esquerdo",
@@ -35,7 +35,7 @@
         "numero": "2",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 640,
+        "minutosJogados": 1292,
         "craquePartida": 0
       },
       {
@@ -52,7 +52,7 @@
         "numero": "27",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 114,
+        "minutosJogados": 261,
         "craquePartida": 0
       },
       {
@@ -67,9 +67,9 @@
         "jogos": 0,
         "nacionalidade": "Paraguai",
         "numero": "4",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 612,
+        "minutosJogados": 1236,
         "craquePartida": 0
       },
       {
@@ -86,7 +86,7 @@
         "numero": "12",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 647,
+        "minutosJogados": 1067,
         "craquePartida": 0
       },
       {
@@ -103,8 +103,8 @@
         "numero": "5",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 758,
-        "craquePartida": 0
+        "minutosJogados": 1448,
+        "craquePartida": 1
       },
       {
         "nome": "M. Saez",
@@ -120,13 +120,13 @@
         "numero": "6",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 211,
+        "minutosJogados": 326,
         "craquePartida": 0
       },
       {
         "nome": "Olesen",
         "imagem": "/assets/img/jogadores/olesen.jpg",
-        "descricao": "O clube anunciou a contratação de Magnus Olesen, zagueiro dinamarquês de 17 anos com overall 73. A promessa custou $6,8 milhões e receberá salário de $20,5 mil por mês.",
+        "descricao": "",
         "overall": 73,
         "idade": 17,
         "posicao": "Zagueiro",
@@ -136,8 +136,25 @@
         "nacionalidade": "Dinamarca",
         "numero": "x",
         "cartoesAmarelos": 1,
+        "cartoesVermelhos": 1,
+        "minutosJogados": 709,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Garcia",
+        "imagem": "/assets/img/jogadores/giay.jpg",
+        "descricao": "",
+        "overall": 99,
+        "idade": 99,
+        "posicao": "Lateral Direito",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "Argentina",
+        "numero": "5",
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 182,
+        "minutosJogados": 17,
         "craquePartida": 0
       }
     ],
@@ -171,9 +188,9 @@
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "23",
-        "cartoesAmarelos": 0,
-        "cartoesVermelhos": 0,
-        "minutosJogados": 677,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": 2,
+        "minutosJogados": 1231,
         "craquePartida": 0
       },
       {
@@ -201,13 +218,13 @@
         "idade": 19,
         "posicao": "Meia Central",
         "gols": 1,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "18",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 494,
+        "minutosJogados": 1253,
         "craquePartida": 0
       },
       {
@@ -217,14 +234,14 @@
         "overall": 76,
         "idade": 21,
         "posicao": "Meia Atacante",
-        "gols": 2,
-        "assistencias": 3,
+        "gols": 3,
+        "assistencias": 5,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "10",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 644,
+        "minutosJogados": 1346,
         "craquePartida": 1
       },
       {
@@ -258,7 +275,7 @@
         "numero": "8",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 233,
+        "minutosJogados": 443,
         "craquePartida": 0
       },
       {
@@ -269,13 +286,13 @@
         "idade": 25,
         "posicao": "Meia Esquerda",
         "gols": 0,
-        "assistencias": 1,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Dinamarca",
         "numero": "",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 78,
+        "minutosJogados": 252,
         "craquePartida": 0
       }
     ],
@@ -292,9 +309,9 @@
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "7",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 460,
+        "minutosJogados": 884,
         "craquePartida": 0
       },
       {
@@ -304,14 +321,14 @@
         "overall": 77,
         "idade": 19,
         "posicao": "Ponta Esquerda",
-        "gols": 1,
-        "assistencias": 0,
+        "gols": 2,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "3",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 1,
-        "minutosJogados": 270,
+        "minutosJogados": 663,
         "craquePartida": 0
       },
       {
@@ -322,13 +339,13 @@
         "idade": 19,
         "posicao": "Ponta Direita",
         "gols": 3,
-        "assistencias": 2,
+        "assistencias": 4,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 612,
+        "minutosJogados": 1410,
         "craquePartida": 1
       },
       {
@@ -355,15 +372,15 @@
         "overall": 77,
         "idade": 18,
         "posicao": "Centroavante",
-        "gols": 2,
-        "assistencias": 0,
+        "gols": 5,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 465,
-        "craquePartida": 1
+        "minutosJogados": 794,
+        "craquePartida": 2
       },
       {
         "nome": "V. Roque",
@@ -372,15 +389,15 @@
         "overall": 76,
         "idade": 19,
         "posicao": "Centroavante",
-        "gols": 4,
+        "gols": 9,
         "assistencias": 3,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 289,
-        "craquePartida": 2
+        "minutosJogados": 800,
+        "craquePartida": 4
       }
     ]
   }
