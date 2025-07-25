@@ -16,8 +16,8 @@
         "numero": "1",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1443,
-        "craquePartida": 3
+        "minutosJogados": 2433,
+        "craquePartida": 7
       }
     ],
     "defensores": [
@@ -29,14 +29,14 @@
         "idade": 24,
         "posicao": "Lateral Esquerdo",
         "gols": 0,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Uruguai",
         "numero": "2",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1382,
-        "craquePartida": 0
+        "minutosJogados": 2248,
+        "craquePartida": 1
       },
       {
         "nome": "J. Vergara",
@@ -46,13 +46,13 @@
         "idade": 32,
         "posicao": "Lateral Esquerdo",
         "gols": 0,
-        "assistencias": 0,
+        "assistencias": 1,
         "jogos": 0,
         "nacionalidade": "Argentina",
         "numero": "27",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 291,
+        "minutosJogados": 503,
         "craquePartida": 0
       },
       {
@@ -69,7 +69,7 @@
         "numero": "4",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1326,
+        "minutosJogados": 2084,
         "craquePartida": 0
       },
       {
@@ -84,10 +84,10 @@
         "jogos": 0,
         "nacionalidade": "Escócia",
         "numero": "12",
-        "cartoesAmarelos": 0,
+        "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1137,
-        "craquePartida": 0
+        "minutosJogados": 1567,
+        "craquePartida": 1
       },
       {
         "nome": "Giay",
@@ -103,7 +103,7 @@
         "numero": "5",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1538,
+        "minutosJogados": 2410,
         "craquePartida": 1
       },
       {
@@ -120,7 +120,7 @@
         "numero": "6",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 326,
+        "minutosJogados": 425,
         "craquePartida": 0
       },
       {
@@ -130,14 +130,14 @@
         "overall": 73,
         "idade": 17,
         "posicao": "Zagueiro",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 0,
         "jogos": 0,
         "nacionalidade": "Dinamarca",
         "numero": "x",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 1,
-        "minutosJogados": 709,
+        "minutosJogados": 1536,
         "craquePartida": 0
       },
       {
@@ -154,7 +154,41 @@
         "numero": "5",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 17,
+        "minutosJogados": 36,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Sobukwe",
+        "imagem": "/assets/img/jogadores/sobukwe.jpg",
+        "descricao": "Subiu da base",
+        "overall": 99,
+        "idade": 99,
+        "posicao": "Zagueiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "",
+        "numero": "",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 21,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Micael",
+        "imagem": "/assets/img/jogadores/micael.jpg",
+        "descricao": "Contratado por US$ 1,8 milhão",
+        "overall": 66,
+        "idade": 24,
+        "posicao": "Zagueiro",
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 0,
+        "nacionalidade": "",
+        "numero": "",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 6,
         "craquePartida": 0
       }
     ],
@@ -184,13 +218,13 @@
         "idade": 23,
         "posicao": "Meia Central",
         "gols": 0,
-        "assistencias": 2,
+        "assistencias": 3,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "23",
         "cartoesAmarelos": 3,
         "cartoesVermelhos": 2,
-        "minutosJogados": 1301,
+        "minutosJogados": 2201,
         "craquePartida": 0
       },
       {
@@ -224,8 +258,8 @@
         "numero": "18",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1343,
-        "craquePartida": 0
+        "minutosJogados": 1838,
+        "craquePartida": 1
       },
       {
         "nome": "Mauricio",
@@ -234,14 +268,14 @@
         "overall": 76,
         "idade": 21,
         "posicao": "Meia Atacante",
-        "gols": 3,
-        "assistencias": 5,
+        "gols": 4,
+        "assistencias": 7,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "10",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1416,
+        "minutosJogados": 2296,
         "craquePartida": 1
       },
       {
@@ -258,7 +292,7 @@
         "numero": "17",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 109,
+        "minutosJogados": 128,
         "craquePartida": 0
       },
       {
@@ -269,13 +303,13 @@
         "idade": 25,
         "posicao": "Volante",
         "gols": 0,
-        "assistencias": 1,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "",
         "numero": "8",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 473,
+        "minutosJogados": 755,
         "craquePartida": 0
       },
       {
@@ -285,14 +319,31 @@
         "overall": 75,
         "idade": 25,
         "posicao": "Meia Esquerda",
-        "gols": 0,
+        "gols": 1,
         "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Dinamarca",
         "numero": "",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 252,
+        "minutosJogados": 317,
+        "craquePartida": 0
+      },
+      {
+        "nome": "Röhl",
+        "imagem": "/assets/img/jogadores/rohl.jpg",
+        "descricao": "Merlin Röhl, Contratado por $19 milhões do SC Freiburg",
+        "overall": 76,
+        "idade": 22,
+        "posicao": "Meia Central",
+        "gols": 1,
+        "assistencias": 1,
+        "jogos": 0,
+        "nacionalidade": "",
+        "numero": "",
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0,
+        "minutosJogados": 574,
         "craquePartida": 0
       }
     ],
@@ -311,7 +362,7 @@
         "numero": "7",
         "cartoesAmarelos": 2,
         "cartoesVermelhos": 0,
-        "minutosJogados": 954,
+        "minutosJogados": 1400,
         "craquePartida": 0
       },
       {
@@ -321,14 +372,14 @@
         "overall": 77,
         "idade": 19,
         "posicao": "Ponta Esquerda",
-        "gols": 2,
-        "assistencias": 2,
+        "gols": 4,
+        "assistencias": 3,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "3",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 1,
-        "minutosJogados": 693,
+        "minutosJogados": 1318,
         "craquePartida": 0
       },
       {
@@ -338,15 +389,15 @@
         "overall": 75,
         "idade": 19,
         "posicao": "Ponta Direita",
-        "gols": 4,
-        "assistencias": 4,
+        "gols": 8,
+        "assistencias": 5,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "41",
         "cartoesAmarelos": 1,
         "cartoesVermelhos": 0,
-        "minutosJogados": 1500,
-        "craquePartida": 1
+        "minutosJogados": 2414,
+        "craquePartida": 3
       },
       {
         "nome": "S. Bolton",
@@ -372,15 +423,15 @@
         "overall": 77,
         "idade": 18,
         "posicao": "Centroavante",
-        "gols": 6,
-        "assistencias": 1,
+        "gols": 8,
+        "assistencias": 2,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "9",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 824,
-        "craquePartida": 2
+        "minutosJogados": 1192,
+        "craquePartida": 3
       },
       {
         "nome": "V. Roque",
@@ -389,15 +440,15 @@
         "overall": 76,
         "idade": 19,
         "posicao": "Centroavante",
-        "gols": 9,
-        "assistencias": 3,
+        "gols": 13,
+        "assistencias": 4,
         "jogos": 0,
         "nacionalidade": "Brasil",
         "numero": "11",
         "cartoesAmarelos": 0,
         "cartoesVermelhos": 0,
-        "minutosJogados": 870,
-        "craquePartida": 4
+        "minutosJogados": 1588,
+        "craquePartida": 6
       }
     ]
   }

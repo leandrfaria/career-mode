@@ -39,25 +39,5 @@
         "logoTime": "/assets/img/times/watford.png"
       }
     ]
-  },
-  "estatisticas": {
-    "time": {
-      "jogos": 1,
-      "vitorias": 0,
-      "empates": 0,
-      "derrotas": 1,
-      "golsMarcados": 1,
-      "golsSofridos": 1
-    },
-    "jogadores": {
-      "Roberts": {
-        "nome": "Mauricio",
-        "gols": 1,
-        "assistencias": 0,
-        "jogos": 0,
-        "cartoesAmarelos": 0,
-        "cartoesVermelhos": 0
-      }
-    }
   }
 }

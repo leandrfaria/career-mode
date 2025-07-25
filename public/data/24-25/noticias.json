@@ -412,22 +412,22 @@
     "destaque": false
   },
   {
-  "id": "53",
-  "autor": "Globo Esporte",
-  "titulo": "Vitor Roque e Olesen assumem titularidade no Palestra Itália",
-  "descricao": "Após boas atuações recentes, Vitor Roque e Olesen foram confirmados como titulares no lugar de Endrick e Muir, respectivamente. A dupla vinha se destacando e a mudança é vista como merecida pela comissão técnica.",
-  "data": "2024-11-26",
-  "destaque": true
-},
-{
-  "id": "54",
-  "autor": "ESPN",
-  "titulo": "Frank Ocean implementa novo esquema tático no Palestra Itália com foco em mobilidade e equilíbrio",
-  "descricao": "O técnico Frank Ocean promoveu uma mudança significativa no esquema tático do Palestra Itália, redefinindo funções-chave em campo. Kevin atuará como armador aberto pela esquerda, responsável pela criação a partir das pontas. Vitor Roque assume o papel de centroavante fixo, sendo a referência ofensiva da equipe. Estevão, na ponta direita, terá liberdade para cortar para dentro e flutuar entre as linhas. Mauricio será o clássico camisa 10, com liberdade para se mover e abrir espaços. Luis Guilherme atuará como um box-to-box, cobrindo tanto a defesa quanto o ataque com equilíbrio. Danilo, por sua vez, será um armador com deslocamento livre, iniciando jogadas desde a base. Na defesa, Piquerez será um ala de apoio, subindo apenas com a posse e recuando sem ela. Olesen ficará fixo na linha defensiva, garantindo segurança no setor. Gómez atuará como um zagueiro agressivo, pressionando e interceptando quando necessário. Já Giay será utilizado como lateral invertido, se posicionando como volante na fase ofensiva para dar superioridade no meio-campo. A mudança visa aumentar a fluidez ofensiva e dar mais controle tático ao time.",
-  "data": "2024-11-27",
-  "destaque": true
-},
-{
+    "id": "53",
+    "autor": "Globo Esporte",
+    "titulo": "Vitor Roque e Olesen assumem titularidade no Palestra Itália",
+    "descricao": "Após boas atuações recentes, Vitor Roque e Olesen foram confirmados como titulares no lugar de Endrick e Muir, respectivamente. A dupla vinha se destacando e a mudança é vista como merecida pela comissão técnica.",
+    "data": "2024-11-26",
+    "destaque": true
+  },
+  {
+    "id": "54",
+    "autor": "ESPN",
+    "titulo": "Frank Ocean implementa novo esquema tático no Palestra Itália com foco em mobilidade e equilíbrio",
+    "descricao": "O técnico Frank Ocean promoveu uma mudança significativa no esquema tático do Palestra Itália, redefinindo funções-chave em campo. Kevin atuará como armador aberto pela esquerda, responsável pela criação a partir das pontas. Vitor Roque assume o papel de centroavante fixo, sendo a referência ofensiva da equipe. Estevão, na ponta direita, terá liberdade para cortar para dentro e flutuar entre as linhas. Mauricio será o clássico camisa 10, com liberdade para se mover e abrir espaços. Luis Guilherme atuará como um box-to-box, cobrindo tanto a defesa quanto o ataque com equilíbrio. Danilo, por sua vez, será um armador com deslocamento livre, iniciando jogadas desde a base. Na defesa, Piquerez será um ala de apoio, subindo apenas com a posse e recuando sem ela. Olesen ficará fixo na linha defensiva, garantindo segurança no setor. Gómez atuará como um zagueiro agressivo, pressionando e interceptando quando necessário. Já Giay será utilizado como lateral invertido, se posicionando como volante na fase ofensiva para dar superioridade no meio-campo. A mudança visa aumentar a fluidez ofensiva e dar mais controle tático ao time.",
+    "data": "2024-11-27",
+    "destaque": true
+  },
+  {
     "id": "56",
     "autor": "GE",
     "titulo": "Vitor Roque lidera o Palestra em participações em gols na temporada",
@@ -562,6 +562,349 @@
     "descricao": "O Palestra Itália vencia até os acréscimos, mas viu Murphy empatar para o Newcastle no último lance, em uma falha defensiva que deve assombrar a torcida por um tempo.",
     "data": "2024-12-21",
     "destaque": true
+  },
+  {
+    "id": "73",
+    "autor": "Redação Esporte",
+    "titulo": "Weverton Brilha e é Eleito Craque do Jogo em Vitória Épica do Palestra",
+    "descricao": "O goleiro Weverton teve uma atuação de gala contra o Arsenal, realizando defesas milagrosas que foram decisivas para o Palestra Itália arrancar uma vitória improvável por 1x0. Sua performance impecável garantiu que o time segurasse a pressão adversária e lhe rendeu o merecido título de melhor em campo.",
+    "data": "2024-12-26",
+    "destaque": true
+  },
+  {
+    "id": "74",
+    "autor": "Globo Esporte",
+    "titulo": "Toque de Gênio de Frank Ocean: Endrick Sai do Banco e Garante o Gol da Vitória",
+    "descricao": "O técnico Frank Ocean mostrou sua perspicácia ao promover a entrada de Endrick no segundo tempo. A aposta foi certeira, e o jovem atacante marcou o gol da vitória do Palestra Itália por 1x0 sobre o Arsenal aos 80 minutos, confirmando a excelente leitura de jogo do treinador.",
+    "data": "2024-12-26",
+    "destaque": true
+  },
+  {
+    "id": "75",
+    "autor": "Globo Esporte",
+    "titulo": "Promessas da Zaga: Palmeiras Sobe David Sobukwe e Sabelo Tloome da Base",
+    "descricao": "O Palmeiras oficializou a promoção de dois jovens zagueiros da sua categoria de base para o elenco principal. David Sobukwe, de 17 anos, com overall de 63 e potencial entre 70-86, é o primeiro a subir. Contudo, a movimentação gerou insatisfação em Sabelo Tloome, também de 17 anos, com overall 63 e potencial de 71-83, que ameaçou rescindir seu contrato caso não fosse promovido. Diante da situação, o clube agiu rapidamente e também integrou Tloome ao time principal, reforçando a defesa com as jovens promessas.",
+    "data": "2024-12-23",
+    "destaque": true
+  },
+  {
+    "id": "76",
+    "autor": "Globo Esporte",
+    "titulo": "Palestra Italia Perde o Primeiro Clássico da Temporada para o Chelsea",
+    "descricao": "Em um confronto aguardado, o Palestra Italia foi superado por 2 a 0 pelo Chelsea no primeiro clássico da temporada. Apesar de um bom volume de jogo, a equipe não conseguiu converter as chances criadas, enquanto o Chelsea foi mais eficaz em suas oportunidades. Os gols adversários foram marcados por Mudryk e Palmer, este último sacramentando a vitória no clássico. Do lado do Palestra Italia, os destaques foram o atacante Leandro e o meio-campista Danilo, apesar da derrota.",
+    "data": "2024-12-29",
+    "destaque": true
+  },
+  {
+    "id": "77",
+    "autor": "ESPN Brasil",
+    "titulo": "Sánchez, Goleiro do Chelsea, Brilha e é o Melhor em Campo Contra o Palestra Italia",
+    "descricao": "Na vitória do Chelsea por 2 a 0 sobre o Palestra Italia, o goleiro Sánchez foi o grande nome da partida. Com atuações seguras e defesas importantes, o arqueiro do Chelsea garantiu que sua meta permanecesse invicta, sendo fundamental para o triunfo no clássico. Sua performance lhe rendeu o título de melhor jogador em campo.",
+    "data": "2024-12-29",
+    "destaque": false
+  },
+  {
+    "id": "78",
+    "autor": "Lance!",
+    "titulo": "Capitão do Palestra Italia Avalia Derrota no Clássico: 'Nem Ótimo, Nem Terrível'",
+    "descricao": "Após a derrota por 2 a 0 para o Chelsea no primeiro clássico da temporada, o capitão do Palestra Italia fez uma avaliação ponderada do desempenho da equipe. Segundo ele, a partida não foi 'nem ótima, nem terrível', mas lamentou a perda de um clássico importante. A declaração reflete a análise de um jogo em que o Palestra Italia teve posse e finalizações, mas pecou na efetividade e na defesa.",
+    "data": "2024-12-29",
+    "destaque": false
+  },
+  {
+    "id": "79",
+    "autor": "Goal",
+    "titulo": "Mercado Aquecido: Palestra Italia Busca Reforços",
+    "descricao": "Com a abertura da janela de transferências, os rumores sobre o Palestra Italia estão a todo vapor. De acordo com fontes próximas ao clube, a diretoria está ativamente no mercado em busca de um zagueiro e um meio-campista para reforçar o elenco. A movimentação indica uma busca por maior solidez defensiva e opções para o setor de criação, visando aprimorar o desempenho da equipe nas próximas competições. Nomes ainda não foram confirmados, mas a expectativa é de que as negociações avancem nas próximas semanas.",
+    "data": "2025-01-01",
+    "destaque": false
+  },
+  {
+    "id": "80",
+    "autor": "Gazeta Esportiva",
+    "titulo": "Eliminação Precoce: Palestra Italia Cai na Primeira Fase do Campeonato de Base",
+    "descricao": "Uma surpresa amarga marcou a participação do Palestra Italia no campeonato de base. A equipe foi eliminada logo na primeira fase, após sofrer uma derrota por 3 a 1 para o Everton. Apesar do resultado, o jovem talento Machado foi o grande destaque do Palestra Italia na partida, mostrando raça e qualidade em campo. A eliminação precoce liga o alerta para o desempenho das categorias de base, que vinham de bons resultados, mas agora precisam reavaliar a preparação para as próximas competições.",
+    "data": "2025-01-05",
+    "destaque": false
+  },
+  {
+    "id": "81",
+    "autor": "Globo Esporte",
+    "titulo": "Reestruturação Radical: Palestra Italia Promove Grande Limpeza nas Categorias de Base",
+    "descricao": "Após a surpreendente eliminação na primeira fase do campeonato de base e a promoção de David Sobukwe e Sabelo Tloome ao elenco profissional, o Palestra Italia decidiu por uma drástica reformulação em suas categorias de base. O clube anunciou a rescisão de contrato com a maioria dos jogadores do elenco jovem, mantendo apenas quatro promessas que são vistas como pilares para o futuro. Os nomes que permanecem são: Caio Carvalho (Goleiro, 15 anos, 55 OVR, 73-94 POT), Santiago Salazar (Lateral Esquerdo, 16 anos, 66 OVR, 75-94 POT), Leonardo Machado (Meio-Campista, 15 anos, 57 OVR, 73-87 POT) e Adriano Ramos (Meio-Campista, 17 anos, 61 OVR, 69-81 POT). A medida visa um recomeço e um investimento focado em talentos com maior potencial de desenvolvimento.",
+    "data": "2025-01-07",
+    "destaque": true
+  },
+  {
+    "id": "82",
+    "autor": "ESPN Brasil",
+    "titulo": "Estreia Promissora: David Sobukwe Se Destaca em Empate do Palestra Italia",
+    "descricao": "Na partida que terminou em empate por 1 a 1 entre Palestra Italia e Fulham, o jovem zagueiro David Sobukwe, recém-promovido da base, fez sua estreia no time profissional. O jogador demonstrou segurança e boa adaptação ao ritmo do jogo, conseguindo lidar bem com a pressão e contribuindo para o desempenho defensivo da equipe. Sua performance deixou uma impressão positiva para o futuro.",
+    "data": "2025-01-04",
+    "destaque": false
+  },
+  {
+    "id": "83",
+    "autor": "Sky Sports",
+    "titulo": "Smith Rowe Brilha e é Eleito Melhor em Campo Contra o Palestra Italia",
+    "descricao": "No empate em 1 a 1 entre Fulham e Palestra Italia, o meio-campista Smith Rowe, do Fulham, foi o grande destaque da partida. Com uma atuação consistente e decisiva, o jogador foi fundamental para o desempenho de sua equipe, sendo reconhecido como o melhor em campo. Sua performance foi crucial para o gol de empate no último minuto.",
+    "data": "2025-01-04",
+    "destaque": false
+  },
+  {
+    "id": "84",
+    "autor": "Lance!",
+    "titulo": "Revanche Incompleta: Palestra Italia Empata com Fulham Após Última Vitória por 2 a 0",
+    "descricao": "O confronto entre Palestra Italia e Fulham terminou em um empate por 1 a 1, diferentemente do último encontro entre as equipes, quando o Palestra havia vencido por 2 a 0. Desta vez, o Fulham buscou o empate no último minuto, impedindo uma nova vitória do time paulista. O resultado reflete a intensidade e o equilíbrio do duelo.",
+    "data": "2025-01-04",
+    "destaque": false
+  },
+  {
+    "id": "85",
+    "autor": "UEFA",
+    "titulo": "Seleção do Ano da UEFA 2024 Revelada",
+    "descricao": "A UEFA anunciou a sua Seleção do Ano de 2024, destacando os melhores talentos do futebol europeu. A equipe ideal é fortemente representada por jogadores de Real Madrid e Manchester City. No ataque, a dupla de peso é formada por Kylian Mbappé (Real Madrid) e Erling Haaland (Manchester City). O meio-campo conta com Rodri (Manchester City) na ala esquerda, Kevin De Bruyne (Real Madrid) e Jude Bellingham (Real Madrid) centralizados, e Bernardo Silva (Juventus) na ala direita. A defesa é composta por João Cancelo (Manchester City) na lateral esquerda, Rúben Dias (Manchester City) e Dani Carvajal (Real Madrid) como zagueiros, e Antonio Rüdiger (Real Madrid) na lateral direita, enquanto Thibaut Courtois (Real Madrid) foi eleito o goleiro.",
+    "data": "2024-01-08",
+    "destaque": true
+  },
+  {
+    "id": "86",
+    "autor": "ESPN Brasil",
+    "titulo": "Palestra Italia Anuncia a Contratação do Zagueiro Micael para Reforçar o Elenco",
+    "descricao": "O Palestra Italia confirmou a contratação do zagueiro Micael, de 24 anos e overall 66, por um valor de US$ 1,8 milhão. O jogador assinará um contrato de três anos com o clube, com um salário mensal de US$ 21 mil. A diretoria do Palestra Italia informou que Micael chega para compor o elenco e é visto como uma possível aposta para o futuro da equipe, buscando fortalecer o setor defensivo.",
+    "data": "2025-01-08",
+    "destaque": true
+  },
+  {
+    "id": "87",
+    "autor": "ESPN Brasil",
+    "titulo": "Palmeiras Anuncia Contratação de Merlin Röhl para o Meio-Campo",
+    "descricao": "O Palmeiras confirmou a contratação do meio-campista Merlin Röhl, de 22 anos e overall 76, vindo do SC Freiburg. O jogador assinará um contrato de cinco anos, com salário mensal de $43 mil. O valor da negociação foi de $19 milhões, e Röhl chega para reforçar o meio-campo da equipe alviverde.",
+    "data": "2025-01-12",
+    "destaque": true
+  },
+  {
+    "id": "88",
+    "autor": "O Globo",
+    "titulo": "Merlin Röhl Assume a Titularidade no Meio-Campo do Palmeiras",
+    "descricao": "Após sua recente contratação, o meio-campista Merlin Röhl passará a ser o titular definitivo da equipe do Palmeiras, ocupando a vaga que antes pertencia a Luis Guilherme. A decisão foi tomada pela comissão técnica após avaliações do desempenho nos treinos e a adaptação do novo jogador.",
+    "data": "2025-01-13",
+    "destaque": true
+  },
+  {
+    "id": "89",
+    "autor": "FIFA News",
+    "titulo": "Carlo Ancelotti Eleito o Melhor Treinador do Ano de 2024",
+    "descricao": "O renomado técnico Carlo Ancelotti foi condecorado com o prêmio de Melhor Treinador do Ano de 2024. A premiação reconhece o trabalho excepcional de Ancelotti ao longo da temporada, consolidando sua reputação como um dos grandes nomes da história do futebol.",
+    "data": "2025-01-13",
+    "destaque": true
+  },
+  {
+    "id": "90",
+    "autor": "ESPN Brasil",
+    "titulo": "Welbeck Brilha em Empate com o Palmeiras e é Eleito Melhor em Campo",
+    "descricao": "Apesar do empate em 1 a 1 contra o Palmeiras, o atacante Danny Welbeck foi o grande destaque do Brighton, sendo eleito o melhor jogador em campo. Com um gol crucial, Welbeck foi fundamental para o time inglês na partida disputada nesta quarta-feira, 16 de janeiro de 2024.",
+    "data": "2024-01-17",
+    "destaque": false
+  },
+  {
+    "id": "91",
+    "autor": "Globo Esporte",
+    "titulo": "Palmeiras Empata com Brighton Após Vitória no Confronto Anterior",
+    "descricao": "Após ter vencido o Brighton por 2 a 1 no último encontro, o Palmeiras teve que se contentar com um empate em 1 a 1 nesta quarta-feira, 16 de janeiro de 2024. A equipe brasileira enfrentou um Brighton dominante na posse de bola e finalizações, garantindo um ponto fora de casa.",
+    "data": "2024-01-17",
+    "destaque": false
+  },
+  {
+    "id": "87",
+    "autor": "Goal.com",
+    "titulo": "Sosa Quebra o Gelo e Marca Primeiro Gol em Clássico na Goleada do Palestra Italia",
+    "descricao": "O jovem atacante Sosa teve um momento especial na histórica goleada de 4 a 0 do Palestra Italia sobre o Manchester City. Ele marcou seu primeiro gol em um clássico, selando a vitória e contribuindo para a performance espetacular da equipe. O gol de Sosa, além de lindo, foi a cereja no bolo de uma noite inesquecível para os torcedores.",
+    "data": "2024-01-19",
+    "destaque": true
+  },
+  {
+    "id": "88",
+    "autor": "Lance!",
+    "titulo": "Endrick Brilha e é Eleito Melhor em Campo na Goleada Histórica do Palestra Italia",
+    "descricao": "Na impressionante vitória de 4 a 0 do Palestra Italia sobre o Manchester City, Endrick foi o grande nome da partida. Com uma atuação impecável, o atacante foi fundamental para a construção do placar elástico, marcando um gol e dando uma assistência. Sua performance de alto nível lhe garantiu o título de melhor jogador em campo, reafirmando seu protagonismo no time.",
+    "data": "2024-01-19",
+    "destaque": true
+  },
+  {
+    "id": "89",
+    "autor": "UOL Esporte",
+    "titulo": "Palestra Italia Reafirma Superioridade e Vence City Pela Segunda Vez na Temporada",
+    "descricao": "O Palestra Italia conquistou sua segunda vitória sobre o Manchester City na temporada, desta vez com uma goleada de 4 a 0. O resultado expressivo demonstra a superioridade do Palestra contra o atual líder da liga, que no primeiro confronto havia vencido por apenas 1 a 0. A equipe mostrou um desempenho avassalador, consolidando sua força no cenário competitivo.",
+    "data": "2024-01-20",
+    "destaque": true
+  },
+  {
+    "id": "90",
+    "autor": "Globo Esporte",
+    "titulo": "Histórico 'Dérbi da Soberania': Palestra Italia Goleia Manchester City por 4 a 0",
+    "descricao": "Em uma partida que entrará para a história do clube, o Palestra Italia aplicou uma goleada devastadora de 4 a 0 sobre o Manchester City, no que já está sendo chamado de 'Dérbi da Soberania'. Com dois jogadores expulsos do time adversário, o Palestra Italia dominou completamente o jogo, com gols de Olesen, Leandro, Endrick e Sosa. A vitória não só cimenta a superioridade do Palestra contra o líder da liga, como também ameaça seriamente a posição do City no topo da tabela. A atuação impecável da equipe foi amplamente celebrada, com Endrick eleito o melhor em campo e vários jogadores do Palestra compondo a seleção da rodada.",
+    "data": "2024-01-19",
+    "destaque": true
+  },
+  {
+    "id": "92",
+    "autor": "ESPN Brasil",
+    "titulo": "Mac Allister Brilha e é Eleito o Melhor em Campo no Empate entre Liverpool e Palestra Italia",
+    "descricao": "No emocionante empate em 2 a 2 entre Liverpool e Palestra Italia, o meio-campista Mac Allister foi o grande destaque da partida. Com uma atuação de alto nível, o jogador argentino se mostrou crucial para o desempenho do Liverpool, sendo merecidamente eleito o melhor em campo do 'Confronto dos Alados'.",
+    "data": "2024-01-25",
+    "destaque": false
+  },
+  {
+    "id": "93",
+    "autor": "Lance!",
+    "titulo": "Histórico se Repete: Palestra Italia e Liverpool Voltam a Empatar",
+    "descricao": "Pelo segundo confronto consecutivo, Palestra Italia e Liverpool terminaram em igualdade. Após o empate em 1 a 1 no duelo anterior, as equipes protagonizaram um novo 2 a 2, mantendo a escrita de jogos equilibrados e sem um vencedor claro entre os dois clubes. O resultado demonstra a paridade entre os times em campo.",
+    "data": "2024-01-25",
+    "destaque": false
+  },
+  {
+    "id": "94",
+    "autor": "Globo Esporte",
+    "titulo": "'Confronto dos Alados' é o Nome Oficial para o Clássico Palestra Italia x Liverpool",
+    "descricao": "Foi definido o nome oficial para o clássico entre Palestra Italia e Liverpool: 'Confronto dos Alados'. A escolha, que faz alusão aos mascotes de ambos os clubes (o porco do Palestra e o pássaro Liver Bird do Liverpool), busca criar uma identidade única e memorável para os duelos entre as equipes, prometendo ainda mais emoção e rivalidade a cada encontro.",
+    "data": "2024-01-25",
+    "destaque": true
+  },
+  {
+    "id": "95",
+    "autor": "ESPN Brasil",
+    "titulo": "Röhl Balança as Redes Pela Primeira Vez Com a Camisa do Palestra Itália",
+    "descricao": "O meio-campista recém-contratado, Merlin Röhl, marcou seu primeiro gol pelo Palestra Itália na vitória por 3 a 1 sobre o Southampton. O jogador balançou as redes aos 55 minutos do segundo tempo com um belo chute de trivela, mostrando que a nova contratação já está rendendo frutos.",
+    "data": "2024-02-01",
+    "destaque": false
+  },
+  {
+    "id": "96",
+    "autor": "TNT Sports",
+    "titulo": "Estevão é Eleito o Melhor em Campo na Vitória do Palestra Itália",
+    "descricao": "Estevão foi o grande destaque da partida entre Palestra Itália e Southampton, sendo eleito o melhor jogador em campo. O jovem atacante brilhou com um gol e uma assistência crucial, liderando a equipe na vitória por 3 a 1 e demonstrando sua importância para o elenco.",
+    "data": "2024-02-01",
+    "destaque": false
+  },
+  {
+    "id": "97",
+    "autor": "UOL Esporte",
+    "titulo": "Palestra Itália Mantém Superioridade Sobre o Southampton com Nova Vitória",
+    "descricao": "O Palestra Itália confirmou sua superioridade sobre o Southampton ao vencer o confronto por 3 a 1, repetindo o bom desempenho do último embate entre as equipes, quando o Palestra havia vencido por 2 a 0. A equipe mantém um histórico positivo contra o adversário, consolidando sua força nos duelos.",
+    "data": "2024-02-01",
+    "destaque": false
+  },
+  {
+    "id": "98",
+    "autor": "Marca (Espanha)",
+    "titulo": "Diretoria do Palestra Itália se Manifesta Contra Arbitragem em Jogo com Southampton",
+    "descricao": "A diretoria do Palestra Itália expressou grande insatisfação com a arbitragem na partida contra o Southampton. O clube reclama de um pênalti polêmico não marcado em Piquerez, além de diversas outras faltas ignoradas ao longo do jogo, o que gerou incômodo e preocupação nos bastidores da equipe.",
+    "data": "2024-02-01",
+    "destaque": false
+  },
+  {
+    "id": "99",
+    "autor": "The Guardian",
+    "titulo": "Defesa de Ferro: Palestra Italia Vence Liverpool e Avança na FA Cup",
+    "descricao": "Em um 'Confronto dos Alados' tenso pela Emirates FA Cup, o Palestra Italia garantiu sua classificação ao superar o Liverpool por 1 a 0 fora de casa. A vitória foi construída por uma atuação defensiva magistral do clube, que 'fechou a porteira' e não permitiu chances claras ao adversário. Esta é a primeira vitória do Palestra Italia sobre o Liverpool na temporada, após dois empates em confrontos anteriores, mostrando a evolução da equipe.",
+    "data": "2025-02-08",
+    "destaque": true
+  },
+  {
+    "id": "100",
+    "autor": "BBC Sport",
+    "titulo": "Vitor Roque Decisivo: Atacante é o Craque do Jogo na Vitória do Palestra Italia pela FA Cup",
+    "descricao": "Vitor Roque foi o grande nome da vitória do Palestra Italia por 1 a 0 sobre o Liverpool, que garantiu a equipe na próxima fase da Emirates FA Cup. Além de marcar o gol solitário da partida, o atacante teve uma performance inspirada e foi fundamental para o triunfo fora de casa, sendo eleito o melhor em campo.",
+    "data": "2025-02-08",
+    "destaque": false
+  },
+  {
+    "id": "101",
+    "autor": "Globo Esporte",
+    "titulo": "Weverton Salva o Palestra Italia e é o Melhor em Campo em Empate sem Gols",
+    "descricao": "O goleiro Weverton foi o grande destaque do Palestra Italia no empate em 0 a 0 com o Aston Villa. Com defesas cruciais, o arqueiro garantiu que o time não saísse derrotado da partida, sendo eleito o melhor em campo. Sua atuação impecável foi fundamental para segurar o placar sem gols.",
+    "data": "2024-02-15",
+    "destaque": false
+  },
+  {
+    "id": "102",
+    "autor": "ESPN Brasil",
+    "titulo": "Estreia de Micael: Novo Zagueiro do Palestra Italia Entra em Campo Contra o Aston Villa",
+    "descricao": "O zagueiro Micael fez sua estreia pelo Palestra Italia na partida contra o Aston Villa, que terminou em 0 a 0. O defensor, recém-contratado, entrou em campo no segundo tempo, marcando seus primeiros minutos com a camisa do clube. A expectativa é que ele ganhe mais oportunidades para mostrar seu potencial.",
+    "data": "2024-02-15",
+    "destaque": false
+  },
+  {
+    "id": "103",
+    "autor": "Lance!",
+    "titulo": "Palestra Italia Empata com Aston Villa Após Vitória Anterior; Torcida Questiona Escalação",
+    "descricao": "Após ter vencido o Aston Villa por 2 a 1 no último confronto, o Palestra Italia teve que se contentar com um empate em 0 a 0. O resultado gerou questionamentos entre a torcida, que começa a indagar a manutenção de Kevin como titular em detrimento de Leandro, que vem apresentando melhores atuações quando entra em campo. O empate sem gols frustrou os torcedores.",
+    "data": "2024-02-15",
+    "destaque": false
+  },
+  {
+    "id": "104",
+    "autor": "Globo Esporte",
+    "titulo": "Leandro Assume Titularidade Definitiva no Lugar de Kevin",
+    "descricao": "Após semanas de especulações e o clamor da torcida, o Palestra Italia confirmou uma alteração definitiva em sua escalação titular: Leandro assumirá a vaga de Kevin no time principal. A decisão reflete o bom desempenho de Leandro nas últimas partidas, somado aos questionamentos sobre a performance de Kevin, especialmente após o empate sem gols contra o Aston Villa. A mudança visa trazer mais dinamismo e efetividade ao setor ofensivo da equipe.",
+    "data": "2025-02-18",
+    "destaque": true
+  },
+  {
+    "id": "105",
+    "autor": "Sky Sports",
+    "titulo": "Son É o Craque do Jogo e Garante Vitória do Tottenham Contra o Palestra Italia",
+    "descricao": "No confronto entre Tottenham e Palestra Italia, Son foi o grande destaque da partida, sendo eleito o melhor em campo. O atacante sul-coreano marcou o único gol do jogo nos acréscimos, garantindo a vitória para os Spurs e impondo uma dolorosa derrota ao time do Palestra Italia.",
+    "data": "2024-02-22",
+    "destaque": false
+  },
+  {
+    "id": "106",
+    "autor": "Goal.com",
+    "titulo": "Tottenham Vinga Empate Anterior e Vence Palestra Italia por 1 a 0",
+    "descricao": "Após o empate em 2 a 2 no primeiro encontro da temporada, o Tottenham se impôs e venceu o Palestra Italia por 1 a 0. A partida, marcada pelo domínio do time inglês, resultou em uma lamentável derrota para o Palestra Italia, que não conseguiu repetir o bom desempenho do confronto anterior e viu o adversário levar a melhor em seus domínios.",
+    "data": "2024-02-22",
+    "destaque": false
+  },
+  {
+    "id": "107",
+    "autor": "ESPN Brasil",
+    "titulo": "Técnico do Palestra Italia Assume Culpa por Derrota e Elogia Weverton",
+    "descricao": "Após a derrota por 1 a 0 para o Tottenham, o técnico do Palestra Italia assumiu total responsabilidade pelo resultado. Ele parabenizou o goleiro Weverton pela atuação heroica, afirmando que sem ele a goleada teria sido inevitável, e pediu desculpas à torcida. O treinador admitiu que a equipe não estava preparada para a pressão alta do Tottenham e destacou a qualidade da defesa adversária, prometendo ajustes para os próximos jogos.",
+    "data": "2024-02-22",
+    "destaque": true
+  },
+  {
+    "id": "108",
+    "autor": "Globo Esporte",
+    "titulo": "Weverton é o Herói e Melhor em Campo em Empate sem Gols do Palestra Italia",
+    "descricao": "Em um jogo de poucas emoções ofensivas, o goleiro Weverton se destacou como o grande nome do Palestra Italia no empate em 0 a 0 com o Manchester United. Suas defesas foram cruciais para manter o placar zerado, garantindo um ponto para a equipe e o título de melhor em campo. A atuação do arqueiro foi fundamental para evitar uma derrota em um dia em que o ataque não funcionou.",
+    "data": "2024-02-27",
+    "destaque": false
+  },
+  {
+    "id": "109",
+    "autor": "Lance!",
+    "titulo": "Palestra Italia Empata com Manchester United Após Vitória Anterior",
+    "descricao": "Depois de ter vencido o Manchester United por 2 a 1 no último encontro, o Palestra Italia teve que se contentar com um empate em 0 a 0 desta vez. O resultado, embora não seja uma derrota, reflete a dificuldade da equipe em manter o ritmo e a performance dos jogos anteriores, frustrando a expectativa de uma nova vitória sobre o adversário.",
+    "data": "2024-02-27",
+    "destaque": false
+  },
+  {
+    "id": "110",
+    "autor": "ESPN Brasil",
+    "titulo": "Técnico do Palestra Italia Cobra Setor Ofensivo Após Empate Frustrante",
+    "descricao": "Após o empate em 0 a 0 com o Manchester United, o técnico do Palestra Italia elogiou a solidez defensiva de sua equipe, mas não poupou críticas ao desempenho do meio-campo para frente. O treinador afirmou que há 'muitos problemas' no setor ofensivo e que os jogadores não estão fazendo o necessário para solucioná-los, cobrando mais dedicação e efetividade para os próximos desafios.",
+    "data": "2024-02-27",
+    "destaque": true
+  },
+  {
+    "id": "111",
+    "autor": "Globo Esporte",
+    "titulo": "Palestra Italia Conquista o0 Bicampeonato da Base",
+    "descricao": "O Palestra Italia sagrou-se campeão do Campeonato da Base, celebrando seu segundo título na temporada em três competições disputadas. A conquista é um marco para a jovem equipe, especialmente após a frustração de ter perdido o último campeonato. A campanha vitoriosa foi impulsionada pela dupla de meio-campo Machado e Ramos, que voltou a brilhar e foi fundamental para o sucesso. Ramos foi o melhor em campo na vitória por 4 a 1 sobre o Brentford, contribuindo com 3 gols e 1 assistência. Já Machado brilhou na goleada por 5 a 1 sobre o Arsenal, com 2 gols e 1 assistência. Na final, contra o Southampton, o Palestra Italia venceu por 3 a 1, com Salazar marcando 2 gols. Os números individuais da campanha comprovam o brilho da equipe: Ramos finalizou o campeonato com 4 gols e 3 assistências; Machado com 3 gols e 1 assistência; e Salazar com 3 gols, sendo 2 deles na grande final. A diretoria e a torcida celebram a promissora geração de talentos do Palestra Italia.",
+    "data": "2025-03-05",
+    "destaque": true
   }
-
 ]

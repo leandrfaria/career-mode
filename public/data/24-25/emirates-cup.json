@@ -1,0 +1,92 @@
+{
+  "calendario": {
+    "Janeiro": [
+      {
+        "data": "2025-01-10",
+        "adversario": "Millwall",
+        "placar": "3-0",
+        "local": "Casa",
+        "golsTime": ["Vitor Roque 3'", "Maurício 12'", "Estevão 70'"],
+        "assistenciasTime": ["Leandro", "Maurício"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Olesen"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
+        "substituicoesTime": [
+          {
+            "saiu": "Leandro",
+            "entrou": "Sosa",
+            "minuto": 71
+          },
+          {
+            "saiu": "Martinez",
+            "entrou": "Luis Guilherme",
+            "minuto": 71
+          },
+          {
+            "saiu": "Olesen",
+            "entrou": "Muir",
+            "minuto": 71
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Garcia",
+            "minuto": 71
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Roberts",
+            "minuto": 71
+          }
+        ],
+        "noticiasRelacionadas": [],
+        "descricaoPartida": "Em uma partida sem grandes sustos pela primeira fase da Emirates FA Cup, o Palestra Italia não tomou conhecimento do Millwall e aplicou um sonoro 3 a 0 em seus domínios. O jogo foi um verdadeiro amasso do Palestra Italia, que controlou as ações e garantiu a classificação com tranquilidade, demonstrando a superioridade de seu elenco.\nAs mudanças na equipe titular, com Leandro no lugar de Kevin e Martinez na vaga de Luis Guilherme, surtiram efeito imediato. O primeiro gol não demorou a sair, logo aos 3 minutos. Após uma enfiada de bola perfeita de Leandro, Vitor Roque finalizou de primeira, sem firulas, mandando a bola no canto e balançando as redes sem chances para o goleiro.\nAos 12 minutos, o Palestra Italia ampliou a vantagem. Piquerez cruzou a bola quase da linha de escanteio, e após um bate e rebate de cabeça na área, a bola sobrou para Maurício, que pisou na área e finalizou com maestria, marcando um golaço. O domínio continuou, com o time administrando a partida e criando as melhores oportunidades. Vale ressaltar que Olesen foi amarelado durante o confronto.\nNo segundo tempo, aos 70 minutos, a goleada foi sacramentada com um belíssimo gol de Estevão. Em uma jogada bem trabalhada que envolveu Vitor Roque, Maurício e o próprio Estevão, Maurício foi até a linha de fundo com a bola e tocou para Estevão, que cortou para dentro, driblou um zagueiro e finalizou com precisão, marcando outro golaço.\nAs estatísticas confirmaram o domínio do Palestra Italia: embora a posse de bola tenha sido equilibrada para ambos os lados, o Palestra finalizou 9 vezes contra apenas 3 do Millwall, evidenciando a superioridade ofensiva. O melhor jogador em campo foi Vitor Roque, seguido de perto por Maurício, ambos cruciais para a vitória.\nIndividualmente, os destaques foram: Leandro, com uma assistência, Vitor Roque com um gol, Estevão com um gol, e Maurício com um gol e uma assistência, contribuindo diretamente para o resultado elástico e a classificação na competição.",
+        "logoTime": "/assets/img/times/millwall.png"
+      }
+    ],
+    "Fevereiro": [
+      {
+        "data": "2025-02-08",
+        "adversario": "Liverpool",
+        "placar": "1-0",
+        "local": "Fora",
+        "golsTime": ["Vitor Roque 32'"],
+        "assistenciasTime": [""],
+        "golsAdversario": [],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
+        "substituicoesTime": [
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 70
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Kevin",
+            "minuto": 70
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Martinez",
+            "minuto": 70
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 70
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 70
+          }
+        ],
+        "noticiasRelacionadas": [99,100],
+        "descricaoPartida": "Em um aguardado 'Confronto dos Alados' pela Emirates FA Cup, o Palestra Italia conquistou uma vitória crucial de 1 a 0 sobre o Liverpool, atuando fora de casa em 8 de fevereiro. A partida foi um verdadeiro jogaço, marcado por um equilíbrio tático e uma performance defensiva impecável do time visitante.\nA única mudança na escalação titular do Palestra Italia foi a entrada de Leandro no lugar de Kevin, que se mostrou uma decisão acertada. O gol da vitória veio aos 32 minutos, com Vitor Roque. Após uma enfiada de bola de Maurício que a zaga do Liverpool se atrapalhou para interceptar, Vitor Roque aproveitou a sobra, invadiu a área e marcou um belíssimo gol cruzado, sem chances para o goleiro.\nNo segundo tempo, aos 70 minutos, o técnico do Palestra Italia realizou uma série de substituições estratégicas para manter o fôlego e a solidez da equipe: Endrick entrou no lugar de Vitor Roque, Kevin na vaga de Estevão, Martinez substituiu Danilo, Muir entrou no lugar de Gómez e Vergara assumiu a posição de Piquerez.\nApesar de o Liverpool ter tido 53% da posse de bola contra 47% do Palestra Italia, e 7 finalizações contra 6 do time visitante, a defesa do Palestra Italia foi o grande destaque. O time de Ocean fechou a porteira e conseguiu segurar o ímpeto ofensivo do Liverpool.\nIndividualmente, Vitor Roque foi eleito o melhor em campo, não apenas por ter marcado o gol decisivo, mas por sua atuação consistente. Giay teve um desempenho exemplar, 'cancelando' completamente Luis Díaz, uma ameaça constante do adversário. Além deles, Rohl e Leandro também foram elogiados por suas atuações. A vitória garante o Palestra Italia na próxima fase da FA Cup, com a certeza de que a defesa do clube Palestra d'Italia tem se mostrado um pilar fundamental nesta temporada.",
+        "logoTime": "/assets/img/times/liverpool.png"
+      }
+    ]
+  }
+}
