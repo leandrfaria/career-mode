@@ -83,9 +83,183 @@
             "minuto": 70
           }
         ],
-        "noticiasRelacionadas": [99,100],
+        "noticiasRelacionadas": [99, 100],
         "descricaoPartida": "Em um aguardado 'Confronto dos Alados' pela Emirates FA Cup, o Palestra Italia conquistou uma vitória crucial de 1 a 0 sobre o Liverpool, atuando fora de casa em 8 de fevereiro. A partida foi um verdadeiro jogaço, marcado por um equilíbrio tático e uma performance defensiva impecável do time visitante.\nA única mudança na escalação titular do Palestra Italia foi a entrada de Leandro no lugar de Kevin, que se mostrou uma decisão acertada. O gol da vitória veio aos 32 minutos, com Vitor Roque. Após uma enfiada de bola de Maurício que a zaga do Liverpool se atrapalhou para interceptar, Vitor Roque aproveitou a sobra, invadiu a área e marcou um belíssimo gol cruzado, sem chances para o goleiro.\nNo segundo tempo, aos 70 minutos, o técnico do Palestra Italia realizou uma série de substituições estratégicas para manter o fôlego e a solidez da equipe: Endrick entrou no lugar de Vitor Roque, Kevin na vaga de Estevão, Martinez substituiu Danilo, Muir entrou no lugar de Gómez e Vergara assumiu a posição de Piquerez.\nApesar de o Liverpool ter tido 53% da posse de bola contra 47% do Palestra Italia, e 7 finalizações contra 6 do time visitante, a defesa do Palestra Italia foi o grande destaque. O time de Ocean fechou a porteira e conseguiu segurar o ímpeto ofensivo do Liverpool.\nIndividualmente, Vitor Roque foi eleito o melhor em campo, não apenas por ter marcado o gol decisivo, mas por sua atuação consistente. Giay teve um desempenho exemplar, 'cancelando' completamente Luis Díaz, uma ameaça constante do adversário. Além deles, Rohl e Leandro também foram elogiados por suas atuações. A vitória garante o Palestra Italia na próxima fase da FA Cup, com a certeza de que a defesa do clube Palestra d'Italia tem se mostrado um pilar fundamental nesta temporada.",
         "logoTime": "/assets/img/times/liverpool.png"
+      }
+    ],
+    "Março": [
+      {
+        "data": "2025-03-02",
+        "adversario": "Everton",
+        "placar": "1-0",
+        "local": "Fora",
+        "golsTime": ["Maurício 36'"],
+        "assistenciasTime": ["Rohl"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Maurício",
+        "substituicoesTime": [
+          {
+            "saiu": "Olesen",
+            "entrou": "Gómez",
+            "minuto": 63
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Sáez",
+            "minuto": 63
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 63
+          },
+          {
+            "saiu": "Leandro",
+            "entrou": "Kevin",
+            "minuto": 82
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 82
+          }
+        ],
+        "noticiasRelacionadas": [112, 113],
+        "descricaoPartida": "Após uma sequência de jogos com atuações abaixo do esperado, o Palestra Italia deu uma resposta enfática ao vencer o Everton por 1 a 0 fora de casa em 2 de março. Apesar do placar apertado, a partida foi um verdadeiro 'amasso' do time do Palestra, que demonstrou uma significativa melhora em campo e reassumiu o controle das ações.\nA única mudança na escalação inicial, com Muir entrando no lugar de Gomez, pareceu dar mais solidez ao time. O único gol da partida veio aos 36 minutos, com Maurício. Em uma bela construção de jogada do Palestra, Rohl passou para Maurício que, da entrada da área, finalizou de primeira, marcando um golaço e coroando uma de suas melhores atuações recentes.\nO domínio do Palestra Italia foi evidente nas estatísticas: o time controlou 55% da posse de bola contra 45% do Everton, e o mais impressionante, finalizou 16 vezes ao gol adversário, enquanto o Everton teve apenas 2 finalizações. Essa superioridade na criação de jogadas mostra que a equipe está no caminho certo para reencontrar seu melhor futebol.\nAos 63 minutos, o técnico realizou as primeiras substituições para manter o ritmo e a intensidade: Gómez entrou no lugar de Olesen, Sáez na vaga de Giay e Endrick substituiu Vitor Roque. Mais tarde, aos 82 minutos, Kevin entrou no lugar de Leandro e Martinez na vaga de Rohl.\nMaurício foi, sem dúvida, o grande nome da partida e o melhor em campo. Atuando como um clássico camisa 10, ele não só marcou um golaço, mas também se posicionou constantemente na entrada da área, criando diversas oportunidades e realizando cerca de cinco chutes a gol. Sua performance foi louvável e fundamental para a vitória. Leandro, Danilo e Rohl também foram elogiados por suas atuações de destaque, contribuindo para o resurgimento da equipe.\nA vitória não só alivia a pressão sobre o time, mas também demonstra que o Palestra Italia está no caminho certo, com uma criação de jogadas eficiente e a necessidade de aprimorar a efetividade nas finalizações para os próximos desafios.",
+        "logoTime": "/assets/img/times/everton.png"
+      },
+      {
+        "data": "2025-03-29",
+        "adversario": "Aston Villa",
+        "placar": "3-0",
+        "local": "Casa",
+        "golsTime": ["Leandro 11'", "Estevão 19'", "Vitor Roque 28'"],
+        "assistenciasTime": ["Vitor Roque", "Vitor Roque", "Leandro"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Luis Guilherme"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
+        "substituicoesTime": [
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 68
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 68
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 68
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 68
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 77
+          }
+        ],
+        "noticiasRelacionadas": [118, 119],
+        "descricaoPartida": "Em uma atuação de gala pela Emirates FA Cup, o Palestra Italia dominou o Aston Villa e garantiu uma vitória convincente por 3 a 0 em seus domínios, no dia 29 de março. Apesar de ter menos posse de bola (40% contra 60% do adversário), o time do Palestra mostrou uma estratégia de contra-ataque letal e uma eficiência impressionante, o que explica o placar elástico.\nO primeiro gol não demorou a sair, aos 11 minutos, com Leandro. Em uma jogada bem construída, Vitor Roque roubou a bola no meio de campo e conduziu com calma, observando a movimentação de Leandro em direção à área. Vitor Roque, então, fez uma enfiada precisa, e Leandro, ao receber a bola, finalizou com força para o fundo das redes.\nA vantagem foi ampliada aos 19 minutos por Estevão. Novamente, Vitor Roque demonstrou sua inteligência, conduzindo a bola e esperando o momento certo para servir Estevão, que recebeu, driblou dois zagueiros e chutou, marcando um golaço.\nAinda no primeiro tempo, aos 28 minutos, Vitor Roque deixou o dele, coroando uma jogada linda de contra-ataque. Giay deu uma fatiada cruzada espetacular para Leandro na ala esquerda. Leandro, sem hesitar, já enfiou para Vitor Roque, que driblou o zagueiro, avançou até a pequena área e finalizou rasteiro, balançando as redes pela terceira vez.\nNo segundo tempo, o técnico realizou as primeiras substituições aos 68 minutos: Endrick entrou no lugar de Vitor Roque, Sosa na vaga de Estevão, Muir substituiu Gómez e Vergara assumiu a posição de Piquerez. Aos 77 minutos, Luis Guilherme entrou no lugar de Maurício, e posteriormente, Luis Guilherme foi amarelado.\nO Palestra Italia foi muito mais efetivo nas finalizações, com 12 chutes a gol contra 6 do Aston Villa, demonstrando a superioridade no ataque.\nIndividualmente, Vitor Roque foi eleito o melhor da partida, com uma performance completa: 1 gol e 2 assistências. Leandro também brilhou, com 1 gol e 1 assistência, e Estevão contribuiu com 1 gol. A vitória expressiva e a atuação dominante dão confiança ao Palestra Italia para as próximas fases da Emirates FA Cup.",
+        "logoTime": "/assets/img/times/astonvilla.png"
+      }
+    ],
+    "Abril": [
+      {
+        "data": "2025-04-26",
+        "adversario": "Brentford",
+        "placar": "2-0",
+        "local": "Casa",
+        "golsTime": ["Leandro 22'", "Vitor Roque 29'"],
+        "assistenciasTime": ["Piquerez", "Leandro"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Giay"],
+        "jogadoresExpulsos": ["Olesen 39'"],
+        "craquePartida": "Piquerez",
+        "substituicoesTime": [
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Muir",
+            "minuto": 39
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Endrick",
+            "minuto": 65
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 65
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 65
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 75
+          }
+        ],
+        "noticiasRelacionadas": [130, 131],
+        "descricaoPartida": "O Palestra Italia garantiu sua vaga na final da Emirates FA Cup ao vencer o Brentford por 2 a 0 em casa, no dia 26 de abril. A partida, válida pela semifinal, foi um teste de resiliência para a equipe, especialmente após a expulsão de um de seus jogadores no primeiro tempo, o que forçou o time a atuar com um a menos e a segurar a pressão adversária.\nO Palestra Italia abriu o placar aos 22 minutos com Leandro. Piquerez fez um cruzamento preciso para o meio da área, onde Leandro dominou e finalizou com um golaço, inaugurando o marcador. A vantagem foi ampliada rapidamente, aos 29 minutos, por Vitor Roque. Leandro deu uma enfiada de bola perfeita para Vitor Roque, que invadiu a área, ficou cara a cara com o goleiro e bateu rasteiro no canto, sem chances para a defesa.\nNo entanto, a partida tomou um rumo desafiador aos 39 minutos, quando Olesen foi expulso após um carrinho no último homem, evitando um gol iminente do Brentford. Imediatamente após a expulsão, o técnico do Palestra Italia agiu, realizando uma substituição estratégica: Muir entrou no lugar de Vitor Roque, trocando um atacante por um zagueiro para recompor a defesa e conter o ímpeto adversário.\nNo segundo tempo, o Brentford intensificou a pressão, dominando a posse de bola (53% contra 47% do Palestra) e criando um grande volume de jogadas ofensivas, com 12 finalizações contra apenas 6 do Palestra. O time do Palestra precisou se defender com garra para segurar o resultado.\nAos 65 minutos, novas substituições foram feitas para refrescar a equipe e manter a organização defensiva: Endrick entrou no lugar de Estevão, Martinez na vaga de Rohl e Vergara substituiu Piquerez. Mais tarde, aos 75 minutos, Luis Guilherme entrou no lugar de Maurício. Durante o jogo, Giay foi amarelado.\nApesar da pressão sofrida, o Palestra Italia conseguiu manter a vantagem e carimbou sua vaga na grande final. O melhor em campo foi Piquerez, o lateral esquerdo, que foi fundamental tanto na criação do primeiro gol quanto na consistência defensiva. Leandro contribuiu com 1 gol e 1 assistência, enquanto Vitor Roque marcou 1 gol. Danilo teve uma atuação abaixo do esperado.\nCom essa vitória, a final da Copa da Inglaterra (Emirates FA Cup) está definida: Palestra Italia enfrentará o Fulham. No entanto, o time terá um desfalque importante: Olesen estará ausente devido ao cartão vermelho recebido nesta semifinal.",
+        "logoTime": "/assets/img/times/brentford.png"
+      }
+    ],
+    "Maio": [
+      {
+        "data": "2025-05-17",
+        "adversario": "Fulham",
+        "placar": "3-0",
+        "local": "Wembley Stadium",
+        "golsTime": ["Kevin 24'", "Endrick 86'", "Endrick 90'"],
+        "assistenciasTime": ["Estevão", "Estevão"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": ["Kevin"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Endrick",
+        "substituicoesTime": [
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 75
+          },
+          {
+            "saiu": "Vergara",
+            "entrou": "Garcia",
+            "minuto": 75
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Sáez",
+            "minuto": 75
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Micael",
+            "minuto": 75
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 75
+          }
+        ],
+        "noticiasRelacionadas": [144,145,146,147],
+        "descricaoPartida": "Em uma tarde gloriosa no Wembley Stadium, o Palestra Italia fez história ao golear o Fulham por 3 a 0 e levantar o troféu da Emirates FA Cup no dia 17 de maio. Este é o primeiro título profissional do clube, e a vitória foi celebrada por milhares de torcedores que testemunharam um desempenho memorável da equipe. A final, que parecia equilibrada no papel, se transformou em um show do Palestra Italia nos momentos decisivos. A equipe de Frank Ocean entrou em campo com algumas mudanças forçadas. Kevin assumiu a vaga de Leandro, que estava cansado. Na defesa, Vergara entrou no lugar de Piquerez, lesionado, enquanto Muir substituiu Olesen, suspenso. Para completar, Sáez começou no lugar de Giay, também poupado por cansaço. O primeiro gol, fruto de uma linda criação de jogada do Palestra, veio aos 24 minutos com Kevin. Estevão tocou para Kevin dentro da área, que dominou e finalizou com maestria por trás de Vitor Roque, com a bola passando e enganando o goleiro do Fulham. Um gol que já demonstrava a efetividade do ataque alviverde. Kevin, autor do gol, foi advertido com um cartão amarelo mais tarde na partida. O jogo seguiu tenso e com as equipes se estudando. As estatísticas mostravam um equilíbrio: 51% de posse de bola para o Fulham contra 49% para o Palestra Italia, e 10 finalizações do Fulham contra 9 do Palestra. Porém, a eficiência fez a diferença para o time campeão. Aos 75 minutos, o técnico Frank Ocean realizou uma série de substituições estratégicas para manter o fôlego da equipe e selar a vitória. Endrick entrou no lugar de Vitor Roque, que infelizmente sofreu uma lesão e ficará fora o resto da temporada, mas certamente merece o descanso e a glória do título. Além de Endrick, Garcia entrou no lugar de Vergara, Sáez substituiu Giay, Micael entrou na vaga de Muir, e Martinez assumiu o lugar de Rohl. As substituições deram um novo gás ao Palestra Italia, que liquidou a fatura nos minutos finais. Aos 86 minutos, Endrick marcou seu primeiro gol na final. Em um contra-ataque fulminante, Garcia disparou do meio-campo até a área e tentou uma batida colocada; o goleiro defendeu, mas no rebote, Endrick demonstrou um salto espetacular e cabeceou para o fundo do gol, ampliando a vantagem. Para fechar o caixão do Fulham e sacramentar o título, Endrick marcou novamente aos 90 minutos. Após uma linda enfiada de Estevão, Endrick finalizou forte, garantindo o 3 a 0 e a festa do Palestra Italia. A performance individual também merece destaque. Endrick foi o grande nome da final, sendo eleito o melhor em campo com uma nota 10, graças aos seus dois gols decisivos. Estevão brilhou com duas assistências, demonstrando sua visão de jogo apurada. Kevin foi crucial com um gol. Além deles, Weverton e Kevin tiveram atuações impecáveis e merecem os parabéns pela garra e segurança. No entanto, o meio campista Rohl teve uma atuação abaixo do esperado. Apesar dos destaques ofensivos, a solidez da equipe foi um fator primordial. Maurício teve uma grande atuação e foi quem iniciou a jogada do primeiro gol, mostrando sua importância tática. Gómez foi o 'xerife do Palestra', comandando a defesa com maestria. O Palestra Italia, campeão da Emirates FA Cup, recebe uma premiação de $2.1 milhões, que certamente será um impulso para o futuro do clube. Esta vitória histórica marca um novo capítulo e solidifica o Palestra Italia como uma força a ser reconhecida no cenário do futebol profissional. Milhares de torcedores comemoram uma vitória difícil e um título que ficará para sempre na memória.",
+        "logoTime": "/assets/img/times/brentford.png"
       }
     ]
   }

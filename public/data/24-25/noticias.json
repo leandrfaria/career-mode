@@ -716,7 +716,7 @@
     "destaque": false
   },
   {
-    "id": "87",
+    "id": "877",
     "autor": "Goal.com",
     "titulo": "Sosa Quebra o Gelo e Marca Primeiro Gol em Clássico na Goleada do Palestra Italia",
     "descricao": "O jovem atacante Sosa teve um momento especial na histórica goleada de 4 a 0 do Palestra Italia sobre o Manchester City. Ele marcou seu primeiro gol em um clássico, selando a vitória e contribuindo para a performance espetacular da equipe. O gol de Sosa, além de lindo, foi a cereja no bolo de uma noite inesquecível para os torcedores.",
@@ -724,7 +724,7 @@
     "destaque": true
   },
   {
-    "id": "88",
+    "id": "888",
     "autor": "Lance!",
     "titulo": "Endrick Brilha e é Eleito Melhor em Campo na Goleada Histórica do Palestra Italia",
     "descricao": "Na impressionante vitória de 4 a 0 do Palestra Italia sobre o Manchester City, Endrick foi o grande nome da partida. Com uma atuação impecável, o atacante foi fundamental para a construção do placar elástico, marcando um gol e dando uma assistência. Sua performance de alto nível lhe garantiu o título de melhor jogador em campo, reafirmando seu protagonismo no time.",
@@ -732,7 +732,7 @@
     "destaque": true
   },
   {
-    "id": "89",
+    "id": "899",
     "autor": "UOL Esporte",
     "titulo": "Palestra Italia Reafirma Superioridade e Vence City Pela Segunda Vez na Temporada",
     "descricao": "O Palestra Italia conquistou sua segunda vitória sobre o Manchester City na temporada, desta vez com uma goleada de 4 a 0. O resultado expressivo demonstra a superioridade do Palestra contra o atual líder da liga, que no primeiro confronto havia vencido por apenas 1 a 0. A equipe mostrou um desempenho avassalador, consolidando sua força no cenário competitivo.",
@@ -740,7 +740,7 @@
     "destaque": true
   },
   {
-    "id": "90",
+    "id": "900",
     "autor": "Globo Esporte",
     "titulo": "Histórico 'Dérbi da Soberania': Palestra Italia Goleia Manchester City por 4 a 0",
     "descricao": "Em uma partida que entrará para a história do clube, o Palestra Italia aplicou uma goleada devastadora de 4 a 0 sobre o Manchester City, no que já está sendo chamado de 'Dérbi da Soberania'. Com dois jogadores expulsos do time adversário, o Palestra Italia dominou completamente o jogo, com gols de Olesen, Leandro, Endrick e Sosa. A vitória não só cimenta a superioridade do Palestra contra o líder da liga, como também ameaça seriamente a posição do City no topo da tabela. A atuação impecável da equipe foi amplamente celebrada, com Endrick eleito o melhor em campo e vários jogadores do Palestra compondo a seleção da rodada.",
@@ -902,9 +902,465 @@
   {
     "id": "111",
     "autor": "Globo Esporte",
-    "titulo": "Palestra Italia Conquista o0 Bicampeonato da Base",
+    "titulo": "Palestra Italia Conquista o Bicampeonato da Base",
     "descricao": "O Palestra Italia sagrou-se campeão do Campeonato da Base, celebrando seu segundo título na temporada em três competições disputadas. A conquista é um marco para a jovem equipe, especialmente após a frustração de ter perdido o último campeonato. A campanha vitoriosa foi impulsionada pela dupla de meio-campo Machado e Ramos, que voltou a brilhar e foi fundamental para o sucesso. Ramos foi o melhor em campo na vitória por 4 a 1 sobre o Brentford, contribuindo com 3 gols e 1 assistência. Já Machado brilhou na goleada por 5 a 1 sobre o Arsenal, com 2 gols e 1 assistência. Na final, contra o Southampton, o Palestra Italia venceu por 3 a 1, com Salazar marcando 2 gols. Os números individuais da campanha comprovam o brilho da equipe: Ramos finalizou o campeonato com 4 gols e 3 assistências; Machado com 3 gols e 1 assistência; e Salazar com 3 gols, sendo 2 deles na grande final. A diretoria e a torcida celebram a promissora geração de talentos do Palestra Italia.",
     "data": "2025-03-05",
+    "destaque": true
+  },
+  {
+    "id": "112",
+    "autor": "ESPN Brasil",
+    "titulo": "Maurício Brilha e é Eleito o Melhor em Campo na Vitória do Palestra Italia",
+    "descricao": "Maurício teve uma atuação de gala e foi o grande destaque do Palestra Italia na vitória por 1 a 0 sobre o Everton. Atuando como um verdadeiro camisa 10, ele marcou um golaço e liderou a criação de jogadas do time, sendo merecidamente eleito o melhor em campo.",
+    "data": "2025-03-02",
+    "destaque": false
+  },
+  {
+    "id": "113",
+    "autor": "Globo Esporte",
+    "titulo": "Palestra Italia Avança de Fase na Emirates FA Cup Após Vitória Importante",
+    "descricao": "O Palestra Italia garantiu sua passagem para a próxima fase da Emirates FA Cup após uma vitória crucial sobre o Liverpool por 1 a 0 fora de casa. Com uma atuação defensiva sólida e um gol decisivo de Vitor Roque, a equipe demonstrou sua força e segue firme na competição.",
+    "data": "2025-02-08",
+    "destaque": false
+  },
+  {
+    "id": "114",
+    "autor": "Goal",
+    "titulo": "Show de Bola: Leandro Brilha e é Eleito Melhor em Campo na Goleada do Palestra Italia",
+    "descricao": "Leandro teve uma atuação de gala e foi o grande nome da goleada do Palestra Italia por 4 a 1 sobre o Crystal Palace. Com dois gols e uma assistência, o atacante foi imparável e, junto com Danilo e Endrick, que também jogaram 'de terno', garantiu o espetáculo em campo, sendo merecidamente eleito o melhor da partida.",
+    "data": "2024-03-08",
+    "destaque": false
+  },
+  {
+    "id": "115",
+    "autor": "Lance!",
+    "titulo": "Vingança em Campo: Palestra Italia Goleia Crystal Palace Após Empate Sem Gols",
+    "descricao": "O Palestra Italia deu o troco no Crystal Palace! Após um morno 0 a 0 no último encontro, o time brasileiro aplicou uma sonora goleada de 4 a 1. A vitória mostra a evolução da equipe, que demonstrou um poder ofensivo avassalador e reverteu completamente o cenário do confronto anterior, para a alegria da torcida.",
+    "data": "2024-03-08",
+    "destaque": false
+  },
+  {
+    "id": "116",
+    "autor": "Globo Esporte",
+    "titulo": "Endrick Brilha e Palestra Italia Vence Nottingham Forest em Jogo de Revanche",
+    "descricao": "O Palestra Italia conquistou uma importante vitória por 2 a 1 sobre o Nottingham Forest, em um jogo que marcou a revanche do confronto anterior, no qual o Palestra havia perdido. Endrick foi o grande nome da partida, sendo eleito o melhor em campo com um gol e uma assistência, liderando a equipe rumo ao triunfo. Apesar da vitória, Estevão teve um dia de pouca efetividade, perdendo três chances claras de gol, um ponto a ser aprimorado.",
+    "data": "2024-03-15",
+    "destaque": false
+  },
+  {
+    "id": "117",
+    "autor": "ESPN Brasil",
+    "titulo": "Vitória com Ressalvas: Palestra Italia Bate Nottingham Forest, mas Vitor Roque Perde Pênalti Crucial",
+    "descricao": "O Palestra Italia conseguiu uma vitória por 2 a 1 contra o Nottingham Forest, revertendo o resultado do último encontro. No entanto, a partida terminou com um lance de apreensão: Vitor Roque sofreu um pênalti no último minuto, mas sua cobrança foi defendida pelo goleiro, sendo classificada como 'muito mal batida'. A efetividade nas finalizações, incluindo a de Estevão que perdeu três chances claras, é um ponto de atenção para a equipe.",
+    "data": "2024-03-15",
+    "destaque": false
+  },
+  {
+    "id": "118",
+    "autor": "The Sun",
+    "titulo": "Vitor Roque Brilha e Comanda Goleada do Palestra Italia na FA Cup",
+    "descricao": "Vitor Roque foi o grande nome da vitória dominante do Palestra Italia por 3 a 0 sobre o Aston Villa, pela Emirates FA Cup. Com um gol e duas assistências, o atacante teve uma atuação decisiva e foi eleito o melhor em campo, garantindo a classificação do Palestra para as semifinais da competição. Sua performance foi crucial para a superioridade do time em casa.",
+    "data": "2025-03-29",
+    "destaque": false
+  },
+  {
+    "id": "119",
+    "autor": "BBC Sport",
+    "titulo": "Palestra Italia Chega às Semifinais da Emirates FA Cup com Atuação Impecável",
+    "descricao": "O Palestra Italia garantiu sua vaga nas semifinais da Emirates FA Cup após uma vitória convincente por 3 a 0 sobre o Aston Villa em casa. A equipe demonstrou grande efetividade no ataque, com gols de Leandro, Estevão e Vitor Roque, e uma estratégia de contra-ataque que se mostrou letal, assegurando sua presença entre os quatro melhores da competição.",
+    "data": "2025-03-29",
+    "destaque": false
+  },
+  {
+    "id": "120",
+    "autor": "Sky Sports",
+    "titulo": "Melhor em Campo: Solanke",
+    "descricao": "Em um jogo movimentado, o Palestra Italia buscou um empate por 2 a 2 com o Bournemouth fora de casa. Apesar da forte atuação de Solanke, eleito o melhor em campo e autor de um dos gols adversários, o Palestra demonstrou resiliência para reverter uma desvantagem de dois gols. No último confronto, o Palestra havia vencido por 1 a 0, mas desta vez teve que se contentar com a igualdade no placar.",
+    "data": "2024-04-02",
+    "destaque": false
+  },
+  {
+    "id": "121",
+    "autor": "Goal.com",
+    "titulo": "Palestra Italia Empata com Bournemouth Após Vitória Anterior: Solanke é o Destaque",
+    "descricao": "O Palestra Italia empatou em 2 a 2 com o Bournemouth em uma partida de reviravoltas. Diferente do último confronto, onde o Palestra venceu por 1 a 0, desta vez a equipe precisou correr atrás do placar. Solanke, do Bournemouth, foi o grande nome do jogo, sendo considerado o melhor em campo por sua atuação e gol.",
+    "data": "2024-04-02",
+    "destaque": false
+  },
+  {
+    "id": "122",
+    "autor": "Sky Sports",
+    "titulo": "Melhor em Campo: Vitor Roque",
+    "descricao": "Vitor Roque foi o grande destaque do Palestra Italia, marcando dois gols e sendo eleito o melhor em campo, mas não foi o suficiente para garantir a vitória sobre o Wolves. Em um jogo que prometia ser a revanche da derrota por 2 a 1 no último encontro, o Palestra viu o triunfo escapar nos acréscimos, com um gol sofrido aos 90 minutos que selou o empate em 2 a 2. A frustração de perder a vitória no fim marcou a partida em casa.",
+    "data": "2024-04-05",
+    "destaque": false
+  },
+  {
+    "id": "123",
+    "autor": "ESPN Brasil",
+    "titulo": "Revanche Frustrada: Palestra Italia Empata com Wolves Após Ceder Gol no Final",
+    "descricao": "O Palestra Italia buscou a revanche contra o Wolves após a derrota por 2 a 1 no último confronto, mas teve que se contentar com um empate por 2 a 2. Apesar de uma atuação inspirada de Vitor Roque, que marcou os dois gols do Palestra e foi o melhor em campo, a equipe cedeu o empate aos 90 minutos, com um gol que impediu a tão desejada vitória.",
+    "data": "2024-04-05",
+    "destaque": false
+  },
+  {
+    "id": "124",
+    "autor": "Globo Esporte",
+    "titulo": "Giay Desfalca Palestra Italia Após Suspensão por Excesso de Cartões Amarelos",
+    "descricao": "O Palestra Italia terá um desfalque importante para a próxima partida: o lateral Giay está suspenso devido ao acúmulo de cartões amarelos. A ausência do jogador, que tem sido peça fundamental na equipe, representa um desafio para o técnico, que terá que buscar alternativas para a lateral.",
+    "data": "2024-04-12",
+    "destaque": false
+  },
+  {
+    "id": "125",
+    "autor": "Lance!",
+    "titulo": "Leandro Brilha e é Eleito Melhor em Campo no Empate do Clássico do Reino Verde",
+    "descricao": "Leandro foi o grande destaque do Palestra Italia no empate em 1 a 1 contra o Chelsea, pelo Clássico do Reino Verde. Com um gol decisivo e uma atuação impecável, o atacante foi eleito o melhor em campo, liderando a equipe em um jogo de muita rivalidade e importância para a moral do time.",
+    "data": "2024-04-11",
+    "destaque": false
+  },
+  {
+    "id": "126",
+    "autor": "ESPN Brasil",
+    "titulo": "Palestra Italia Arranca Empate no Clássico do Reino Verde",
+    "descricao": "No Clássico do Reino Verde, o Palestra Italia conseguiu um importante empate em 1 a 1 com o Chelsea, seu maior rival. O resultado é bom após a derrota por 2 a 0 no primeiro turno. A equipe mostrou garra e efetividade para igualar o placar em um jogo tenso, demonstrando evolução e capacidade de reação em grandes confrontos.",
+    "data": "2024-04-11",
+    "destaque": true
+  },
+  {
+    "id": "127",
+    "autor": "BBC Sport",
+    "titulo": "Rice Comanda Vitória do Arsenal sobre o Palestra Italia e é o Melhor em Campo",
+    "descricao": "Em um confronto disputado, o Arsenal saiu vitorioso sobre o Palestra Italia por 1 a 0, e Rice foi o grande nome da partida. Com uma atuação impecável coroada pelo gol da vitória, o meio-campista foi eleito o melhor em campo, ditando o ritmo do jogo e garantindo os três pontos para os Gunners em uma tarde difícil para o Palestra Italia.",
+    "data": "2024-04-19",
+    "destaque": false
+  },
+  {
+    "id": "128",
+    "autor": "Globo Esporte",
+    "titulo": "Gómez e Técnico Discutem Após Substituição Precoce em Derrota para o Arsenal",
+    "descricao": "A derrota do Palestra Italia por 1 a 0 para o Arsenal foi marcada por um incidente nos bastidores: o zagueiro Gómez demonstrou insatisfação com sua substituição precoce e teve uma discussão acalorada com o técnico Frank Ocean. O episódio reflete a frustração da equipe em uma tarde onde nada deu certo, e levanta questões sobre o clima no vestiário após o revés.",
+    "data": "2024-04-19",
+    "destaque": false
+  },
+  {
+    "id": "129",
+    "autor": "Lance!",
+    "titulo": "Troco Dado: Arsenal Vence Palestra Italia por 1 a 0 e Reverte Resultado do Último Confronto",
+    "descricao": "O Arsenal deu o troco no Palestra Italia! Após a derrota por 1 a 0 no último encontro, os Gunners venceram pelo mesmo placar em um jogo dominado pela equipe de Londres. A vitória sobre o Palestra Italia, que não conseguiu se encontrar em campo, serve como uma revanche para o Arsenal e consolida sua superioridade neste confronto direto.",
+    "data": "2024-04-19",
+    "destaque": false
+  },
+  {
+    "id": "130",
+    "autor": "The Guardian",
+    "titulo": "Palestra Italia Garante Vaga na Final da FA Cup e Enfrentará Fulham em Wembley",
+    "descricao": "O Palestra Italia conquistou sua vaga na grande final da Emirates FA Cup após uma vitória por 2 a 0 sobre o Brentford. A equipe agora se prepara para o grande desafio contra o Fulham em Wembley, em busca do tão cobiçado título da Copa da Inglaterra. Será um confronto épico para definir o campeão.",
+    "data": "2025-04-26",
+    "destaque": true
+  },
+  {
+    "id": "131",
+    "autor": "Sky Sports News",
+    "titulo": "Olesen Está Fora da Final da FA Cup por Suspensão",
+    "descricao": "O Palestra Italia terá um desfalque significativo para a final da Emirates FA Cup contra o Fulham. Olesen não poderá entrar em campo devido a um cartão vermelho recebido na semifinal. A ausência do jogador é uma baixa para a equipe, que terá que buscar alternativas para a partida decisiva.",
+    "data": "2025-04-26",
+    "destaque": true
+  },
+  {
+    "id": "132",
+    "autor": "BBC Sport",
+    "titulo": "Frank Ocean Critica Falta de Empenho de Jogadores Após Derrota do Palestra Italia",
+    "descricao": "O técnico do Palestra Italia, Frank Ocean, não poupou palavras em coletiva de imprensa, expressando sua irritação com a falta de empenho de alguns jogadores após a derrota por 3 a 1 para o Everton. A dura cobrança do treinador reflete a preocupação com o desempenho da equipe, que precisa de uma mudança de postura para buscar melhores resultados.",
+    "data": "2024-05-03",
+    "destaque": true
+  },
+  {
+    "id": "133",
+    "autor": "Goal.com",
+    "titulo": "Beto é o Craque da Partida em Vitória do Everton Sobre o Palestra Italia",
+    "descricao": "Em uma atuação de destaque, Beto foi eleito o melhor em campo na vitória do Everton por 3 a 1 sobre o Palestra Italia. O atacante foi fundamental para o triunfo de sua equipe, com dois gols que selaram o resultado. A performance de Beto ofuscou o time do Palestra, que não conseguiu reagir à sua inspiração.",
+    "data": "2024-05-03",
+    "destaque": false
+  },
+  {
+    "id": "134",
+    "autor": "Lance!",
+    "titulo": "Derrota se Repete: Palestra Italia Perde Novamente para o Everton por 3 a 1",
+    "descricao": "O Palestra Italia sofreu mais uma derrota para o Everton, desta vez por 3 a 1. O resultado mantém a sequência negativa contra o adversário, já que no último encontro o Palestra também havia perdido por 2 a 0. A equipe demonstra dificuldades em encontrar seu melhor futebol e preocupa a torcida com as performances recentes.",
+    "data": "2024-05-03",
+    "destaque": false
+  },
+  {
+    "id": "135",
+    "autor": "Globo Esporte",
+    "titulo": "Palestra Italia Reforça Categorias de Base com Jovens Promessas Internacionais",
+    "descricao": "O Palestra Italia segue investindo no futuro e anuncia a chegada de quatro novos reforços para suas categorias de base, buscando talentos para as próximas gerações. Entre os nomes, destacam-se o zagueiro russo Denis Grinkov (15 anos, 63 overall, com potencial de 66-88), o lateral-direito Miguel Garcia (14 anos, 56 overall, com potencial de 79-94), o ponta-esquerda sul-africano Makhaya Fikizolo (15 anos, 53 overall, com potencial de 69-89) e o atacante Mokete Nokwe (14 anos, 50 overall, com potencial de 66-90). A chegada dos jovens talentos visa fortalecer o celeiro de craques do clube para os próximos anos.",
+    "data": "2024-05-05",
+    "destaque": true
+  },
+  {
+    "id": "136",
+    "autor": "ESPN Brasil",
+    "titulo": "Palestra Italia Conquista Tricampeonato na Base",
+    "descricao": "O Palestra Italia sagrou-se tricampeão do último campeonato da base da temporada 24-25, consolidando sua hegemonia nas categorias de formação. A campanha vitoriosa foi marcada pelo brilho do jovem Machado, que foi fundamental nos confrontos decisivos. Na final, o Palestra venceu o Brentford por 3 a 1, com Machado marcando dois gols e dando uma assistência. Antes, nas fases anteriores, o time superou o Spurs por 2 a 0 e o Wolverhampton por 1 a 0, em ambos os jogos com Machado sendo o destaque e balançando as redes. Ao todo, Machado encerrou a competição com impressionantes 4 gols e 2 assistências, enquanto Ramos contribuiu com 2 gols. A conquista reforça o excelente trabalho de base do clube e a promessa de novos talentos para o futuro.",
+    "data": "2024-05-10",
+    "destaque": true
+  },
+  {
+    "id": "137",
+    "autor": "Globo Esporte",
+    "titulo": "Mídia Especula: Cobrança de Frank Ocean Teria Sido Direcionada a Maurício e Rohl",
+    "descricao": "Após as recentes declarações do técnico Frank Ocean sobre a 'falta de empenho' de alguns jogadores, a mídia começou a especular que os alvos seriam Maurício e Rohl. A suspeita surge em um momento delicado para o Palestra Italia, que busca reencontrar a consistência em campo e classificar para a Champions League.",
+    "data": "2024-05-11",
+    "destaque": false
+  },
+  {
+    "id": "138",
+    "autor": "LANCE!",
+    "titulo": "Weverton Brilha e Garante Vitória Mínima do Palestra Italia sobre o Brentford",
+    "descricao": "O goleiro Weverton foi o grande herói da vitória do Palestra Italia por 1 a 0 sobre o Brentford. Eleito o melhor em campo, suas defesas foram cruciais para a equipe, que se defendeu bem e segurou o resultado. O desempenho de Weverton foi fundamental para a 'porteira fechada' da equipe de Frank Ocean, em um jogo onde a defesa superou o ataque adversário.",
+    "data": "2024-05-10",
+    "destaque": false
+  },
+  {
+    "id": "139",
+    "autor": "UOL Esporte",
+    "titulo": "Defesa Forte e Vingança Parcial: Palestra Italia Supera Brentford por 1 a 0",
+    "descricao": "Com uma atuação defensiva exemplar, o Palestra Italia venceu o Brentford por 1 a 0. Apesar de uma vitória por 3 a 1 no último encontro, a equipe de Frank Ocean mostrou que também sabe ser eficaz na defesa, segurando o placar mínimo e conquistando um resultado importante em um jogo de poucas finalizações. A solidez defensiva foi a chave para o triunfo.",
+    "data": "2024-05-10",
+    "destaque": false
+  },
+  {
+    "id": "140",
+    "autor": "GE",
+    "titulo": "Luis Guilherme Ganha Nova Posição: Meia-Atacante e 'Sombra' de Maurício no Palestra Italia",
+    "descricao": "O técnico Frank Ocean anunciou que Luis Guilherme está finalmente apto para atuar em sua nova posição: meia-atacante. O jovem talento será o reserva direto de Maurício, indicando uma nova fase na carreira do jogador e reforçando as opções ofensivas do Palestra Italia. A mudança tática visa explorar ao máximo o potencial de Luis Guilherme em campo.",
+    "data": "2024-05-12",
+    "destaque": true
+  },
+  {
+    "id": "141",
+    "autor": "Sky Sports",
+    "titulo": "Estevão Brilha e Lidera Assistências na Premier League",
+    "descricao": "O jovem Estevão teve uma atuação de gala, recebendo nota 10 e sendo eleito o melhor em campo na vitória do Palestra Italia sobre o Newcastle. Com esse desempenho, ele solidifica sua posição como líder em assistências na Premier League, alcançando a marca de 10 assistências em 35 partidas. Estevão tem sido um jogador-chave para o Palestra, mostrando seu talento e visão de jogo.",
+    "data": "2024-04-29",
+    "destaque": true
+  },
+  {
+    "id": "142",
+    "autor": "The Athletic",
+    "titulo": "Palestra Italia Vence Newcastle Após Empate no Primeiro Turno: Piquerez Fora da Final da FA Cup",
+    "descricao": "O Palestra Italia conquistou uma importante vitória por 3 a 1 sobre o Newcastle, superando o empate de 1 a 1 do último encontro entre as equipes. No entanto, o triunfo foi ofuscado pela lesão de Piquerez, que sofreu uma pancada no ombro e ficará fora por 5 dias. Com isso, Piquerez será um desfalque significativo para a final da Emirates FA Cup contra o Fulham, juntamente com Olesen, que foi expulso na semifinal.",
+    "data": "2024-04-29",
+    "destaque": false
+  },
+  {
+    "id": "143",
+    "autor": "Goal.com",
+    "titulo": "Lesão no Ombro Tira Piquerez de Campo: Lateral Desfalca Palestra Italia na Final da FA Cup",
+    "descricao": "O Palestra Italia confirmou a lesão do lateral-esquerdo Piquerez, que sofreu uma pancada no ombro durante a vitória sobre o Newcastle e ficará fora por cinco dias. A notícia é um duro golpe para a equipe, pois Piquerez será um desfalque importante na final da Emirates FA Cup contra o Fulham, juntamente com Olesen, que também está suspenso. A ausência do lateral esquerdo obriga o técnico Frank Ocean a buscar alternativas para a decisão do torneio.",
+    "data": "2024-04-29",
+    "destaque": true
+  },
+   {
+    "id": "144",
+    "autor": "ESPN Brasil",
+    "titulo": "Vitor Roque Fora da Temporada: Lesão Tira Atacante dos Gramados Pelo Resto do Ano",
+    "descricao": "O Palestra Italia recebeu uma péssima notícia: o atacante Vitor Roque sofreu uma lesão que o tirará de campo pelo resto da temporada. O jogador, que vinha sendo importante para a equipe, agora foca na recuperação para retornar ainda mais forte no próximo ano. Sua ausência será sentida, mas a equipe espera superá-la.",
+    "data": "2025-05-18",
+    "destaque": true
+  },
+  {
+    "id": "145",
+    "autor": "Lance!",
+    "titulo": "Endrick Brilha e é Eleito o Melhor em Campo na Final Histórica da FA Cup",
+    "descricao": "O jovem Endrick foi o grande nome da final da Emirates FA Cup, sendo eleito o melhor em campo com uma atuação impecável e nota 10. Seus dois gols decisivos garantiram a vitória do Palestra Italia sobre o Fulham, selando o primeiro título profissional do clube. Uma noite inesquecível para o atacante.",
+    "data": "2025-05-17",
+    "destaque": true
+  },
+  {
+    "id": "146",
+    "autor": "Goal.com",
+    "titulo": "Xerife do Palestra!",
+    "descricao": "Na histórica conquista da Emirates FA Cup, Gómez se destacou como o verdadeiro 'xerife' da defesa do Palestra Italia. Sua atuação impecável e liderança em campo foram fundamentais para segurar o ataque do Fulham e garantir a vitória por 3 a 0. Gómez provou ser um pilar indispensável na campanha vitoriosa do clube.",
+    "data": "2025-05-17",
+    "destaque": true
+  },
+  {
+    "id": "147",
+    "autor": "The Guardian",
+    "titulo": "Palestra Italia Faz História: Vitória Dominante Garante o Título Inédito da Emirates FA Cup",
+    "descricao": "Em uma noite memorável no Wembley Stadium, o Palestra Italia goleou o Fulham por 3 a 0 e conquistou a Emirates FA Cup, marcando o primeiro título profissional da história do clube. Com gols de Kevin e Endrick (duas vezes), a equipe demonstrou força e eficiência, celebrando uma vitória difícil e espetacular que ficará para sempre na memória dos torcedores e da história do futebol.",
+    "data": "2025-05-17",
+    "destaque": true
+  },
+  {
+    "id": "148",
+    "autor": "BBC Sport",
+    "titulo": "Endrick Brilha Novamente e é o Melhor em Campo na Vitória do Palestra Italia",
+    "descricao": "Endrick teve mais uma atuação de gala e foi eleito o melhor em campo na vitória do Palestra Italia sobre o Leicester City. Com um gol e uma assistência, o jovem atacante foi decisivo para o triunfo por 2 a 0, mostrando sua importância crescente para a equipe e consolidando seu excelente momento na temporada.",
+    "data": "2024-05-19",
+    "destaque": false
+  },
+  {
+    "id": "149",
+    "autor": "Globo Esporte",
+    "titulo": "Vergara se Aposenta e Deixa Saudade no Palestra Italia",
+    "descricao": "O lateral-esquerdo Vergara anunciou sua aposentadoria do futebol profissional, encerrando sua passagem pelo Palestra Italia. Considerado uma ótima opção para a posição, o jogador não entrou em campo no último jogo para uma despedida oficial, mas deixa um legado de dedicação e profissionalismo. O clube e a torcida lamentam a saída de um jogador tão importante para o elenco.",
+    "data": "2024-05-25",
+    "destaque": true
+  },
+  {
+    "id": "150",
+    "autor": "LANCE!",
+    "titulo": "Endrick Faz História com 5 Gols e Ganha Prêmio de Jogador do Mês",
+    "descricao": "Em uma atuação de gala, Endrick marcou cinco gols na vitória heroica do Palestra Italia por 5 a 1 sobre o West Ham. O feito lendário do atacante o credenciou a ser o melhor em campo e a conquistar o prêmio de Atleta do Mês, fechando a temporada em alta e mostrando que vem para ser o grande nome do clube na próxima temporada.",
+    "data": "2024-05-25",
+    "destaque": true
+  },
+  {
+    "id": "151",
+    "autor": "UOL Esporte",
+    "titulo": "Palestra Italia Mantém a Hegemonia e Goleia o West Ham Mais Uma Vez",
+    "descricao": "O Palestra Italia encerrou a temporada da Premier League com uma vitória expressiva de 5 a 1 sobre o West Ham, repetindo o placar elástico do último confronto, onde também goleou por 4 a 0. O resultado, que superou até a vitória contra o Manchester City, evidencia a superioridade do Palestra contra o adversário e a ótima fase do ataque da equipe.",
+    "data": "2024-05-25",
+    "destaque": false
+  },
+  {
+    "id": "152",
+    "autor": "BBC Sport",
+    "titulo": "Endrick Brilha Novamente e é o Melhor em Campo na Vitória do Palestra Italia",
+    "descricao": "Endrick teve mais uma atuação de gala e foi eleito o melhor em campo na vitória do Palestra Italia sobre o West Ham.",
+    "data": "2024-05-25",
+    "destaque": false
+  },
+  {
+    "id": "153",
+    "autor": "Premier League Official",
+    "titulo": "Weverton é Eleito o Goleiro do Ano da Premier League",
+    "descricao": "Weverton, o 'Paredão do Palestra', foi eleito o goleiro do ano da Premier League. O goleiro do Palestra Italia conquistou a premiação após terminar a temporada com a impressionante marca de 12 jogos sem sofrer gols, um testemunho de sua performance sólida e de sua importância para a equipe.",
+    "data": "2024-05-30",
+    "destaque": true
+  },
+  {
+    "id": "154",
+    "autor": "Premier League Official",
+    "titulo": "Álvarez, do Manchester City, Vence o Prêmio de Atleta da Temporada",
+    "descricao": "Julian Álvarez, do Manchester City, foi coroado o Atleta da Temporada da Premier League. Sua performance brilhante ao longo da campanha foi decisiva para a conquista do título da liga, superando outros concorrentes de destaque em uma das temporadas mais competitivas e emocionantes da história do campeonato.",
+    "data": "2024-05-30",
+    "destaque": true
+  },
+  {
+    "id": "155",
+    "autor": "BBC Sport",
+    "titulo": "Manchester City Conquista o Título da Premier League",
+    "descricao": "O Manchester City sagrou-se campeão da Premier League em uma temporada disputada até o fim. A equipe garantiu o título em uma campanha emocionante, superando adversários fortes. A conquista reflete a consistência do time de Manchester e a alta qualidade técnica e tática do futebol apresentado ao longo do campeonato.",
+    "data": "2024-05-30",
+    "destaque": true
+  },
+  {
+    "id": "156",
+    "autor": "Sky Sports",
+    "titulo": "Nottingham Forest é Rebaixado para a EFL Championship",
+    "descricao": "Após uma temporada difícil, o Nottingham Forest teve seu rebaixamento para a EFL Championship confirmado. A equipe lutou até o fim, mas não conseguiu a pontuação necessária para permanecer na primeira divisão do futebol inglês. O clube agora se prepara para a próxima temporada na segunda divisão, com o objetivo de retornar à elite o mais rápido possível.",
+    "data": "2024-06-07",
+    "destaque": false
+  },
+  {
+    "id": "157",
+    "autor": "Premier League Official",
+    "titulo": "Seleção da Temporada da Premier League é Anunciada com Destaque para o Palestra Italia",
+    "descricao": "A Premier League anunciou a seleção dos melhores jogadores da temporada, com grande presença de atletas do Palestra Italia. O time de São Paulo emplacou quatro jogadores na lista: Weverton, na posição de goleiro, Piquerez como lateral esquerdo, G. Gomez na zaga, e o meio-campista Mauricio. A seleção também conta com Son (Spurs) e J. Alvarez (City) no ataque, Luis Dias (Liverpool) na ala esquerda, Salah (Liverpool) na ala direita, Bruno Fernandes (United) no meio-campo, Martinez (United) na zaga e Dalot (United) como lateral direito. A forte presença do Palestra na lista reflete a excelente campanha do clube.",
+    "data": "2024-06-07",
+    "destaque": true
+  },
+  {
+    "id": "158",
+    "autor": "BBC Sport",
+    "titulo": "Palestra Italia Termina em 6º e Garante Vaga na Europa League",
+    "descricao": "O Palestra Italia encerrou a temporada da Premier League na sexta colocação, garantindo uma vaga na próxima edição da Europa League. Apesar de o técnico Frank Ocean ter expressado o objetivo de uma classificação para a Champions League, ele celebrou o desempenho da equipe, ressaltando a importância de dar 'um passo de cada vez' e elogiando a evolução do time na temporada.",
+    "data": "2024-06-07",
+    "destaque": true
+  },
+  {
+    "id": "159",
+    "autor": "UEFA Official",
+    "titulo": "Juventus Vence a a Champions League",
+    "descricao": "A Juventus é a nova campeã da Champions League. Após um empate de 1 a 1 no tempo normal contra o Real Madrid, a equipe italiana se mostrou mais eficiente nas penalidades, vencendo por 4 a 2 e garantindo o tão sonhado título continental em uma final emocionante.",
+    "data": "2024-06-13",
+    "destaque": true
+  },
+  {
+    "id": "160",
+    "autor": "Carabao Cup Official",
+    "titulo": "Arsenal Conquista a Carabao Cup",
+    "descricao": "Em uma final disputada em dezembro de 2024, o Arsenal superou o Brentford por 3 a 2 para se sagrar campeão da Carabao Cup. A partida foi marcada por muita emoção e reviravoltas, com o Arsenal mostrando sua força para garantir o título da competição e levantar o primeiro troféu da temporada.",
+    "data": "2024-06-13",
+    "destaque": true
+  },
+  {
+    "id": "161",
+    "autor": "UEFA Official",
+    "titulo": "Real Madrid Levanta a Supercopa da UEFA",
+    "descricao": "O Real Madrid conquistou a Supercopa da UEFA em julho de 2024, após uma vitória dominante por 4 a 0 sobre o Bergamo. A equipe espanhola mostrou sua superioridade em campo e garantiu o primeiro troféu da temporada com uma atuação sólida e convincente, mostrando por que é uma das potências do futebol europeu.",
+    "data": "2024-06-13",
+    "destaque": true
+  },
+  {
+    "id": "162",
+    "autor": "UEFA Official",
+    "titulo": "Real Sociedad Vence a Europa League",
+    "descricao": "O Real Sociedad é o novo campeão da Europa League. A equipe espanhola derrotou o Ajax por 1 a 0 em uma final disputada, garantindo o título continental e a comemoração de sua torcida. A vitória, fruto de um desempenho sólido, coroa a excelente campanha do clube na competição.",
+    "data": "2024-06-17",
+    "destaque": true
+  },
+  {
+    "id": "163",
+    "autor": "Palestra Italia",
+    "titulo": "Mudanças Táticas: Martinez e Jankovic Ganham Novas Posições no Palestra Italia",
+    "descricao": "Mudanças importantes nas posições de dois jogadores: Martinez, que atuava como volante, agora será um meio-campista, enquanto Jankovic, originalmente meia-esquerda, passará a jogar como ponta-direita. As alterações refletem a visão tática do técnico Frank Ocean, buscando otimizar o desempenho do elenco para a próxima temporada.",
+    "data": "2024-06-17",
+    "destaque": true
+  },
+  {
+    "id": "164",
+    "autor": "Palestra Italia",
+    "titulo": "Frank Ocean Encerra Temporada com Título e Desempenho Sólido",
+    "descricao": "O técnico Frank Ocean concluiu a temporada 24/25 do Palestra Italia com um desempenho notável. Sob seu comando, o clube conquistou uma copa nacional e registrou 28 vitórias, 12 empates e apenas 8 derrotas em 48 jogos. A equipe marcou 84 gols e sofreu 38. A maior vitória foi um 5 a 1 sobre o West Ham, enquanto a pior derrota foi por 3 a 1 para o Everton. O balanço final demonstra uma temporada de sucesso e evolução para o Palestra Italia.",
+    "data": "2024-06-17",
+    "destaque": true
+  },
+  {
+    "id": "165",
+    "autor": "Premier League Official",
+    "titulo": "Palestra Italia Conquista Destaques Individuais na Temporada da Premier League",
+    "descricao": "O Palestra Italia teve performances individuais notáveis na temporada da Premier League. O atacante Vitor Roque foi o artilheiro da equipe, com 17 gols em 33 partidas, garantindo a 11ª posição na tabela geral de artilheiros. Já Estevão foi o grande 'garçom' do campeonato, liderando o ranking de assistências com 12 em 37 jogos. Weverton se destacou como um dos melhores goleiros, com 12 jogos sem sofrer gols, empatando na segunda posição. Nas estatísticas disciplinares, Danilo recebeu 2 cartões vermelhos em 36 partidas (empatado na 4ª posição), e Giay foi o 11º em cartões amarelos, com 5 em 36 jogos.",
+    "data": "2024-06-20",
+    "destaque": false
+  },
+  {
+    "id": "166",
+    "autor": "Emirates FA Cup Official",
+    "titulo": "Weverton Lidera Estatísticas na Conquista da FA Cup",
+    "descricao": "Na campanha vitoriosa da Emirates FA Cup, o Palestra Italia teve destaques notáveis. O goleiro Weverton foi o melhor da competição, com impressionantes 6 jogos sem sofrer gols em 6 partidas, garantindo a 1ª posição. O atacante Vitor Roque foi o artilheiro do time, com 4 gols em 6 partidas (5º no ranking geral), enquanto Leandro se sagrou o maior 'garçom' do torneio, com 3 assistências em 5 jogos. No quesito disciplina, Olesen recebeu 1 cartão vermelho em 5 partidas, ficando empatado na 5ª posição entre os mais expulsos.",
+    "data": "2024-06-20",
+    "destaque": true
+  },
+  {
+    "id": "167",
+    "autor": "Palestra Italia",
+    "titulo": "Destaques Individuais na Premier League",
+    "descricao": "O Palestra Italia teve performances individuais notáveis na temporada da Premier League. O atacante Vitor Roque foi o artilheiro da equipe, com 17 gols em 33 partidas, garantindo a 11ª posição na tabela geral de artilheiros. Já Estevão foi o grande 'garçom' do campeonato, liderando o ranking de assistências com 12 em 37 jogos. Weverton se destacou como um dos melhores goleiros, com 12 jogos sem sofrer gols, empatando na segunda posição. Nas estatísticas disciplinares, Danilo recebeu 2 cartões vermelhos em 36 partidas (empatado na 4ª posição), e Giay foi o 11º em cartões amarelos, com 5 em 36 jogos.",
+    "data": "2024-06-20",
+    "destaque": false
+  },
+  {
+    "id": "168",
+    "autor": "Palestra Italia",
+    "titulo": "Destaques Individuais da FA Cup",
+    "descricao": "Na campanha vitoriosa da Emirates FA Cup, o Palestra Italia teve destaques notáveis. O goleiro Weverton foi o melhor da competição, com impressionantes 6 jogos sem sofrer gols em 6 partidas, garantindo a 1ª posição. O atacante Vitor Roque foi o artilheiro do time, com 4 gols em 6 partidas (5º no ranking geral), enquanto Leandro se sagrou o maior 'garçom' do torneio, com 3 assistências em 5 jogos. No quesito disciplina, Olesen recebeu 1 cartão vermelho em 5 partidas, ficando empatado na 5ª posição entre os mais expulsos.",
+    "data": "2024-06-20",
     "destaque": true
   }
 ]

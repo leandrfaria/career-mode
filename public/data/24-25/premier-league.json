@@ -1111,7 +1111,7 @@
             "minuto": 64
           }
         ],
-        "noticiasRelacionadas": [108,109,110],
+        "noticiasRelacionadas": [108, 109, 110],
         "descricaoPartida": "Em mais um jogo de desempenho aquém do esperado, o Palestra Italia empatou em 0 a 0 com o Manchester United. Se no último encontro o Palestra havia vencido por 2 a 1, desta vez o resultado, embora sem derrota, foi motivo de grande frustração, especialmente pela performance da equipe em campo.\nA partida foi um completo domínio do Manchester United, que registrou impressionantes 65% de posse de bola contra apenas 35% do Palestra Italia. O abismo técnico foi ainda mais evidente nas finalizações: os Diabos Vermelhos chutaram 7 vezes a gol, enquanto o Palestra Italia não conseguiu sequer uma única finalização na partida.\nO goleiro Weverton, mais uma vez, foi o grande destaque e o melhor em campo. Sua atuação heroica foi crucial para manter o placar zerado, evitando o que poderia ter sido uma goleada para o adversário.\nAos 64 minutos, o técnico do Palestra Italia tentou mudar o cenário com uma série de substituições: Endrick entrou no lugar de Vitor Roque, Kevin na vaga de Leandro, Martinez substituiu Rohl, Luis Guilherme entrou no lugar de Maurício, e Muir assumiu a posição de Gómez. No entanto, as trocas não surtiram o efeito desejado.\nAo final do jogo, o técnico expressou sua irritação e frustração com o desempenho do time. Ele afirmou não entender o que está acontecendo e cobrou mais dedicação dos jogadores, ressaltando que o time não reproduz em campo o que é trabalhado nos treinos. O treinador fez questão de parabenizar a defesa pela solidez, mas não poupou críticas ao setor do meio-campo para frente, onde identificou 'muitos problemas' e uma falta de iniciativa dos jogadores para solucioná-los.\nO resultado e, principalmente, a atuação apagada do Palestra Italia ligam o sinal de alerta, e a expectativa é que a equipe consiga retomar o bom futebol em breve.",
         "logoTime": "/assets/img/times/united.png"
       }
@@ -1120,53 +1120,90 @@
       {
         "data": "2024-03-08",
         "adversario": "Crystal Palace",
-        "placar": "x-x",
+        "placar": "4-1",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": [
+          "Leandro 3'",
+          "Vitor Roque 20'",
+          "Martinez 87'",
+          "Leandro 89'"
+        ],
+        "assistenciasTime": ["Estevão", "Leandro", "Endrick", "Endrick"],
+        "golsAdversario": ["Mateta 36'"],
+        "jogadoresAmarelados": ["Olesen"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Leandro",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 67
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 67
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 67
+          },
+          {
+            "saiu": "Olesen",
+            "entrou": "Muir",
+            "minuto": 67
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 67
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [114, 115],
+        "descricaoPartida": "Em uma partida eletrizante e com um futebol de encher os olhos, o Palestra Italia goleou o Crystal Palace por 4 a 1, revertendo o placar de 0 a 0 do último confronto entre as equipes. O resultado demonstra uma evolução notável da equipe, que mostrou efetividade e um repertório ofensivo impressionante.\nO primeiro gol não demorou a sair, aos 3 minutos, com Leandro. Em uma jogada que parecia de videogame, com uma construção linda do Palestra, Estevão recebeu dentro da área e passa para Leandro, que finaliza no ângulo e o goleiro não consegue fazer nada.\nAos 20 minutos, Vitor Roque ampliou o placar. Em um contra-ataque rápido originado de um escanteio, Weverton lançou para Leandro, que correu até a área e serviu Vitor Roque, que apenas empurrou para o gol.\nNo entanto, o Crystal Palace conseguiu diminuir aos 36 minutos, com Mateta, aproveitando um erro de Gómez que o deixou livre na área. Olesen foi amarelado durante a partida.\nNa segunda etapa, o Palestra Italia manteve o ritmo e as substituições estratégicas do técnico foram cruciais para a manutenção do domínio. Aos 67 minutos, Endrick entrou no lugar de Vitor Roque, Luis Guilherme na vaga de Maurício, Martinez substituiu Rohl, Muir entrou no lugar de Olesen e Vergara assumiu a posição de Piquerez.\nO terceiro gol do Palestra veio aos 87 minutos, com Martinez. Após um escanteio, a bola sobrou para Endrick no fundo da linha direita, que cruzou rasteiro para o meio, e Martinez apareceu para finalizar e marcar.\nPara fechar a goleada com chave de ouro, aos 89 minutos, Leandro marcou seu segundo gol em uma jogada absolutamente linda do Palestra. Endrick recebeu a bola e rapidamente deu uma enfiada aérea certeira para Leandro dentro da área, que dominou e finalizou do outro lado do goleiro, marcando um golaço. O passe de Endrick foi descrito como 'absurdo' e 'lindo'.\nApesar de o Crystal Palace ter tido mais posse de bola (57% contra 43% do Palestra Italia) e mais finalizações (11 contra 9), o Palestra Italia foi muito mais efetivo, convertendo suas chances em gols.\nLeandro Gabriel foi o grande nome da partida, com uma atuação impecável e nota 10, sendo eleito o melhor em campo. Ele marcou 2 gols e deu 1 assistência. Endrick também brilhou, com 2 assistências, e junto com Danilo, jogou de 'terno', demonstrando um futebol de altíssimo nível.\nA vitória expressiva não só eleva a moral do time, mas também mostra a capacidade do Palestra Italia de criar jogadas e ser letal no ataque, prometendo mais emoções para os próximos jogos.",
         "logoTime": "/assets/img/times/crystalpalace.png"
       },
       {
         "data": "2024-03-15",
         "adversario": "Nottingham Forest",
-        "placar": "x-x",
+        "placar": "2-1",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Endrick 6'", "Estevão 20'"],
+        "assistenciasTime": ["Maurício", "Endrick"],
+        "golsAdversario": ["Hudson-Odoi 30'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Endrick",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Endrick",
+            "entrou": "Vitor Roque",
+            "minuto": 84
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Leandro",
+            "entrou": "Kevin",
+            "minuto": 84
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 84
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 84
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 84
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [116, 117],
+        "descricaoPartida": "Em um confronto equilibrado, mas com momentos de brilho do ataque, o Palestra Italia superou o Nottingham Forest por 2 a 1. A vitória teve um sabor especial, já que o time se vingou da derrota por 2 a 1 sofrida no último encontro entre as equipes. O jogo foi marcado pela efetividade do Palestra, apesar da posse de bola ligeiramente favorável ao adversário.\nA única mudança na escalação titular foi a entrada de Endrick no lugar de Vitor Roque, e o jovem atacante não demorou para mostrar seu valor. Logo aos 6 minutos, Endrick abriu o placar: Maurício foi até a linha de fundo e cruzou para o meio, onde Endrick dominou e finalizou rasteiro para o outro lado do gol, marcando um belo gol.\nO segundo gol do Palestra Italia veio aos 20 minutos, em uma jogada de muita qualidade que começou com Maurício. Ele tocou para Endrick na entrada da área, que fez uma enfiada precisa para Estevão. Estevão dominou a bola e chutou para o outro lado do goleiro, ampliando a vantagem.\nNo entanto, o Nottingham Forest conseguiu diminuir aos 30 minutos, com Hudson-Odoi, que aproveitou um erro da zaga do Palestra Italia e invadiu a área para marcar.\nNo segundo tempo, aos 84 minutos, o técnico do Palestra Italia realizou uma série de substituições para manter o ritmo e controlar o jogo: Vitor Roque entrou no lugar de Endrick, Kevin na vaga de Leandro, Sosa substituiu Estevão, Luis Guilherme entrou no lugar de Maurício e Muir assumiu a posição de Gómez.\nA partida terminou com um susto no último lance, quando Vitor Roque sofreu um pênalti. No entanto, o próprio Vitor Roque bateu mal a cobrança, e o goleiro adversário conseguiu fazer a defesa.\nApesar da vitória, a equipe teve pontos a ajustar. Estevão, por exemplo, perdeu três chances claras de gol, demonstrando que a efetividade na finalização ainda pode ser aprimorada.\nAs estatísticas do jogo refletem o equilíbrio, com 47% de posse de bola para o Palestra Italia contra 53% do Nottingham Forest. No entanto, o Palestra foi mais perigoso no ataque, com 9 finalizações contra 5 do adversário, o que se traduziu na vitória.\nIndividualmente, Endrick foi o grande destaque e eleito o melhor em campo, com 1 gol e 1 assistência. Estevão também marcou 1 gol, e Maurício contribuiu com 1 assistência. A vitória é crucial para o Palestra Italia, que segue buscando consolidar seu desempenho na temporada.",
         "logoTime": "/assets/img/times/forest.png"
       }
     ],
@@ -1174,131 +1211,211 @@
       {
         "data": "2024-04-02",
         "adversario": "Bournemouth",
-        "placar": "x-x",
+        "placar": "2-2",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque 27'", "Endrick 78'"],
+        "assistenciasTime": ["Estevão", "Maurício"],
+        "golsAdversario": ["Solanke 5'", "Kluivert 23'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Solanke",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 72
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
+            "saiu": "Olesen",
+            "entrou": "Muir",
+            "minuto": 72
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Sáez",
+            "minuto": 72
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 72
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
             "minuto": 72
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [120, 121],
+        "descricaoPartida": "Em uma partida com roteiro dramático, o Palestra Italia buscou um empate por 2 a 2 com o Bournemouth, revertendo uma desvantagem inicial. O jogo, que no último encontro havia terminado com vitória do Palestra por 1 a 0, desta vez exigiu resiliência da equipe para evitar a derrota. O Bournemouth teve maior controle da posse de bola, mas o Palestra Italia mostrou eficácia nos contra-ataques.\nO início da partida foi complicado para o Palestra. Logo aos 5 minutos, o Bournemouth abriu o placar em um pênalti polêmico. Após um toque de ombro de Giay no atacante adversário dentro da área, a arbitragem assinalou a penalidade. Solanke foi para a cobrança e converteu, colocando o Bournemouth na frente.\nA situação piorou aos 23 minutos, quando Kluivert ampliou para o Bournemouth. Ele invadiu a lateral da área, driblou toda a defesa do Palestra e finalizou no ângulo oposto, marcando um belo gol.\nNo entanto, o Palestra Italia não se entregou e diminuiu a vantagem aos 27 minutos com um golaço de Vitor Roque. Em uma linda construção de jogada do Palestra, Estevão passou para Vitor Roque na entrada da área. O atacante fez um giro rápido, invadiu a área e chutou, balançando as redes.\nNa segunda etapa, o técnico do Palestra Italia realizou uma série de substituições aos 72 minutos para tentar buscar o empate: Martinez entrou no lugar de Rohl, Muir no lugar de Olesen, Sáez na vaga de Giay, Sosa substituiu Estevão e Endrick entrou no lugar de Vitor Roque.\nAos 78 minutos, a aposta nas mudanças deu resultado com o gol de empate de Endrick. Maurício fez uma enfiada de bola precisa para Endrick, que recebeu e conseguiu se livrar da marcação do zagueiro com uma arrancada decisiva. Ele invadiu a área e chutou no canto oposto do goleiro, selando a igualdade no placar.\nAs estatísticas do jogo mostram que o Bournemouth teve maior controle, com 62% de posse de bola contra 38% do Palestra Italia, e mais finalizações (9 contra 2). Contudo, a efetividade do Palestra foi impressionante: suas apenas duas finalizações resultaram em dois gols.\nApesar do esforço para buscar o empate, Solanke foi eleito o melhor em campo, destacando sua importância para o Bournemouth, especialmente com o gol de pênalti. O resultado final de 2 a 2, embora um empate, representa uma importante reação do Palestra Italia, que mostrou força para se recuperar mesmo em desvantagem.",
         "logoTime": "/assets/img/times/bournemouth.png"
       },
       {
         "data": "2024-04-05",
         "adversario": "Wolverhampton",
-        "placar": "x-x",
+        "placar": "2-2",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque 34'", "Vitor Roque 64'"],
+        "assistenciasTime": ["Danilo", "Rohl"],
+        "golsAdversario": ["Hwang 23'", "Gomes 90'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Vitor Roque",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Kevin",
+            "entrou": "Sosa",
+            "minuto": 65
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 65
+          },
+          {
+            "saiu": "Olesen",
+            "entrou": "Vergara",
+            "minuto": 65
+          },
+          {
+            "saiu": "Muir",
+            "entrou": "Tloome",
+            "minuto": 65
+          },
+          {
+            "saiu": "Danilo",
+            "entrou": "Martinez",
+            "minuto": 65
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [122, 123],
+        "descricaoPartida": "Em um confronto que prometia ser a revanche, o Palestra Italia empatou em 2 a 2 com o Wolves, perdendo a vitória nos acréscimos. Após ter sido derrotado por 2 a 1 no último encontro, a equipe buscava a redenção, mas um erro defensivo no final impediu o triunfo. O jogo contou com a estreia de Tloome, zagueiro da base.\nAs alterações na escalação inicial foram notáveis, com Kevin entrando no lugar de Leandro e Muir no lugar de Gómez, ambos poupados devido ao cansaço.\nO Wolves abriu o placar aos 23 minutos em um lance de infelicidade do Palestra. Weverton errou na saída de bola, entregando-a para um atacante adversário. Embora tenha feito a defesa no primeiro chute, a bola sobrou para outro jogador do Wolves, que finalizou para o gol de Hwang.\nA reação do Palestra Italia veio aos 34 minutos com um belo gol de Vitor Roque. Em uma troca de passes envolvente com Danilo na entrada da área, Danilo segurou a bola e fez a enfiada perfeita para Vitor Roque, que finalizou e marcou.\nNo segundo tempo, aos 64 minutos, Vitor Roque voltou a balançar as redes, marcando um golaço. Rohl fez a enfiada para o atacante, que recebeu na entrada da área, fez um giro e chutou, virando o jogo para o Palestra.\nAos 65 minutos, o técnico promoveu uma série de substituições para gerenciar o ritmo da partida: Sosa entrou no lugar de Kevin, Luis Guilherme na vaga de Maurício, Vergara substituiu Olesen, Tloome estreou no lugar de Muir, e Martinez entrou no lugar de Danilo.\nNo entanto, a vitória escapou nos instantes finais. Aos 90 minutos, o jovem zagueiro da base Tloome, em sua estreia, cometeu um erro crucial. Em uma cabeçada dentro da área, ele entregou a bola para o adversário, que aproveitou a chance e, de voleio, marcou o gol do empate para o Wolves.\nVitor Roque foi, indiscutivelmente, o melhor em campo, com seus dois gols demonstrando sua capacidade de finalização e oportunismo. Rohl e Danilo também tiveram destaque com uma assistência cada. A partida, apesar do empate, foi um show de Vitor Roque, mas a frustração de ceder o resultado no último lance fica para o Palestra Italia.",
         "logoTime": "/assets/img/times/wolverhampton.png"
       },
       {
         "data": "2024-04-11",
         "adversario": "Chelsea",
-        "placar": "x-x",
-        "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "1-1",
+        "local": "Casa",
+        "golsTime": ["Leandro 45'"],
+        "assistenciasTime": ["Estevão"],
+        "golsAdversario": ["Mudryk 52'"],
+        "jogadoresAmarelados": ["Giay"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Leandro",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 67
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 67
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 67
+          },
+          {
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 67
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 67
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [124, 125, 126],
+        "descricaoPartida": "Em um Clássico do Reino Verde eletrizante, o Palestra Italia empatou em 1 a 1 com o Chelsea, seu maior rival. O resultado, em casa, teve um sabor especial para o Palestra, que conseguiu arrancar um ponto após ter perdido o confronto do primeiro turno por 2 a 0. A partida foi um belo espetáculo, com ambos os times criando chances e desperdiçando algumas oportunidades claras.\nO primeiro gol da partida veio no final do primeiro tempo, aos 45 minutos, com Leandro. Em uma jogada bem trabalhada, Estevão, que estava 'andando de terno' no meio-campo, encontrou Leandro sozinho. O atacante avançou até a entrada da área e finalizou com precisão para o fundo do gol, abrindo o placar para o Palestra Italia.\nNo segundo tempo, o Chelsea buscou o empate rapidamente, marcando aos 52 minutos com Mudryk. O jogador do Chelsea fez uma bela tabela com um companheiro, recebeu a bola sozinho e desferiu um chute colocado que foi direto para o fundo do gol, empatando a partida.\nDurante o jogo, Giay foi amarelado, o que o deixa suspenso para a próxima partida devido ao acúmulo de cartões.\nAos 67 minutos, o técnico do Palestra Italia realizou uma série de substituições para tentar mudar o panorama do jogo: Endrick entrou no lugar de Vitor Roque, Sosa na vaga de Estevão, Martinez substituiu Rohl, Vergara entrou no lugar de Piquerez e Muir assumiu a posição de Gómez.\nA posse de bola foi majoritariamente do Chelsea, com 59% contra 41% do Palestra Italia. Nas finalizações, o Chelsea também levou a melhor com 8 chutes, enquanto o Palestra teve 5. No entanto, a efetividade e a garra do Palestra foram notáveis para garantir o empate.\nLeandro foi o grande destaque da partida, sendo eleito o melhor em campo por seu gol crucial e sua constante movimentação. Além do gol, ele contribuiu com 1 assistência de Estevão.\nO empate no clássico, especialmente após a derrota no turno anterior, demonstra a evolução e a capacidade de reação do Palestra Italia em grandes jogos.",
         "logoTime": "/assets/img/times/chelsea.png"
       },
       {
         "data": "2024-04-19",
         "adversario": "Arsenal",
-        "placar": "x-x",
+        "placar": "0-1",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": [],
+        "assistenciasTime": [],
+        "golsAdversario": ["Rice 32'"],
+        "jogadoresAmarelados": ["Rohl"],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Rice",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 66
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Leandro",
+            "entrou": "Kevin",
+            "minuto": 66
+          },
+          {
+            "saiu": "Olesen",
+            "entrou": "Vergara",
+            "minuto": 66
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 66
+          },
+          {
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 66
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [127, 128, 129],
+        "descricaoPartida": "Em uma tarde de pouca inspiração e muitos erros, o Palestra Italia foi derrotado pelo Arsenal por 1 a 0 em seus domínios. A partida, que prometia ser uma chance de manter a boa fase, acabou em frustração, especialmente porque no último encontro o Palestra havia vencido por 1 a 0. Desta vez, nada pareceu funcionar para a equipe, que teve dificuldades em todos os setores.\nA única alteração na escalação titular foi a entrada de Sáez no lugar de Giay, que estava suspenso.\nO único gol da partida veio aos 32 minutos, com Rice. Em uma cobrança de falta, a zaga do Palestra Italia falhou, a bola sobrou para Rice, que finalizou rasteiro, tirando do goleiro e abrindo o placar para o Arsenal.\nNo segundo tempo, o técnico tentou mudar o cenário com uma série de substituições: Endrick entrou no lugar de Vitor Roque, Kevin na vaga de Leandro, Vergara substituiu Olesen, Muir entrou no lugar de Gómez e Luis Guilherme assumiu a posição de Maurício.\nDurante o jogo, Rohl foi amarelado e teve uma atuação abaixo do esperado, sendo um dos jogadores que não conseguiu se encontrar em campo.\nAs estatísticas refletem o domínio do Arsenal: 61% de posse de bola contra 39% do Palestra Italia, e 11 finalizações contra apenas 5 do time da casa. A criação de jogadas do Palestra foi praticamente nula, o que contribuiu para a atuação apagada.\nRice foi eleito o melhor em campo, coroando sua performance com o gol da vitória.\nPara completar a tarde difícil, o zagueiro Gómez demonstrou insatisfação com sua substituição precoce, resultando em uma discussão com o técnico Frank Ocean. Este incidente, somado ao desempenho em campo, acende um sinal de alerta para a equipe, que precisará se reagrupar para os próximos desafios.",
         "logoTime": "/assets/img/times/arsenal.png"
       },
       {
-        "data": "2024-04-26",
+        "data": "2024-04-29",
         "adversario": "Newcastle United",
-        "placar": "x-x",
-        "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "3-1",
+        "local": "Casa",
+        "golsTime": ["Estevão 27'", "Endrick 88'", "Maurício 90'"],
+        "assistenciasTime": ["Vitor Roque", "Estevão", "Estevão"],
+        "golsAdversario": ["Gordon 24'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Estevão",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 25
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 69
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 69
+          },
+          {
+            "saiu": "Luis Guilherme",
+            "entrou": "Maurício",
+            "minuto": 69
+          },
+          {
+            "saiu": "Gomez",
+            "entrou": "Muir",
+            "minuto": 69
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [141, 142, 143],
+        "descricaoPartida": "Em um jogo emocionante e de reviravoltas, o Palestra Italia superou o Newcastle por 3 a 1 em casa. A partida foi um verdadeiro espetáculo para os torcedores, com ambas as equipes mostrando bom futebol e criando diversas oportunidades. O resultado representa uma vitória importante para o Palestra, especialmente após o empate em 1 a 1 no último encontro entre os times.\nA partida começou com uma mudança na escalação, com Luis Guilherme entrando no lugar de Maurício. No entanto, logo aos 25 minutos, o Palestra Italia teve que realizar uma substituição forçada, com Vergara entrando no lugar de Piquerez, que infelizmente sofreu uma contusão no ombro e ficará fora por 5 dias.\nO Newcastle abriu o placar aos 24 minutos com Gordon, que chutou de fora da área e pegou Weverton adiantado, sem chances para o goleiro. No entanto, a resposta do Palestra Italia veio rápida, aos 27 minutos, com Estevão. Após uma enfiada de bola de Vitor Roque, Estevão avançou e, mesmo perdendo o alcance da bola sob pressão da defesa, conseguiu um chute rasteiro que encontrou o fundo do gol, empatando a partida.\nNa segunda etapa, o técnico promoveu quatro substituições aos 69 minutos para injetar novo gás na equipe: Endrick entrou no lugar de Vitor Roque, Martinez na vaga de Rohl, Maurício substituiu Luis Guilherme e Muir entrou no lugar de Gómez.\nAs mudanças surtiram efeito nos minutos finais. Aos 88 minutos, Endrick virou o jogo para o Palestra Italia. Estevão deu um passe espetacular para Endrick, que recebeu no meio da área, fez um giro rápido e chutou forte para o fundo do gol. A vitória foi selada aos 90 minutos por Maurício. Estevão, em mais uma jogada de brilho, driblou o lateral e enfiou a bola para Maurício, que invadiu a área pela lateral e avançou para o centro, finalizando no canto oposto do goleiro.\nO jogo foi equilibrado nas estatísticas, com o Palestra Italia registrando 56% de posse de bola contra 44% do Newcastle, e 7 finalizações contra 6 do adversário. A eficiência nas finalizações foi crucial para o resultado.\nO grande nome da partida foi Estevão, que teve uma atuação impecável e recebeu nota 10. Ele contribuiu com 1 gol e 2 assistências, sendo fundamental nos momentos decisivos. Vitor Roque também se destacou com 1 assistência, e tanto Endrick quanto Maurício marcaram 1 gol cada.\nApesar da preocupação com a lesão de Piquerez, a vitória no clássico demonstra a força e o poder de reação do Palestra Italia.",
         "logoTime": "/assets/img/times/newcastle.png"
       }
     ],
@@ -1306,105 +1423,167 @@
       {
         "data": "2024-05-03",
         "adversario": "Everton",
-        "placar": "x-x",
-        "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "placar": "1-3",
+        "local": "Casa",
+        "golsTime": ["Leandro 71'"],
+        "assistenciasTime": [],
+        "golsAdversario": ["Beto 42'", "Beto 60'", "Lindstrom 74'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Beto",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Piquerez",
+            "entrou": "Vergara",
+            "minuto": 59
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Martinez",
+            "minuto": 59
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Micael",
+            "minuto": 59
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [132, 133, 134],
+        "descricaoPartida": "Em uma partida que expôs as dificuldades atuais do time, o Palestra Italia foi derrotado pelo Everton por 3 a 1 em casa. O resultado é ainda mais preocupante, pois no último encontro entre as equipes, o Palestra também havia perdido por 2 a 0, indicando uma sequência negativa contra este adversário. O técnico Frank Ocean demonstrou grande insatisfação com a atuação dos jogadores, cobrando mais empenho e efetividade.\nA única mudança na escalação titular foi a entrada de Muir no lugar de Olesen, que estava suspenso.\nO Everton abriu o placar aos 42 minutos com um belo gol de Beto. Ele recebeu a bola e desferiu um chute colocado de falta da área, sem chances para o goleiro do Palestra Italia.\nNo intervalo, aos 45 minutos, o técnico do Palestra Italia realizou uma alteração, colocando Endrick no lugar de Vitor Roque.\nNo segundo tempo, aos 59 minutos, novas substituições foram feitas: Vergara entrou no lugar de Piquerez, Martinez na vaga de Rohl e Micael substituiu Gómez.\nLogo em seguida, aos 60 minutos, Beto marcou seu segundo gol na partida, ampliando a vantagem do Everton. Em um lance de escanteio, Beto recebeu a bola e bateu de voleio, marcando um golaço.\nO Palestra Italia conseguiu diminuir o placar aos 71 minutos com Leandro. Em um lance de pressão alta, Leandro roubou a bola dentro da área e finalizou com precisão, tirando do goleiro.\nNo entanto, a esperança de reação durou pouco. Aos 74 minutos, Lindstrom marcou o terceiro gol do Everton, aproveitando uma falha de Micael, que recebeu sozinho na área e bateu no canto do goleiro.\nApesar de um jogo equilibrado em termos de posse de bola (51% para o Everton e 49% para o Palestra Italia) e um número maior de finalizações do Palestra (12 contra 10 do Everton), a equipe não conseguiu converter suas chances. O técnico Frank Ocean expressou sua irritação em coletiva, afirmando que 'está faltando empenho dos jogadores' e que, para classificar para a Champions League, 'eles precisam correr mais e ser mais efetivos'.\nBeto foi eleito o melhor em campo, com seus dois gols decisivos para a vitória do Everton. Leandro marcou o único gol do Palestra Italia.\nA equipe do Palestra Italia enfrenta um momento de dificuldade para encontrar seu melhor futebol, e a cobrança do técnico indica a necessidade de uma mudança de postura para os próximos desafios.",
         "logoTime": "/assets/img/times/everton.png"
       },
       {
         "data": "2024-05-10",
         "adversario": "Brentford",
-        "placar": "x-x",
+        "placar": "1-0",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Vitor Roque 21'"],
+        "assistenciasTime": ["Piquerez"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Weverton",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Luis Guilherme",
+            "entrou": "Maurício",
+            "minuto": 45
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Estevão",
+            "entrou": "Kevin",
+            "minuto": 62
+          },
+          {
+            "saiu": "Vitor Roque",
+            "entrou": "Endrick",
+            "minuto": 70
+          },
+          {
+            "saiu": "Martinez",
+            "entrou": "Rohl",
+            "minuto": 70
+          },
+          {
+            "saiu": "Gómez",
+            "entrou": "Muir",
+            "minuto": 70
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [137, 138, 139],
+        "descricaoPartida": "O Palestra Italia conquistou uma vitória magra, mas crucial, por 1 a 0 sobre o Brentford em casa. Apesar do placar apertado, o resultado foi fundamental, especialmente considerando que a equipe havia vencido o último confronto por 3 a 1. A partida foi marcada por um risco calculado do Palestra, que priorizou a solidez defensiva, e pela atuação destacada do goleiro Weverton, eleito o melhor em campo.\nA única alteração na escalação inicial foi a entrada de Martinez no lugar de Rohl.\nO gol da vitória veio aos 21 minutos com Vitor Roque. Após receber um cruzamento preciso de Piquerez, Vitor Roque dominou a bola, avançou e finalizou no canto oposto do goleiro, colocando o Palestra Italia em vantagem.\nNo segundo tempo, o técnico realizou as primeiras alterações aos 45 minutos, com a entrada de Maurício no lugar de Luis Guilherme. Aos 62 minutos, Kevin substituiu Estevão. As últimas substituições aconteceram aos 70 minutos: Endrick entrou no lugar de Vitor Roque, Rohl retornou ao campo na vaga de Martinez, e Muir substituiu Gómez.\nA estratégia do Palestra Italia foi de abrir mão da posse de bola, controlada em 60% pelo Brentford contra 40% do time da casa. O número de finalizações também evidenciou a postura defensiva do Palestra, com apenas 2 chutes a gol contra 7 do Brentford. A mídia local chegou a questionar a estratégia, notando o risco de se contentar com uma vantagem tão pequena.\nNo entanto, a defesa do Palestra Italia teve uma atuação ilustre, fechando a porteira e garantindo o resultado. O brilho defensivo foi complementado pela performance espetacular de Weverton, que se destacou como o grande nome da partida, fazendo defesas importantes.\nNos bastidores, especula-se que as recentes declarações do técnico Frank Ocean sobre \"falta de empenho\" pudessem ser direcionadas a Maurício e Rohl, que tiveram seus nomes ligados a essa suspeita pela mídia.\nA vitória, apesar de tensa, garante os três pontos e a capacidade do time de Frank Ocean de superar desafios mesmo em atuações mais pragmáticas.",
         "logoTime": "/assets/img/times/brentford.png"
       },
       {
         "data": "2024-05-19",
         "adversario": "Leicester",
-        "placar": "x-x",
+        "placar": "2-0",
         "local": "Fora",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Maurício 19'", "Endrick 31'"],
+        "assistenciasTime": ["Endrick", "Leandro"],
+        "golsAdversario": [],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Endrick",
         "substituicoesTime": [
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 73
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 73
+          },
+          {
+            "saiu": "Rohl",
+            "entrou": "Rios",
+            "minuto": 73
+          },
+          {
+            "saiu": "Sobukwe",
+            "entrou": "Muir",
+            "minuto": 73
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Sáez",
+            "minuto": 73
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [],
+        "descricaoPartida": "O Palestra Italia garantiu uma vitória por 2 a 0 sobre o Leicester City em um jogo que, apesar da menor posse de bola, foi marcado pela segurança defensiva e a efetividade no ataque. A equipe demonstrou controle e pouca vulnerabilidade, garantindo mais três pontos importantes.\nA única alteração na equipe titular foi a entrada de Sobukwe no lugar de Gómez.\nO placar foi aberto aos 19 minutos por Maurício. Após receber um passe de Endrick, Maurício finalizou com um chute alto, que encontrou as redes do Leicester. A vantagem foi ampliada aos 31 minutos com um gol de Endrick. Leandro fez uma ótima enfiada de bola para Endrick, que invadiu a área e chutou no canto oposto do goleiro, consolidando a liderança do Palestra.\nNo segundo tempo, aos 73 minutos, o técnico promoveu uma série de substituições para manter o ritmo e controlar o jogo: Luis Guilherme entrou no lugar de Maurício, Sosa na vaga de Estevão, Rios substituiu Rohl, Muir entrou no lugar de Sobukwe e Sáez assumiu a posição de Giay.\nApesar de o Leicester City ter tido maior posse de bola (62% contra 38% do Palestra Italia), a equipe adversária não conseguiu converter essa superioridade em perigo real. Foram apenas 3 finalizações do Leicester contra 7 do Palestra, o que demonstra a solidez defensiva e a capacidade de organização do time. O jogo foi, de fato, relativamente tranquilo para o Palestra Italia.\nEndrick foi o melhor em campo, com uma performance destacada que incluiu 1 gol e 1 assistência. Leandro também contribuiu com 1 assistência, e Maurício marcou 1 gol.\nA vitória reforça a consistência do Palestra Italia e a capacidade de seu elenco, mesmo com rotações, de manter um alto nível de desempenho.",
         "logoTime": "/assets/img/times/leicester.png"
       },
       {
         "data": "2024-05-25",
         "adversario": "West Ham",
-        "placar": "x-x",
+        "placar": "5-1",
         "local": "Casa",
-        "golsTime": ["Jogador x", "Jogador y"],
-        "assistenciasTime": ["Jogador x", "Jogador y"],
-        "golsAdversario": ["Jogador x", "Jogador y"],
-        "jogadoresAmarelados": ["jogador_1", "jogador_4"],
-        "jogadoresExpulsos": ["jogador_7"],
+        "golsTime": ["Endrick 14'", "Endrick 27'", "Endrick 33'", "Endrick 77'", "Endrick 83'"
+        ],
+        "assistenciasTime": [ "Estevão", "Leandro", "Rohl", "Estevão", "Luis Guilherme"
+        ],
+        "golsAdversario": ["Pepe 11'"],
+        "jogadoresAmarelados": [],
+        "jogadoresExpulsos": [],
+        "craquePartida": "Endrick",
         "substituicoesTime": [
+
           {
-            "saiu": "jogador_9",
-            "entrou": "jogador_15",
-            "minuto": 60
+            "saiu": "Maurício",
+            "entrou": "Luis Guilherme",
+            "minuto": 63
           },
           {
-            "saiu": "jogador_11",
-            "entrou": "jogador_16",
-            "minuto": 72
+            "saiu": "Olesen",
+            "entrou": "Tloome",
+            "minuto": 63
+          },
+          {
+            "saiu": "Giay",
+            "entrou": "Sáez",
+            "minuto": 63
+          },
+          {
+            "saiu": "Estevão",
+            "entrou": "Sosa",
+            "minuto": 77
+          },
+          {
+            "saiu": "Kevin",
+            "entrou": "Rios",
+            "minuto": 77
           }
         ],
-        "noticiasRelacionadas": [101, 102],
-        "descricaoPartida": "",
+        "noticiasRelacionadas": [149,150,151,152],
+        "descricaoPartida": "Em uma atuação de gala, o Palestra Italia encerrou a temporada da Premier League com uma goleada histórica de 5 a 1 sobre o West Ham. A partida, que superou até mesmo o confronto contra o City, foi marcada pela incrível efetividade de Endrick, que teve uma performance lendária e foi o grande nome da noite.\nO jogo começou com um susto para o Palestra Italia. Aos 11 minutos, o West Ham abriu o placar com Pepe. Em uma jogada na área, Pepe chutou, o goleiro Weverton defendeu, mas o próprio Pepe aproveitou o rebote e marcou de cabeça.\nNo entanto, a reação do Palestra foi imediata e avassaladora. Aos 14 minutos, Endrick marcou seu primeiro gol. Após uma bela jogada de meio-campo, Estevão enfiou a bola para Endrick, que finalizou forte, sem chances para o goleiro. Aos 27 minutos, Endrick marcou o segundo. Rohl roubou a bola no meio, passou para Leandro, que deu uma enfiada perfeita para Endrick na entrada da área. O atacante chutou rasteiro e fraco, tirando do goleiro e marcando um golaço. O \"hat-trick\" veio aos 33 minutos: Rohl passou a bola para Endrick, que fez um giro espetacular, tirou o zagueiro da jogada e finalizou da entrada da área com um chute forte, marcando outro golaço.\nNo segundo tempo, o Palestra Italia continuou dominando. Aos 63 minutos, o técnico promoveu três substituições: Luis Guilherme entrou no lugar de Maurício, Tloome na vaga de Olesen, e Sáez substituiu Giay.\nA noite de Endrick não parou por aí. Aos 77 minutos, ele marcou seu quarto gol em um lance inusitado. Em uma cobrança de escanteio, Everton jogou a bola no alto para Estevão, que recebeu sozinho, driblou o zagueiro e até o goleiro. Com o gol vazio, Estevão recuou para Endrick, que apenas empurrou a bola para as redes. Após o gol, mais duas substituições foram realizadas: Sosa entrou no lugar de Estevão e Rios na vaga de Kevin. O show de Endrick foi fechado com um quinto gol aos 83 minutos. Luis Guilherme fez uma linda enfiada de bola para o atacante, que driblou os zagueiros, ficou sozinho na área e soltou uma bomba para o outro lado do gol.\nNas estatísticas, a partida foi equilibrada: 57% de posse de bola para o West Ham contra 43% do Palestra Italia, e 10 finalizações do West Ham contra 11 do Palestra. Porém, a efetividade do Palestra, especialmente de Endrick, foi o que definiu o placar elástico.\nEndrick foi o melhor em campo, com uma nota 10 e cinco gols em uma atuação que será lembrada como uma das melhores da história do clube. Danilo e Rohl comandaram o meio-campo com maestria, enquanto Estevão e Leandro atuaram como garçons, contribuindo com duas assistências e uma assistência, respectivamente. Luis Guilherme e Rohl também contribuíram com uma assistência cada. O zagueiro Gómez foi substituído por Sobukwe na única troca de titular.\nA partida marcou o fim da temporada da Premier League, e o Palestra Italia encerrou com chave de ouro. A atuação de Endrick serve como um aviso de que ele 'vai vir para comandar o ano que vem'. Foi também um momento de despedida. Vergara, uma ótima opção para a lateral, se aposentou do clube e, infelizmente, não pôde entrar em campo para se despedir. A vitória, além de histórica, foi um belo tributo à sua carreira. O Palestra Italia também havia goleado o West Ham por 4 a 0 no último encontro.",
         "logoTime": "/assets/img/times/westham.png"
       }
     ]
