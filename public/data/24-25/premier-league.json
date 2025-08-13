@@ -239,7 +239,10 @@
         "noticiasRelacionadas": [27, 28, 29, 30],
         "descricaoPartida": "O Palestra Itália conquistou mais uma vitória dramática fora de casa ao bater o Aston Villa por 2x1, com gol decisivo de Maurício aos 90 minutos, após contra-ataque iniciado por Leandro e Vitor Roque. O primeiro tempo foi complicado, com o adversário abrindo o placar aos 41 minutos após erro defensivo de Muir. No intervalo, Frank Ocean mudou o time, e as alterações surtiram efeito. Vitor Roque empatou aos 66 após tabela com Maurício e assistência de Estevão. Aos 90, Maurício marcou o gol da virada. Roque foi eleito melhor em campo com um gol e uma assistência. Estevão e Gómez tiveram atuações abaixo. Roque e Gómez foram incluídos na Seleção da Rodada da Premier League.",
         "logoTime": "/assets/img/times/astonvilla.png"
-      },
+      }
+      
+    ], 
+    "Outubro": [
       {
         "data": "2024-10-08",
         "adversario": "West Ham",
