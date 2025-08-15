@@ -3,7 +3,8 @@ interface ChampionshipTabsProps {
   onSelect: (championship: string) => void
 }
 
-const championships = ['Premier League', 'Copa da Inglaterra', 'Champions League']
+// **As abas agora batem com os arquivos mapeados em page.tsx**
+const championships = ['Premier League', 'Copa da Inglaterra', 'Carabao Cup']
 
 export function ChampionshipTabs({ selected, onSelect }: ChampionshipTabsProps) {
   return (
@@ -16,6 +17,8 @@ export function ChampionshipTabs({ selected, onSelect }: ChampionshipTabsProps) 
             className={`relative pb-2 text-sm md:text-base font-medium transition-colors duration-300 ease-in-out
               ${selected === name ? 'text-white' : 'text-gray-400 hover:text-white'}
             `}
+            aria-pressed={selected === name}
+            aria-label={`Selecionar ${name}`}
           >
             {name}
             <span

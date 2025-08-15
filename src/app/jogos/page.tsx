@@ -5,7 +5,7 @@ import { ChampionshipTabs } from '@/components/ChampionshipTabs'
 import { GameHighlightCard } from '@/components/cards/GameHighlightCard'
 import { MonthSection } from '@/components/MonthSection'
 import Header from '@/components/Header'
-import { GameDetailsModal } from '@/components/GameDetailsModal';
+import { GameDetailsModal } from '@/components/GameDetailsModal'
 
 // Interfaces completas para os tipos de dados
 type Game = {
@@ -15,22 +15,23 @@ type Game = {
   logoTime: string
   local?: string
   golsTime?: string[]
+  assistenciasTime?: string[]
   golsAdversario?: string[]
   jogadoresAmarelados?: string[]
   jogadoresExpulsos?: string[]
-  craquePartida?: string;
+  craquePartida?: string
   substituicoesTime?: Array<{ saiu: string; entrou: string; minuto: number }>
   noticiasRelacionadas?: number[]
   descricaoPartida?: string
 }
 
 type NewsItem = {
-  id: string;
-  autor: string;
-  titulo: string;
-  descricao: string;
-  data: string;
-  destaque: boolean;
+  id: string
+  autor: string
+  titulo: string
+  descricao: string
+  data: string
+  destaque: boolean
 }
 
 type ChampionshipData = {
@@ -38,122 +39,134 @@ type ChampionshipData = {
 }
 
 type Player = {
-  nome: string;
-  // ... outras propriedades do jogador
+  nome: string
 }
 
 type ElencoData = {
-  temporada: string;
+  temporada: string
   elenco: {
-    goleiros: Player[];
-    defensores: Player[];
-    meioCampistas: Player[];
-    atacantes: Player[];
-  };
+    goleiros: Player[]
+    defensores: Player[]
+    meioCampistas: Player[]
+    atacantes: Player[]
+  }
 }
 
-
+// **ALINHADO COM OS ARQUIVOS QUE VOCÊ TEM NA PASTA public/data/24-25/**
 const championshipFiles: Record<string, string> = {
   'Premier League': 'premier-league.json',
-  'Copa da Inglaterra': 'copa-da-inglaterra.json',
+  'Copa da Inglaterra': 'emirates-cup.json', // (FA Cup / Emirates FA Cup)
+  'Carabao Cup': 'carabao-cup.json',
   'Champions League': 'champions-league.json',
 }
 
 export default function JogosPage() {
-  const [selectedChampionship, setSelectedChampionship] = useState('Premier League')
+  const [selectedChampionship, setSelectedChampionship] = useState<keyof typeof championshipFiles>('Premier League')
   const [games, setGames] = useState<Record<string, Game[]>>({})
   const [lastGame, setLastGame] = useState<Game | null>(null)
   const [nextGame, setNextGame] = useState<Game | null>(null)
 
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
-  const [allNews, setAllNews] = useState<NewsItem[]>([]);
-  const [palestraPlayers, setPalestraPlayers] = useState<string[]>([]);
+  const [isModalOpen, setIsModalOpen] = useState(false)
+  const [selectedGame, setSelectedGame] = useState<Game | null>(null)
+  const [allNews, setAllNews] = useState<NewsItem[]>([])
+  const [palestraPlayers, setPalestraPlayers] = useState<string[]>([])
+  const [errorMsg, setErrorMsg] = useState<string | null>(null)
 
   const openModal = (game: Game) => {
-    setSelectedGame(game);
-    setIsModalOpen(true);
-  };
+    setSelectedGame(game)
+    setIsModalOpen(true)
+  }
 
   const closeModal = () => {
-    setIsModalOpen(false);
-    setSelectedGame(null);
-  };
+    setIsModalOpen(false)
+    setSelectedGame(null)
+  }
 
   useEffect(() => {
     async function fetchData() {
       try {
-        const resGames = await fetch(`/data/24-25/${championshipFiles[selectedChampionship]}`)
+        setErrorMsg(null)
+
+        const fileName = championshipFiles[selectedChampionship]
+        if (!fileName) {
+          throw new Error(`Arquivo do campeonato não mapeado: ${selectedChampionship}`)
+        }
+
+        // ---- CARREGA JOGOS ----
+        const resGames = await fetch(`/data/24-25/${fileName}`)
+        if (!resGames.ok) {
+          throw new Error(`Falha ao carregar ${fileName} (${resGames.status})`)
+        }
         const jsonGames: ChampionshipData = await resGames.json()
-        const calendario = jsonGames.calendario
+        const calendario = jsonGames?.calendario ?? {}
         setGames(calendario)
 
         const all = Object.values(calendario).flat()
 
-        const realizados = all.filter(j => j.placar !== 'x-x')
-        const futuros = all.filter(j => j.placar === 'x-x')
+        const realizados = all.filter((j) => j.placar && j.placar !== 'x-x')
+        const futuros = all.filter((j) => !j.placar || j.placar === 'x-x')
 
-        realizados.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
-
+        realizados.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime())
         setLastGame(realizados.at(-1) ?? null)
 
-        // --- LÓGICA PARA DETERMINAR O PRÓXIMO JOGO CORRETAMENTE ---
-        // Para fins de demonstração com os dados de 2024, vamos simular a data atual
-        // Se você estiver usando dados com anos mais recentes, pode mudar para:
-        // const now = new Date();
-        const now = new Date('2024-08-01T00:00:00'); // Simula a data como 1º de Agosto de 2024
-        now.setHours(0, 0, 0, 0); // Zera as horas para comparar apenas o dia
+        // Próximo jogo com base na data atual
+        const now = new Date()
+        now.setHours(0, 0, 0, 0)
 
-        const trulyFutureGames = futuros.filter(game => {
-          const gameDate = new Date(game.data);
-          gameDate.setHours(0, 0, 0, 0);
-          return gameDate.getTime() >= now.getTime();
-        });
+        const trulyFutureGames = futuros
+          .filter((game) => {
+            const gameDate = new Date(game.data)
+            gameDate.setHours(0, 0, 0, 0)
+            return gameDate.getTime() >= now.getTime()
+          })
+          .sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime())
 
-        trulyFutureGames.sort((a, b) => new Date(a.data).getTime() - new Date(b.data).getTime());
+        setNextGame(trulyFutureGames[0] ?? null)
 
-        setNextGame(trulyFutureGames[0] ?? null);
-        // --- FIM DA LÓGICA PARA DETERMINAR O PRÓXIMO JOGO CORRETAMENTE ---
+        // ---- CARREGA NOTÍCIAS ----
+        const resNews = await fetch('/data/24-25/noticias.json')
+        if (resNews.ok) {
+          const jsonNews: NewsItem[] = await resNews.json()
+          setAllNews(jsonNews)
+        } else {
+          setAllNews([])
+        }
 
-        const resNews = await fetch('/data/24-25/noticias.json');
-        const jsonNews: NewsItem[] = await resNews.json();
-        setAllNews(jsonNews);
+        // ---- CARREGA ELENCO ----
+        const resElenco = await fetch('/data/24-25/elenco.json')
+        if (resElenco.ok) {
+          const jsonElenco: ElencoData = await resElenco.json()
+          const normalizedPalestraNames = new Set<string>()
 
-        const resElenco = await fetch('/data/24-25/elenco.json');
-        const jsonElenco: ElencoData = await resElenco.json();
+          ;[
+            ...jsonElenco.elenco.goleiros,
+            ...jsonElenco.elenco.defensores,
+            ...jsonElenco.elenco.meioCampistas,
+            ...jsonElenco.elenco.atacantes,
+          ].forEach((player) => {
+            const name = player.nome.trim()
+            normalizedPalestraNames.add(name)
 
-        const normalizedPalestraNames = new Set<string>();
-        [
-          ...jsonElenco.elenco.goleiros,
-          ...jsonElenco.elenco.defensores,
-          ...jsonElenco.elenco.meioCampistas,
-          ...jsonElenco.elenco.atacantes,
-        ].forEach(player => {
-          const name = player.nome.trim();
-          normalizedPalestraNames.add(name);
+            const parts = name.split(' ')
+            if (parts.length > 0) normalizedPalestraNames.add(parts[0].trim())
+            if (parts.length > 1) normalizedPalestraNames.add(parts[parts.length - 1].trim())
+            if (parts.length > 1 && parts[0].endsWith('.')) {
+              normalizedPalestraNames.add(parts.slice(1).join(' ').trim())
+            }
+          })
 
-          const parts = name.split(' ');
-          if (parts.length > 0) {
-            normalizedPalestraNames.add(parts[0].trim());
-          }
-
-          if (parts.length > 1) {
-            normalizedPalestraNames.add(parts[parts.length - 1].trim());
-          }
-
-          if (parts.length > 1 && parts[0].endsWith('.')) {
-              normalizedPalestraNames.add(parts.slice(1).join(' ').trim());
-          }
-        });
-        setPalestraPlayers(Array.from(normalizedPalestraNames));
-
-      } catch (err) {
+          setPalestraPlayers(Array.from(normalizedPalestraNames))
+        } else {
+          setPalestraPlayers([])
+        }
+      } catch (err: any) {
         console.error('Erro ao carregar JSON:', err)
+        setErrorMsg(err?.message ?? 'Erro ao carregar dados')
         setGames({})
         setLastGame(null)
         setNextGame(null)
-        setAllNews([]);
-        setPalestraPlayers([]);
+        setAllNews([])
+        setPalestraPlayers([])
       }
     }
 
@@ -169,10 +182,13 @@ export default function JogosPage() {
         <Header />
 
         <main className="px-6 py-10 max-w-7xl mx-auto">
-          <ChampionshipTabs
-            selected={selectedChampionship}
-            onSelect={setSelectedChampionship}
-          />
+          <ChampionshipTabs selected={selectedChampionship} onSelect={setSelectedChampionship} />
+
+          {errorMsg && (
+            <p className="mb-6 text-center text-red-400">
+              {`Não foi possível carregar ${selectedChampionship}. Verifique o arquivo em /public/data/24-25/${championshipFiles[selectedChampionship]}.`}
+            </p>
+          )}
 
           {(lastGame || nextGame) ? (
             <div className="flex flex-col md:flex-row gap-6 justify-center mb-10">
@@ -227,12 +243,7 @@ export default function JogosPage() {
         </main>
       </div>
 
-      <GameDetailsModal
-        isOpen={isModalOpen}
-        onClose={closeModal}
-        game={selectedGame}
-        allNews={allNews}
-      />
+      <GameDetailsModal isOpen={isModalOpen} onClose={closeModal} game={selectedGame} allNews={allNews} />
     </div>
   )
 }
