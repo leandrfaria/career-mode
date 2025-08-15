@@ -1,8 +1,8 @@
-import Header from '@/components/Header';
-import LastMatchCard from '@/components/cards/LastMatchCard';
-import PlayerCard from '@/components/cards/PlayerCard';
-import NextMatchCard from '@/components/cards/NextMatchCard';
-import NewsCard from '@/components/cards/NewsCard';
+import Header from '@/components/Layout/Header';
+import LastMatchCard from '@/components/Games/LastMatchCard';
+import PlayerCard from '@/components/Players/PlayerCard';
+import NextMatchCard from '@/components/Games/NextMatchCard';
+import NewsCard from '@/components/News/NewsCard';
 
 export default function Home() {
   return (

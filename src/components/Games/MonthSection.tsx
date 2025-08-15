@@ -1,20 +1,23 @@
-// components/MonthSection.tsx
-import { GameCard } from "./cards/GameCard"
+import { GameCard } from "./GameCard"
+
 
 interface Game {
-  team: string
-  date: string
-  competition: string
-  score?: string
-  logoUrl: string
-  local?: string
-  golsTime?: string[]
-  golsAdversario?: string[]
-  jogadoresExpulsos?: string[]
-  onClick?: () => void; // <--- Adicione esta linha para incluir a prop onClick
-  descricaoPartida?: string; // Adicionado para ser repassado ao modal
-  noticiasRelacionadas?: number[]; // Adicionado para ser repassado ao modal
+  team: string;
+  date: string;
+  competition: string;
+  score?: string;
+  logoUrl: string;
+  local?: string;
+  golsTime?: string[];
+  golsAdversario?: string[];
+  jogadoresExpulsos?: string[];
+  craquePartida?: string;        
+  palestraPlayers?: string[];    
+  onClick?: () => void;
+  descricaoPartida?: string;
+  noticiasRelacionadas?: number[];
 }
+
 
 interface MonthSectionProps {
   month: string

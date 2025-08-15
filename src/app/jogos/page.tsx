@@ -1,11 +1,11 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { ChampionshipTabs } from '@/components/ChampionshipTabs'
-import { GameHighlightCard } from '@/components/cards/GameHighlightCard'
-import { MonthSection } from '@/components/MonthSection'
-import Header from '@/components/Header'
-import { GameDetailsModal } from '@/components/GameDetailsModal'
+import { ChampionshipTabs } from '@/components/Layout/ChampionshipTabs'
+import { GameHighlightCard } from '@/components/Games/GameHighlightCard'
+import Header from '@/components/Layout/Header'
+import { GameDetailsModal } from '@/components/Games/GameDetailsModal'
+import { MonthSection } from '@/components/Games/MonthSection'
 
 // Interfaces completas para os tipos de dados
 type Game = {

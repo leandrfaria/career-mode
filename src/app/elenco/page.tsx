@@ -1,8 +1,8 @@
 'use client'
 
 import { useEffect, useState } from "react"
-import PlayerStatCard from "@/components/cards/PlayerStatCard"
-import Header from "@/components/Header"
+import PlayerStatCard from "@/components/Players/PlayerStatCard"
+import Header from "@/components/Layout/Header"
 
 type Jogador = {
   imagem: string

@@ -1,10 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import Header from '@/components/Header';
-import { Carousel } from '@/components/Carousel'; // Importe o componente Carousel
-import { NewsCardHighlight } from '@/components/cards/NewCardHighlight';
-import { NewsCardHorizontal } from '@/components/cards/NewCardHorizontal';
+import Header from '@/components/Layout/Header';
+import { Carousel } from '@/components/Layout/Carousel'; // Importe o componente Carousel
+import { NewsCardHighlight } from '@/components/News/NewCardHighlight';
+import { NewsCardHorizontal } from '@/components/News/NewCardHorizontal';
 
 
 interface NewsItem {

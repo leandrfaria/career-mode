@@ -11,7 +11,7 @@ interface GameCardProps {
   golsAdversario?: string[];
   jogadoresExpulsos?: string[];
   craquePartida?: string;
-  palestraPlayers: string[];
+  palestraPlayers?: string[]; 
   onClick?: () => void;
 }
 
