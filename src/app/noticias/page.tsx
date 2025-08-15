@@ -1,11 +1,10 @@
-'use client'
+'use client';
 
 import { useEffect, useState } from 'react';
-import Header from '@/components/Layout/Header';
-import { Carousel } from '@/components/Layout/Carousel'; // Importe o componente Carousel
-import { NewsCardHighlight } from '@/components/News/NewCardHighlight';
 import { NewsCardHorizontal } from '@/components/News/NewCardHorizontal';
-
+import { NewsCardHighlight } from '@/components/News/NewCardHighlight';
+import Header from '@/components/Layout/Header';
+import { Carousel } from '@/components/News/NewsCarousel';
 
 interface NewsItem {
   id: string;
@@ -21,26 +20,29 @@ export default function NoticiasPage() {
   const [allNews, setAllNews] = useState<NewsItem[]>([]);
   const [highlightNews, setHighlightNews] = useState<NewsItem[]>([]);
   const [regularNews, setRegularNews] = useState<NewsItem[]>([]);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     async function fetchNews() {
       try {
-        const res = await fetch('/data/24-25/noticias.json');
+        setError(null);
+        const res = await fetch('/data/24-25/noticias.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const newsData: NewsItem[] = await res.json();
 
-        // Ordenar notícias por data (mais recente primeiro)
-        newsData.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+        newsData.sort(
+          (a, b) => new Date(b.data).getTime() - new Date(a.data).getTime()
+        );
 
-        // Separar notícias de destaque e notícias comuns
-        const highlights = newsData.filter(news => news.destaque);
-        const regulars = newsData.filter(news => !news.destaque);
+        const highlights = newsData.filter((n) => n.destaque);
+        const regulars = newsData.filter((n) => !n.destaque);
 
         setAllNews(newsData);
         setHighlightNews(highlights);
         setRegularNews(regulars);
-
-      } catch (err) {
+      } catch (err: any) {
         console.error('Erro ao carregar notícias:', err);
+        setError('Não foi possível carregar as notícias agora.');
         setAllNews([]);
         setHighlightNews([]);
         setRegularNews([]);
@@ -52,24 +54,23 @@ export default function NoticiasPage() {
 
   return (
     <div className="relative min-h-screen text-white">
-      {/* Fundo com imagem do estádio (mantendo o padrão das outras páginas) */}
+      {/* Fundo padrão */}
       <div className="fixed inset-0 -z-10 bg-[url('/assets/img/estadio/allianz1.jpg')] bg-top bg-no-repeat bg-cover" />
       <div className="fixed inset-0 -z-10 bg-black/80" />
 
-      {/* Conteúdo principal com scroll */}
       <div className="relative z-10">
         <Header />
 
         <main className="px-6 py-10 max-w-7xl mx-auto">
           <h1 className="text-3xl font-bold mb-8 text-center">Últimas Notícias</h1>
 
-          {/* Seção de Notícias de Destaque (Carrossel) */}
+          {/* Destaques em carrossel */}
           {highlightNews.length > 0 && (
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-6">Destaques</h2>
-              <Carousel itemsPerPage={3}> {/* Mostra 3 itens por vez no carrossel */}
-                {highlightNews.map(news => (
-                  <div key={news.id} className="p-2"> {/* Adiciona padding para espaçamento entre os cards no carrossel */}
+              <Carousel itemsPerPage={3}>
+                {highlightNews.map((news) => (
+                  <div key={news.id} className="px-2">
                     <NewsCardHighlight {...news} />
                   </div>
                 ))}
@@ -77,20 +78,23 @@ export default function NoticiasPage() {
             </section>
           )}
 
-          {/* Seção de Notícias Comuns (Layout Horizontal) */}
+          {/* Outras notícias em grid */}
           {regularNews.length > 0 && (
             <section>
               <h2 className="text-2xl font-bold mb-6">Outras Notícias</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6"> {/* Layout de duas colunas em telas maiores */}
-                {regularNews.map(news => (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {regularNews.map((news) => (
                   <NewsCardHorizontal key={news.id} {...news} />
                 ))}
               </div>
             </section>
           )}
 
-          {allNews.length === 0 && (
+          {(allNews.length === 0 && !error) && (
             <p className="text-center text-gray-400">Nenhuma notícia encontrada.</p>
+          )}
+          {error && (
+            <p className="mt-6 text-center text-red-300">{error}</p>
           )}
         </main>
       </div>

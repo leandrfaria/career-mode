@@ -12,11 +12,16 @@ interface NewsCardHorizontalProps {
 }
 
 function formatDateCard(dateString: string): string {
-  const date = new Date(dateString);
-  const day = date.getDate().toString().padStart(2, '0');
-  const month = date.toLocaleString('pt-BR', { month: 'short' }).replace('.', '');
+  const d = new Date(dateString);
+  const isValid = !isNaN(d.getTime());
+  if (!isValid) return dateString;
+
+  const day = d.getDate().toString().padStart(2, '0');
+  const month = d
+    .toLocaleString('pt-BR', { month: 'short' })
+    .replace('.', '');
   const capitalizedMonth = month.charAt(0).toUpperCase() + month.slice(1);
-  const year = date.getFullYear();
+  const year = d.getFullYear();
   return `${day} ${capitalizedMonth} de ${year}`;
 }
 
@@ -27,19 +32,22 @@ export function NewsCardHorizontal({
   imageUrl,
   autor,
 }: NewsCardHorizontalProps) {
+  const hasImage = Boolean(imageUrl && imageUrl.trim().length > 0);
+
   return (
-    <div className="bg-[#1e1e1e] rounded-lg shadow-md flex flex-col sm:flex-row items-center overflow-hidden text-white w-full">
-      {imageUrl && (
-        <div className="relative w-full sm:w-48 h-40 sm:h-auto flex-shrink-0">
+    <div className="bg-[#1e1e1e] rounded-lg shadow-md flex flex-col sm:flex-row items-stretch overflow-hidden text-white w-full">
+      <div className="relative w-full sm:w-48 h-48 sm:h-auto flex-shrink-0">
+        {hasImage && (
           <Image
-            src={imageUrl}
+            src={imageUrl as string}
             alt={titulo}
-            layout="fill"
-            objectFit="cover"
-            className="rounded-t-lg sm:rounded-l-lg sm:rounded-t-none"
+            fill
+            sizes="(max-width: 640px) 100vw, 192px"
+            className="object-cover"
           />
-        </div>
-      )}
+        )}
+      </div>
+
       <div className="p-4 flex-1">
         <p className="text-xs text-gray-400 mb-1">{autor}</p>
         <h3 className="text-lg font-bold mb-2 leading-tight line-clamp-2">
@@ -56,3 +64,5 @@ export function NewsCardHorizontal({
     </div>
   );
 }
+
+export default NewsCardHorizontal;
